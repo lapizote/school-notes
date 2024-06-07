@@ -1,0 +1,2 @@
+- chicago 7th ed - note-bibliography system
+- double space
