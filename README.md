@@ -1,6 +1,12 @@
 ### Instructions
 ---
-Alternatively, just open the PDF folder to view the finals notes. PDFs 
+To use this with Obsidian, do
+```sh
+git clone https://github.com/axl2468/school-notes.git
+```
+then open the resulting folder as a vault in Obsidian.
+
+Alternatively, just open the PDF folder to view the final notes (lol). Can't get PDFs to support linking yet, though (will try to fix this later).
 ### TODO
 ---
 1. Export PDFs of:
