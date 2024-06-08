@@ -21,6 +21,11 @@ while the imaginary part of $z$ can be determined through
 $$Im(z) = y$$
 **Example**
 Given imaginary number $z_1 = 2+3i$,
-$$Re(z_1) = 2$$
-$$Im(z_1) = 3$$
+$$
+\begin{aligned}
+	Re(z_1) = 2 \\
+	Im(z_1) = 3
+\end{aligned}
+$$
 Similar to regular numbers, [[Arithmetic Operations of Complex Numbers|basic arithmetic operations]] can be done on complex numbers.
+
