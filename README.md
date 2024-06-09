@@ -11,10 +11,11 @@ Alternatively, just open the PDF folder to view the final notes (lol). Can't get
 ---
 1. Export PDFs of:
 	- PHYS 111
-		- [ ] Complex Numbers
-		- [ ] Arithmetic Operations of Complex Numbers
-2. Complete notes for:
+		- [x] 1-1 Complex Numbers
+		- [x] 1-2 Arithmetic Operations of Complex Numbers
+		- [ ] 1-3 Complex (Argand Plane)
+1. Complete notes for:
 	- PHYS 111
-		- [x] Complex Numbers
-		- [x] Arithmetic Operations of Complex Numbers
-		- [ ] Complex (Argand) Plane
+		- [x] 1-1 Complex Numbers
+		- [x] 1-2 Arithmetic Operations of Complex Numbers
+		- [ ] 1-3 Complex (Argand) Plane

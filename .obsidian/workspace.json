@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0de2173591cdf6c9",
+        "id": "dd3aefa55185703c",
         "type": "tabs",
         "children": [
           {
-            "id": "e1f238649e76ca0d",
+            "id": "5db4c5c768983026",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ea28cedd9dc0a91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GER 11/3 - Introducing Oneself.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "335e6d3bb5ef01bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GER 11/2 - Greetings and Farewell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "GER 11/3 - Introducing Oneself.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "GER 11/3 - Introducing Oneself.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "GER 11/3 - Introducing Oneself.md"
               }
             }
           }
@@ -146,16 +171,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1f238649e76ca0d",
+  "active": "9ea28cedd9dc0a91",
   "lastOpenFiles": [
-    "PHYS 111/Complex Numbers.md",
-    "PHYS 111/Complex (Argand) Plane.md",
-    "PHYS 111/Arithmetic Operations of Complex Numbers.md",
-    "pdf/PHYS111/Arithmetic Operations of Complex Numbers.pdf",
+    "GER 11/2 - Greetings and Farewell.md",
+    "GER 11/3 - Introducing Oneself.md",
+    "GER 11/1 - Common Phrases in German Class.md",
     "README.md",
-    "pdf/PHYS111/Complex Numbers.pdf",
+    "PHYS 111/1-2 Arithmetic Operations of Complex Numbers.md",
+    "PHYS 111/1-3 Complex (Argand) Plane.md",
+    "PHYS 111/1-1 Complex Numbers.md",
+    "pdf/PHYS111/1-2 Arithmetic Operations of Complex Numbers.pdf",
+    "pdf/PHYS111/1-1 Complex Numbers.pdf",
+    "GER 11",
+    "ArtApp/Untitled.md",
+    "Rationalizing the Denominator.md",
     "pdf/PHYS111",
-    "pdf",
-    "ArtApp/Untitled.md"
+    "pdf"
   ]
 }
