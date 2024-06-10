@@ -19,3 +19,7 @@ Alternatively, just open the PDF folder to view the final notes (lol). Can't get
 		- [x] 1-1 Complex Numbers
 		- [x] 1-2 Arithmetic Operations of Complex Numbers
 		- [ ] 1-3 Complex (Argand) Plane
+	- GER 11
+		- [x] 1 - Common Phrases
+		- [x] 2 - Greetings and Farewells
+		- [x] 3 - Introducing Oneself & Others
