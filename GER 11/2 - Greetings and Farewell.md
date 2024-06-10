@@ -1,4 +1,4 @@
-### (Alt Title: Begrüßung und Abschied)
+## (Alt Title: Begrüßung und Abschied)
 ### Greetings
 ---
 
@@ -12,3 +12,6 @@
 - Gute Nacht: Good night
 - Auf wiedersehen: Goodbye (if formal)
 - Tschüs: Goodbye (if informal)
+
+Willkommen (Welcome) - Bis später (See you later)
+Auf wiederhören! (Telephone goodbye)
