@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "068203598bd3badb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.3"
+              }
+            }
+          },
+          {
             "id": "335e6d3bb5ef01bb",
             "type": "leaf",
             "state": {
@@ -44,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,12 +181,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ea28cedd9dc0a91",
+  "active": "068203598bd3badb",
   "lastOpenFiles": [
     "GER 11/2 - Greetings and Farewell.md",
-    "GER 11/3 - Introducing Oneself.md",
     "GER 11/1 - Common Phrases in German Class.md",
     "README.md",
+    "GER 11/3 - Introducing Oneself.md",
     "PHYS 111/1-2 Arithmetic Operations of Complex Numbers.md",
     "PHYS 111/1-3 Complex (Argand) Plane.md",
     "PHYS 111/1-1 Complex Numbers.md",
