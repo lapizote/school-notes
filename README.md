@@ -14,8 +14,8 @@ Alternatively, just open the PDF folder to view the final notes (lol). Can't get
 		- [x] 1-1 Complex Numbers
 		- [x] 1-2 Arithmetic Operations of Complex Numbers
 		- [ ] 1-3 Complex (Argand Plane)
-		- [ ] 1-4 Complex Conjugates
-		- [ ] 1-5 Polar Graphs
+		- [x] 1-4 Complex Conjugates
+		- [x] 1-5 Polar Graphs
 		- [ ] 1-6 Proof for Euler's Formula
 		- [ ] 1-7 Finding roots of complex numbers
 1. Complete notes for:
