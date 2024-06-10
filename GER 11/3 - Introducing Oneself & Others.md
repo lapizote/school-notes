@@ -1,4 +1,4 @@
-### (Alt Title: Sich vorstellen &  Andere vorstellen)
+### (Alt Title: Sich vorstellen & Andere vorstellen)
 
 #### Introducing Yourself
 Formal:
@@ -7,7 +7,7 @@ Formal:
 	- Wer sind Sie?
 	- Wie ist Ihr Name?
 - Saying Name - Answer (Antwort):
-	- Ich heißt (name).
+	- Ich heiße (name).
 	- Ich bin (name).
 	- Mein Name ist (name).
 Informal:
