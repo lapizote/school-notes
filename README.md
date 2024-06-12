@@ -6,7 +6,7 @@ git clone https://github.com/axl2468/school-notes.git
 ```
 then open the resulting folder as a vault in Obsidian.
 
-Alternatively, just open the PDF folder to view the final notes (lol). Can't get PDFs to support linking yet, though (will try to fix this later).
+Alternatively, just open the PDF folder to view the final notes (lol). PDFs dont support linking between different files like Obsidian, though.
 ### TODO
 ---
 1. Export PDFs of:
@@ -22,7 +22,7 @@ Alternatively, just open the PDF folder to view the final notes (lol). Can't get
 	- PHYS 111
 		- [x] 1-1 Complex Numbers
 		- [x] 1-2 Arithmetic Operations of Complex Numbers
-		- [ ] 1-3 Complex (Argand) Plane
+		- [x] 1-3 Complex (Argand) Plane
 		- [x] 1-4 Complex Conjugates
 		- [x] 1-5 Polar Graphs
 		- [ ] 1-6 Proof for Euler's Formula

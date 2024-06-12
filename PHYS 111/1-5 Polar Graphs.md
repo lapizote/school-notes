@@ -1,4 +1,17 @@
+**Note: Uses desmos-generated graphs, if you are using Obsidian make sure you have internet.**
+
 Similar to regular cartesian coordinates, complex numbers may be represented in polar form.
+
+For example, given $z=1+i$:
+```desmos-graph
+left=-3; right=3; top=3; bottom=-3;
+degreeMode = degrees;
+---
+	r=0.5|blue|0<=\theta<=45
+	(0.5*\cos(45),0.5*\sin(45))|blue|open|label:`45°`
+	y=x|blue|dashed|0<=y<=1
+	(1,1)|blue|label:`1+i`
+```
 
 Given $z = x+iy$, we can then use the following properties:
 
@@ -30,7 +43,10 @@ We can use Euler's formula $e^{i\theta} = \cos\theta + i\sin\theta$ ([[1-6 Proof
 $$
 z = re^{i\theta}.
 $$
-
+So the exponential polar form (which is commonly a preferred form of polar complex numbers) for $1+i$ would be
+$$
+z=\sqrt{2}e^{i(45\degree)}.
+$$
 #### Additional Info
 This form makes it easier to do exponential equations. For example,
 $$(\sqrt{2}e^{i45\degree})^6$$
