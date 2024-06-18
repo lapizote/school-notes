@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS 111/Module 2/2-4 Unit Vectors.md",
+                "file": "PHYS 111/Module 2/2-3 Dot Product.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 111/Module 2/2-4 Unit Vectors.md",
+                "file": "PHYS 111/Module 2/2-3 Dot Product.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYS 111/Module 2/2-4 Unit Vectors.md",
+                "file": "PHYS 111/Module 2/2-3 Dot Product.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 111/Module 2/2-4 Unit Vectors.md"
+                "file": "PHYS 111/Module 2/2-3 Dot Product.md"
               }
             }
           }
@@ -160,10 +160,10 @@
   },
   "active": "068203598bd3badb",
   "lastOpenFiles": [
+    "PHYS 111/Module 2/2-4 Unit Vectors.md",
     "PHYS 111/Module 2/2-3 Dot Product.md",
     "PHYS 111/Module 2/2-2 Vector Addition.md",
     "PHYS 111/Module 2/2-1 Vectors.md",
-    "PHYS 111/Module 2/2-4 Unit Vectors.md",
     "PHYS 111/Module 1/1-1 Complex Numbers.md",
     "PHYS 111/Module 2",
     "PHYS 111/Untitled.md",
