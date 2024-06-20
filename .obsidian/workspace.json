@@ -49,38 +49,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - Alphabet.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b14023e04ed386eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GER 11/3 - Introducing Oneself & Others.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fdf4a76fcf2e0d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "ArtApp/3 -.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -157,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "ArtApp/3 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "ArtApp/3 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "ArtApp/3 -.md"
               }
             }
           }
@@ -207,29 +183,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9fdf4a76fcf2e0d9",
+  "active": "cadae35f12198679",
   "lastOpenFiles": [
+    "ArtApp/2 - Welcome to Hell - Part 1.md",
+    "ArtApp/3 -.md",
+    "ArtApp/Untitled.md",
     "GER 11/3 - Introducing Oneself & Others.md",
-    "conflict-files-obsidian-git.md",
+    "GER 11/Prefixes.md",
     "PHYS 111/Module 2/2-4 Unit Vectors.md",
     "PHYS 111/Module 2/2-3 Dot Product.md",
     "PHYS 111/Module 2/2-2 Vector Addition.md",
     "PHYS 111/Module 2/2-1 Vectors.md",
+    "PHYS 111/Module 1/1-4 Complex Conjugates.md",
+    "PHYS 111/Module 1/1-1 Complex Numbers.md",
+    "4 - Alphabet.md",
+    "conflict-files-obsidian-git.md",
     "PHYS 111/Module 2",
     "PHYS 111/Module 1/1-7 Finding roots of complex numbers.md",
     "PHYS 111/Module 1/1-6 Proof for Euler's Formula.md",
     "PHYS 111/Module 1/1-5 Polar Graphs.md",
-    "PHYS 111/Module 1/1-4 Complex Conjugates.md",
     "PHYS 111/Module 1/1-3 Complex (Argand) Plane.md",
     "PHYS 111/Module 1/1-2 Arithmetic Operations of Complex Numbers.md",
-    "PHYS 111/Module 1/1-1 Complex Numbers.md",
     "PHYS 111/Module 1",
     "Untitled.md",
-    "4 - Alphabet.md",
     "GER 11/2 - Greetings and Farewell.md",
     "pdf/GER11/2 - Greetings and Farewell.pdf",
     "pdf/GER11/1 - Common Phrases in German Class.pdf",
-    "ArtApp/2 - Welcome to Hell - Part 1.md",
     "resources/photos/vector-subtraction.png",
     "resources/photos/vector-addition.png",
     "resources/photos/pset1pic1.png",
@@ -244,9 +223,6 @@
     "PHYS 111/1-6 Proof for Euler's Formula.md",
     "PHYS 111/1-5 Polar Graphs.md",
     "PHYS 111/1-4 Complex Conjugates.md",
-    "ArtApp/1 - Introduction.md",
-    "ArtApp/Untitled.md",
-    "ArtApp/Untitled 1.md",
-    "\"ArtApp/test\".md"
+    "ArtApp/1 - Introduction.md"
   ]
 }
