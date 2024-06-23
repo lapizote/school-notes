@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS 111/Module 2/2-6 Parametric Equations of a Vector.md",
+                "file": "PHYS 111/Module 2/2-4 Unit Vectors.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 111/Module 2/2-6 Parametric Equations of a Vector.md",
+                "file": "PHYS 111/Module 2/2-4 Unit Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYS 111/Module 2/2-6 Parametric Equations of a Vector.md",
+                "file": "PHYS 111/Module 2/2-4 Unit Vectors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 111/Module 2/2-6 Parametric Equations of a Vector.md"
+                "file": "PHYS 111/Module 2/2-4 Unit Vectors.md"
               }
             }
           }
@@ -148,21 +148,24 @@
   },
   "active": "335e6d3bb5ef01bb",
   "lastOpenFiles": [
-    "PHYS 111/Module 2/2-3 Dot Product.md",
-    "PHYS 111/Module 2/2-4 Unit Vectors.md",
-    "PHYS 111/Module 2/2-6 Parametric Equations of a Vector.md",
     "PHYS 111/Module 2/2-5 Cross Product.md",
+    "PHYS 111/Module 2/2-7 Equation of a Plane.md",
+    "GER 11/1 - Common Phrases in German Class.md",
     "GER 11/2 - Greetings and Farewell.md",
+    "GER 11/3 - Introducing Oneself & Others.md",
+    "ArtApp/3 - Reading the Image & Structuralism.md",
+    "PHYS 111/Module 2/2-6 Parametric Equations of a Vector.md",
     "PHYS 111/Module 2/2-2 Vector Addition.md",
+    "PHYS 111/Module 2/2-3 Dot Product.md",
+    "PHYS 111/Module 2/2-1 Vectors.md",
+    "PHYS 111/Module 2/2-4 Unit Vectors.md",
+    "resources/photos/module 2/plane1.PNG",
+    "resources/photos/module 2",
     "conflict-files-obsidian-git.md",
     "Untitled.md",
     "GER 11/Prefixes.md",
-    "ArtApp/3 - Reading the Image & Structuralism.md",
     "4 - Alphabet.md",
-    "GER 11/1 - Common Phrases in German Class.md",
-    "GER 11/3 - Introducing Oneself & Others.md",
     "ArtApp/2 - Welcome to Hell - Part 1.md",
-    "PHYS 111/Module 2/2-1 Vectors.md",
     "PHYS 111/Module 1/1-1 Complex Numbers.md",
     "PHYS 111/Module 2",
     "PHYS 111/Untitled.md",
@@ -174,8 +177,6 @@
     "PHYS 111/Module 1/1-3 Complex (Argand) Plane.md",
     "PHYS 111/Module 1/1-4 Complex Conjugates.md",
     "PHYS 111/Module 1/1-2 Arithmetic Operations of Complex Numbers.md",
-    "ArtApp/Untitled.md",
-    "ArtApp/1 - Introduction.md",
     "pdf/PHYS111/Problem Set 1.pdf",
     "pdf/PHYS111/1-5 Polar Graphs.pdf",
     "pdf/PHYS111/1-4 Complex Conjugates.pdf",
@@ -185,7 +186,6 @@
     "resources/photos/vector-subtraction.png",
     "resources/photos/vector-subtraction.png.crdownload",
     "resources/photos/vector-addition.png",
-    "resources/photos/vector-addition.png.crdownload",
-    "resources/photos"
+    "resources/photos/vector-addition.png.crdownload"
   ]
 }
