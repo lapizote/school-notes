@@ -1,20 +1,19 @@
 ### (Alt Title: Sich vorstellen & Andere vorstellen)
 
 #### Introducing Yourself
-Formal:
 - Asking for Name - Question (Frage):
-	- Wie heißen Sie?
-	- Wer sind Sie?
-	- Wie ist Ihr Name?
+	- Formal:
+		- Wie heißen Sie?
+		- Wer sind Sie?
+		- Wie ist Ihr Name?
+	- Informal:
+		- Wie heißt du?
+		- Wer bist du?
+		- Wie ist dein Name?
 - Saying Name - Answer (Antwort):
 	- Ich heiße (name).
 	- Ich bin (name).
 	- Mein Name ist (name).
-Informal:
-- Asking for Name - Question (Frage):
-	- Wie heißt du?
-	- Wer bist du?
-	- Wie ist dein Name?
 
 ? - Fragezeichen
 . - Punkt

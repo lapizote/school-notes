@@ -77,13 +77,123 @@ What is significant form?:
 #### Art as Auratic
 (Walter Benjamin)
 - My love, my pookie bear, my everything
-- "The Work of Art in the Age of Reproduction"
+- "The Work of Art in the Age of Mechanical/Technological Reproduction"
 - The reproducibility of artworks has caused their aura to decline
 - Distinguishes:
 	- Cult Value
 		- Its place within a cult as a unique object hidden from view
+		- "Gatekept"
 	- Exhibition Value
 		- Its worth as an object accessible to all
 - The cult value *recedes* in favor of its exhibition value
 - +10000000000 aura
 - The moment you take a photo (or reproduce it), it reduces the "aura" of the art
+	- Takes it from the space of the cult value into the space of exhibition value
+- Inspired by Das Kapital (Karl Marx)
+	- Value in a capitalist society -> you want it, you *need* it
+	- In a capitalist society: you need to keep producing
+	- Exhibition Value -> Art is in the market already
+- Benjamin preferred prioritizing exhibition value
+	- Art is dialectic
+	- Exhibit in service of the masses
+- Benjamin preferred prioritizin
+#### Art as Liberatory
+(Theodor Adorno)
+- Requirements for art to be liberatory:
+	- Source of entertainment (lightheartedness)
+	- Source of seriousness (revolutionary)
+- Art is dialectic (like Benjamin)
+- In defense of personal and collective interests
+#### Art as Indefinable
+(Morris Weitz)
+- Inspired by philosopher Ludwig Polz(?)
+	- To understand language and words within that language, you must look at the family tree (and its resemblances in that tree)
+- "Philosophical Investigations"
+- Multiple similar yet also different definitions and understanding
+- Art is forever undefinable today and in the future
+	- Infinite quantity of descriptions of what art is
+- Art should be understood as an "open concept"
+#### Art as Exemplification
+(Nelson Goodman)
+- Linguist, formalist
+- When is art?
+	- When it is a painting that hangs at a museum?
+	- etc?
+- Art possesses symbolic qualities in different concepts
+- Not as formalist as Clive - has a sense of fluidity
+#### Art as Theory & Institution
+(Arthur Danto & George Dickie, respectively)
+Arthur Danto:
+- Indistinguishable counterpart
+	- Why is (Object A) art while (Object B) just a household item?
+	- Andy Warhol (Brillo box) (the box can fulfill both the roles of Object A and Object B)
+- The aforementioned is present because of the presence of theory in the art world
+- Art world
+	- Us people playing a role in that space
+	- Requires education (e.g. art history, etc.)
+	- Art becomes art when it is subjected to theory
+Georgie Dickie:
+- The art world is a social institution
+	- We are propelled to continue preserving current art traditions/practices
+	- Teaching, talking about art, buying and selling art, etc.
+- E.g. Urinal became art when it was signed
+	- Fountain - Marcel Duchamp (signed R. Mutt)
+- Art becomes art when it is defined as art
+#### Art as Aesthetic Production
+(Monroe C. Beardsley)
+- Formalist (Clive Bell-ish)
+- To consider a work of art:
+	- What is the aesthetic interest of the audience?
+	- Art become art when that aesthetic interest is met (when it is on the market)
+- Its not the object, its the interest
+	- Crucial in selection process
+	- Perspective of a historian: what works will you preserve and write about?
+#### Art as Make-Believe
+(Kendall Walton)
+- Encourages readers to imagine what we had when we were children playing games
+	- Props structure a child's play
+	- Without a prop, no imaginative process, no worldbuilding
+	- Psychology-related (not really connected to art tho??? - Arielle)
+- Given example thru Mona Lisa:
+	- Gesture of hand on the other hand
+	- The hand is a prop (without this, we would not be able to perceive the painting of the woman)
+	- ?????????????????????????????????????
+#### Art as Fetish
+(Adrien Piper)
+- Attacks Benjamin's philosophy
+- Art can only be encountered as separate from everyday things
+	- Something to be fetishized
+- In defense of performance art
+	- Smallest audience member - required to keep the essence
+- Exclusivity and selectivity
+#### Art as Feminism
+(Carolyn Korsmeyer)
+- Art is craft - items that existed in the lives of women
+- Slogan of 2nd Wave Feminism: "Personal is Political"
+- They need to be seen (in all of their facets) to be understood
+#### Art as Cultural Production
+(Pierre Bo?)
+- Marxist
+- Labor in producing the object must be the same as the value of it in the market
+- Does not give a definition, only shows the truth (to be an artist, you need to accept that labour will always be inferior)
+- the artist is disposable :(
+#### Art as Contextual & Postcolonial
+(Dele Jegede & Kwame Anthonyappial?, respectively)
+- Picasso was heavily inspired by masks
+- We dissect the artwork and the message of the artist
+- The moment we read/analyze/look at it/form our interpretation
+	- We contextualize the message
+	- While decontextualizing the art piece
+Postcolonial
+- Fixated on the context of African art (being displayed in a glass enclosure)
+- e.g. Whang-od
+- The disparity between the local and the western
+- If we refuse to exhibit the art, it defeats the purpose of the art economy
+#### Art as Virtual
+(Douglas Daus)
+- Agrees with Benjamin on the note of aura
+- The moment you subject an object/item to technology, we embue a new aura in the virtual art
+- If the digital counterpart of art is as stable as original, the newly acquired identity as original as the original
+- Editing software:
+	- e.g. if I edit the Mona Lisa to look like my sister - it becomes original because it is individualized
+
