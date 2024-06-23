@@ -34,3 +34,20 @@ $$
 $$
 
 #### Proof
+Given the following vectors $\vec{a}$ and $\vec{b}$,
+
+Since $\left| \vec{a} - \vec{b} \right| = (\vec{a} \cdot \vec{b}) \cdot (\vec{a} \cdot \vec{b})$ and using the cosine rule,
+$$
+\begin{align}
+\left| \vec{a}-\vec{b} \right|^2 &= |\vec{a}|^2 + |\vec{b}|^2 - 2|\vec{a}|\vec{b}|\cos\theta \\
+
+(\vec{a} \cdot \vec{b}) \cdot (\vec{a} \cdot \vec{b}) &= |\vec{a}|^2 + |\vec{b}|^2 - 2|\vec{a}|\vec{b}|\cos\theta \\
+
+\vec{a} \cdot \vec{a} - \vec{a} \cdot \vec{b} - \vec{b} \cdot \vec{a} + \vec{b} \cdot \vec{b} &= |\vec{a}|^2 + |\vec{b}|^2 - 2|\vec{a}|\vec{b}|\cos\theta \\
+
+-2\vec{a} \cdot \vec{b} &= -2|\vec{a}||\vec{b}|\cos\theta \\
+
+\vec{a} \cdot \vec{b} &= |\vec{a}||\vec{b}|\cos\theta
+\end{align}
+$$
+
