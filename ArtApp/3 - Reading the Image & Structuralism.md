@@ -69,3 +69,6 @@ Car
 - Language can never fully satisfy us human beings (our desire to collect symbols/logos)
 - Context: Derrida was Jewish -> in defense of the black sheep, inversion of the system
 - Listen to everyone
+
+### Bluets
+- A Derridian piece
