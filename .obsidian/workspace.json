@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "abaf08eb16f06c04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ArtApp/3 - Reading the Image & Structuralism.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ArtApp/3 - Reading the Image & Structuralism.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ArtApp/3 - Reading the Image & Structuralism.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -183,11 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cadae35f12198679",
+  "active": "abaf08eb16f06c04",
   "lastOpenFiles": [
+    "ArtApp/3 - Reading the Image & Structuralism.md",
+    "conflict-files-obsidian-git.md",
+    "resources/photos/module 2/plane1.PNG",
+    "resources/photos/module 2",
+    "PHYS 111/Module 2/2-7 Equation of a Plane.md",
+    "PHYS 111/Module 2/2-6 Parametric Equations of a Vector.md",
+    "PHYS 111/Module 2/2-5 Cross Product.md",
     "PHYS 111/Module 2/2-3 Dot Product.md",
     "PHYS 111/Module 2/2-4 Unit Vectors.md",
-    "ArtApp/3 - Reading the Image & Structuralism.md",
     "ArtApp/Untitled.md",
     "ArtApp/2 - Welcome to Hell - Part 1.md",
     "GER 11/3 - Introducing Oneself & Others.md",
@@ -197,7 +215,6 @@
     "PHYS 111/Module 1/1-4 Complex Conjugates.md",
     "PHYS 111/Module 1/1-1 Complex Numbers.md",
     "4 - Alphabet.md",
-    "conflict-files-obsidian-git.md",
     "PHYS 111/Module 2",
     "PHYS 111/Module 1/1-7 Finding roots of complex numbers.md",
     "PHYS 111/Module 1/1-6 Proof for Euler's Formula.md",
@@ -218,11 +235,6 @@
     "pdf/PHYS111/1-5 Polar Graphs.pdf",
     "pdf/PHYS111/1-4 Complex Conjugates.pdf",
     "PHYS 111/Problem Sets/Problem Set 1.md",
-    "PHYS 111/Problem Sets",
-    "PHYS 111/1-7 Finding roots of complex numbers.md",
-    "PHYS 111/1-6 Proof for Euler's Formula.md",
-    "PHYS 111/1-5 Polar Graphs.md",
-    "PHYS 111/1-4 Complex Conjugates.md",
-    "ArtApp/1 - Introduction.md"
+    "PHYS 111/1-7 Finding roots of complex numbers.md"
   ]
 }
