@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS 111/Module 2/2-7 Equation of a Plane.md",
+                "file": "GER 11/Meine Familie und Ich.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 111/Module 2/2-7 Equation of a Plane.md",
+                "file": "GER 11/Meine Familie und Ich.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYS 111/Module 2/2-7 Equation of a Plane.md",
+                "file": "GER 11/Meine Familie und Ich.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 111/Module 2/2-7 Equation of a Plane.md"
+                "file": "GER 11/Meine Familie und Ich.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "71256e88905e7f5e",
   "lastOpenFiles": [
+    "GER 11/3 - Introducing Oneself & Others.md",
+    "GER 11/Meine Familie und Ich.md",
+    "PHYS 111/Module 2/2-7 Equation of a Plane.md",
     "PHYS 111/Module 2/2-6 Parametric Equations of a Vector.md",
     "PHYS 111/Problem Sets/Problem Set 2.md",
-    "PHYS 111/Module 2/2-7 Equation of a Plane.md",
     "PHYS 111/Module 2/2-4 Unit Vectors.md",
     "PHYS 111/Module 2/2-5 Cross Product.md",
     "README.md",
@@ -169,7 +171,6 @@
     "PHYS 111/Module 1/1-5 Polar Graphs.md",
     "GER 11/1 - Common Phrases in German Class.md",
     "GER 11/2 - Greetings and Farewell.md",
-    "GER 11/3 - Introducing Oneself & Others.md",
     "ArtApp/3 - Reading the Image & Structuralism.md",
     "resources/photos/module 2/plane1.PNG",
     "resources/photos/module 2",
@@ -183,7 +184,6 @@
     "PHYS 111/Module 1",
     "PHYS 111/Module 1/1-7 Finding roots of complex numbers.md",
     "PHYS 111/Module 1/1-6 Proof for Euler's Formula.md",
-    "PHYS 111/Module 1/1-3 Complex (Argand) Plane.md",
     "pdf/PHYS111/Problem Set 1.pdf",
     "pdf/PHYS111/1-5 Polar Graphs.pdf",
     "pdf/PHYS111/1-4 Complex Conjugates.pdf",
