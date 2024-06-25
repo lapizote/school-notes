@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GER 11/Meine Familie und Ich.md",
+                "file": "GER 11/Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GER 11/Meine Familie und Ich.md",
+                "file": "GER 11/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GER 11/Meine Familie und Ich.md",
+                "file": "GER 11/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GER 11/Meine Familie und Ich.md"
+                "file": "GER 11/Summary.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "71256e88905e7f5e",
   "lastOpenFiles": [
-    "GER 11/3 - Introducing Oneself & Others.md",
     "GER 11/Meine Familie und Ich.md",
+    "GER 11/Summary.md",
+    "GER 11/3 - Introducing Oneself & Others.md",
+    "GER 11/2 - Greetings and Farewell.md",
     "PHYS 111/Module 2/2-7 Equation of a Plane.md",
     "PHYS 111/Module 2/2-6 Parametric Equations of a Vector.md",
     "PHYS 111/Problem Sets/Problem Set 2.md",
@@ -170,12 +172,10 @@
     "ArtApp/Bluet.md",
     "PHYS 111/Module 1/1-5 Polar Graphs.md",
     "GER 11/1 - Common Phrases in German Class.md",
-    "GER 11/2 - Greetings and Farewell.md",
     "ArtApp/3 - Reading the Image & Structuralism.md",
     "resources/photos/module 2/plane1.PNG",
     "resources/photos/module 2",
     "Untitled.md",
-    "GER 11/Prefixes.md",
     "4 - Alphabet.md",
     "ArtApp/2 - Welcome to Hell - Part 1.md",
     "PHYS 111/Module 1/1-1 Complex Numbers.md",
@@ -183,7 +183,6 @@
     "PHYS 111/Untitled.md",
     "PHYS 111/Module 1",
     "PHYS 111/Module 1/1-7 Finding roots of complex numbers.md",
-    "PHYS 111/Module 1/1-6 Proof for Euler's Formula.md",
     "pdf/PHYS111/Problem Set 1.pdf",
     "pdf/PHYS111/1-5 Polar Graphs.pdf",
     "pdf/PHYS111/1-4 Complex Conjugates.pdf",
