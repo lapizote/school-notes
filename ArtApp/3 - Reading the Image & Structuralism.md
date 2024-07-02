@@ -70,5 +70,55 @@ Car
 - Context: Derrida was Jewish -> in defense of the black sheep, inversion of the system
 - Listen to everyone
 
-### Bluets
-- A Derridian piece
+### [[Bluet|Bluets]]
+- Creative nonfiction
+	- Fourth genre, together w/ poetry, fiction, and drama
+	- Umbrella term for works like personal essay, biography, narrative history, long form narrative reportage, etc.
+	- Outgrowth to the genre, like speculative nonfiction and visual essay
+- Assemblage
+	- Intertextuality - mashing different texts together to arrive at various connotations
+	- Sort of reads like an essay, artist book, poem, etc. all at once
+	- Better connotation than "experimental" lol
+- "Braided essay"
+	- Narrative 1: Philosophical extravaganza
+	- Narrative 2: The horny bits
+	- Narrative 3: One-liners (not referring to anything else)
+	- Narrative 4: The friend (only appears by the latter part)
+	- Actually follows a pattern?!?!?!?!!??!?!?!?!?!??!?!
+- Poetry collection
+
+Debate about creative nonfiction vs nonfiction
+- Nonfiction -> everything is factual, nothing made up
+- Everything is muddied due to "creative nonfiction"
+- Bluets ends up in "creative nonfiction"
+- Nonfiction must follow a storyline, a narrative (rules out stuff like science books)
+- If we try to disregard creative nonfiction, ignores how some pieces of work can "play" among different genres
+	- Nonfiction entails rigidness, formality
+
+Wave Books' description of Bluets:
+- A lyricial, philosophical, and often explicit exploration of personal suffering and the limitations of vision and love, as refracted through the color blue, while folding in, and responding to, the divergent voices and preoccupations of such generative figures as Wittgenstein, Sel Shonagon, William Gass and Joan Mitchell. Bluets further confirms Maggie Nelson's place within the pantheon of brilliant lyric essayists
+- Lyric essay?
+	- Creates a negative connotation among formalists
+
+Solution:
+- Bluets is a fragmented work
+
+#### Maggie Nelson
+- Not entirely broken? Has an SO
+	- Bihirang masulat ang kaligayahan - Rebecca T. Anonuevo
+- Considered more of a poet rather than an essayist
+	- But is really trained as an essayist
+
+#### Profanity
+What is the purpose of profanity
+- Purely by accident or an informed choice?
+- Profanity to impose power
+- Profanity to inflict pain
+- 
+
+
+Misc.
+Mojares >:(((
+- "Creative nonfiction" queering the writing
+"I don't fuck with the term lyric essay" - Anne Boyer
+- Response to "Essayist"
