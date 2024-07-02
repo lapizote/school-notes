@@ -1,3 +1,3 @@
 Hallo! Ich bin Axl. Mein Lieblingsessen ist Schwein Adobo - das philippinische Rezept ist einfach. Adobo ist salzig, sauer, und ein bisschen süß - es ist lecker!
 
-Für sechs Portionen brauchst du ein Kilo Schwein, neun Knoblauchzehen, zwei Zwiebeln, vier Lorbeerblätter, eine Tasse Sojasoße, etwas Essig, Salt und Pfeffer, ein bisschen Öl, und Wasser um das Schwein weichzumachen. Dazu esse ich Reis - schmeckt so gut!
+Für sechs Portionen brauchst du ein Kilo Schwein, neun Knoblauchzehen, zwei Zwiebeln, vier Lorbeerblätter, eine Tasse Sojasoße, etwas Essig, Salz und Pfeffer, ein bisschen Öl, und Wasser um das Schwein weichzumachen. Dazu esse ich Reis - schmeckt so gut!
