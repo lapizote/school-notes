@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GER 11/3 - Introducing Oneself & Others.md",
+                "file": "GER 11/Mein Lieblingsessen.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GER 11/3 - Introducing Oneself & Others.md",
+                "file": "GER 11/Mein Lieblingsessen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GER 11/3 - Introducing Oneself & Others.md",
+                "file": "GER 11/Mein Lieblingsessen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GER 11/3 - Introducing Oneself & Others.md"
+                "file": "GER 11/Mein Lieblingsessen.md"
               }
             }
           }
@@ -173,16 +173,30 @@
   },
   "active": "fa5762ead698bc64",
   "lastOpenFiles": [
+    "GER 11/Meine Familie und Ich.md",
+    "GER 11/Mein Lieblingsessen.md",
+    "GER 11/3 - Introducing Oneself & Others.md",
+    "conflict-files-obsidian-git.md",
+    "PHYS 111/Problem Sets/Problem Set 3.md",
+    "PHYS 111/Module 3/3-9 Matrices as Geometric Transformations.md",
+    "PHYS 111/Module 3/3-8 Vectors and Matrices.md",
+    "PHYS 111/Module 3/3-7 Algebraic Properties of Matrices.md",
+    "PHYS 111/Module 3/3-6 System of 2 Equations for 2 Variables.md",
+    "PHYS 111/Module 3/3-5 Transpose of a matrix.md",
+    "PHYS 111/Module 3/3-4 Matrix Multiplication.md",
+    "PHYS 111/Module 3/3-3 Scalar Multiplication.md",
+    "PHYS 111/Module 3/3-2 Matrix Addition.md",
+    "PHYS 111/Module 3/3-10 Transformations of Geometric Significance.md",
+    "PHYS 111/Module 3/3-1 Matrices.md",
+    "PHYS 111/Module 3",
     "GER 11/Articles.md",
     "GER 11/Summary.md",
     "ArtApp/Bluet.md",
     "ArtApp/Untitled.md",
     "ArtApp/Blind.md",
     "ArtApp/3 - Reading the Image & Structuralism.md",
-    "GER 11/3 - Introducing Oneself & Others.md",
     "ArtApp/2 - Welcome to Hell - Part 1.md",
     "git push.md",
-    "GER 11/Meine Familie und Ich.md",
     "GER 11/2 - Greetings and Farewell.md",
     "PHYS 111/Module 2/2-1 Vectors.md",
     "resources/photos/module 2/pset_2-2_2.PNG",
@@ -192,22 +206,9 @@
     "resources/photos/module 2/pset2-1.PNG",
     "pdf/PHYS111/Problem Set 2.pdf",
     "PHYS 111/Problem Sets/Problem Set 2.md",
-    "PHYS 111/Problem Sets/Problem Set 1.md",
-    "PHYS 111/Module 2/2-7 Equation of a Plane.md",
-    "conflict-files-obsidian-git.md",
     "resources/photos/module 2/plane1.PNG",
     "resources/photos/module 2",
-    "PHYS 111/Module 2/2-6 Parametric Equations of a Vector.md",
-    "PHYS 111/Module 2/2-5 Cross Product.md",
-    "PHYS 111/Module 2/2-3 Dot Product.md",
-    "PHYS 111/Module 2/2-4 Unit Vectors.md",
-    "GER 11/Prefixes.md",
-    "PHYS 111/Module 2/2-2 Vector Addition.md",
-    "PHYS 111/Module 1/1-4 Complex Conjugates.md",
-    "PHYS 111/Module 1/1-1 Complex Numbers.md",
-    "4 - Alphabet.md",
     "PHYS 111/Module 2",
-    "PHYS 111/Module 1/1-7 Finding roots of complex numbers.md",
     "PHYS 111/Module 1",
     "pdf/GER11/2 - Greetings and Farewell.pdf",
     "pdf/GER11/1 - Common Phrases in German Class.pdf",
@@ -216,7 +217,6 @@
     "resources/photos/pset1pic1.png",
     "resources/photos",
     "resources",
-    "pdf/PHYS111/Problem Set 1.pdf",
-    "pdf/PHYS111/1-5 Polar Graphs.pdf"
+    "pdf/PHYS111/Problem Set 1.pdf"
   ]
 }
