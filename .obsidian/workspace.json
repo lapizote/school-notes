@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ArtApp/Zine.md",
+                "file": "Random.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ArtApp/Zine.md",
+                "file": "Random.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ArtApp/Zine.md",
+                "file": "Random.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ArtApp/Zine.md"
+                "file": "Random.md"
               }
             }
           }
@@ -173,13 +173,13 @@
   },
   "active": "d34047d4c03ecddf",
   "lastOpenFiles": [
+    "ArtApp/Zine.md",
+    "Random.md",
     "README.md",
     "Untitled.md",
     "ArtApp/Untitled.md",
-    "ArtApp/Zine.md",
     "ArtApp/Blind.md",
     "ArtApp/2 - Welcome to Hell - Part 1.md",
-    "Random.md",
     "ArtApp/Bluet.md",
     "PHYS 111/Problem Sets/Problem Set 3.md",
     "git push.md",
