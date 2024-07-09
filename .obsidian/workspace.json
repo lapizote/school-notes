@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GER 11/Adjectives.md",
+                "file": "ArtApp/Zine.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GER 11/Adjectives.md",
+                "file": "ArtApp/Zine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GER 11/Adjectives.md",
+                "file": "ArtApp/Zine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GER 11/Adjectives.md"
+                "file": "ArtApp/Zine.md"
               }
             }
           }
@@ -148,32 +148,35 @@
   },
   "active": "71256e88905e7f5e",
   "lastOpenFiles": [
-    "GER 11/Articles.md",
-    "GER 11/Adjectives.md",
     "GER 11/3 - Introducing Oneself & Others.md",
-    "GER 11/Mein Lieblingsessen.md",
-    "PHYS 111/Module 3/3-3 Scalar Multiplication.md",
-    "PHYS 111/Module 3/3-2 Matrix Addition.md",
-    "PHYS 111/Module 3/3-1 Matrices.md",
-    "PHYS 111/Module 3/3-6 System of 2 Equations for 2 Variables.md",
-    "PHYS 111/Module 3/3-4 Matrix Multiplication.md",
-    "PHYS 111/Module 3/3-8 Vectors and Matrices.md",
-    "PHYS 111/Module 3/3-9 Matrices as Geometric Transformations.md",
-    "PHYS 111/Module 3/3-7 Algebraic Properties of Matrices.md",
-    "PHYS 111/Module 3/3-10 Transformations of Geometric Significance.md",
-    "PHYS 111/Module 2/2-7 Equation of a Plane.md",
-    "PHYS 111/Module 2/2-6 Parametric Equations of a Vector.md",
-    "PHYS 111/Module 2/2-4 Unit Vectors.md",
-    "PHYS 111/Module 1/1-6 Proof for Euler's Formula.md",
-    "PHYS 111/Module 1/1-5 Polar Graphs.md",
-    "PHYS 111/Module 1/1-4 Complex Conjugates.md",
-    "PHYS 111/Module 1/1-3 Complex (Argand) Plane.md",
-    "PHYS 111/Module 1/1-2 Arithmetic Operations of Complex Numbers.md",
-    "PHYS 111/Module 1/1-1 Complex Numbers.md",
+    "GER 11/1 - Common Phrases in German Class.md",
+    "ArtApp/Zine.md",
+    "PHYS 111/Module 4/4-3 Homogeneous Equations.md",
+    "PHYS 111/Module 1/1-7 Finding roots of complex numbers.md",
+    "GER 11/Adjectives.md",
+    "ArtApp/Untitled.md",
     "GER 11/Summary.md",
-    "ArtApp/1 - Introduction.md",
+    "GER 11/Meine Familie und Ich.md",
+    "PHYS 111/Module 4/4-2 General and Particular Solutions.md",
+    "PHYS 111/Module 3/3-2 Matrix Addition.md",
+    "PHYS 111/Module 4/4-1 Differential Equations.md",
+    "PHYS 111/Module 4",
+    "GER 11/Mein Lieblingsessen.md",
+    "GER 11/Articles.md",
     "ArtApp/2 - Welcome to Hell - Part 1.md",
     "ArtApp/3 - Reading the Image & Structuralism.md",
+    "ArtApp/Bluet.md",
+    "ArtApp/Blind.md",
+    "README.md",
+    "4 - Alphabet.md",
+    "resources/photos/vector-addition.png",
+    "resources/photos/vector-subtraction.png",
+    "Random.md",
+    "PHYS 111/Module 3/3-7 Algebraic Properties of Matrices.md",
+    "ArtApp/1 - Introduction.md",
+    "GER 11/2 - Greetings and Farewell.md",
+    "PHYS 111/Module 3/3-3 Scalar Multiplication.md",
+    "PHYS 111/Module 3/3-1 Matrices.md",
     "PHYS 111/Module 3",
     "resources/photos/module 2/pset2-1.PNG",
     "resources/photos/module 2/pset2-3_2.PNG",
@@ -189,9 +192,6 @@
     "pdf/PHYS111/1-5 Polar Graphs.pdf",
     "pdf/PHYS111/1-4 Complex Conjugates.pdf",
     "resources/photos/pset1pic1.png",
-    "pdf/PHYS111/1-1 Complex Numbers.pdf",
-    "PHYS 111/Problem Sets",
-    "resources/photos/vector-subtraction.png",
-    "resources/photos/vector-addition.png"
+    "pdf/PHYS111/1-1 Complex Numbers.pdf"
   ]
 }
