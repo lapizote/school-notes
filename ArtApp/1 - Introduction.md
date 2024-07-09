@@ -38,6 +38,7 @@ For the Ancients...
 - "Art, on the other hand, was the domain of trained professionals, technicians."
 - "to the very end of the ancient world art was equated with skill."
 - "Emotions tarnish the artness of art"
+- See [[2 - Welcome to Hell - Part 1#Art as Imitation|Plato]]
 
 Charles Batteux
 - French aesthetician

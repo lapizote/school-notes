@@ -1,7 +1,7 @@
-Pronouns:
+Pronouns and their suffixes:
 - ich (I) - e
 - du (You; informell, singular) - st
-- er/sie/es (He/She/It; singular) - t
+- er/sie/es (He/She/It; singular) - t (also see [[Articles]])
 - wir (Us; informell, plural) - en
 - ihr (You; informell, plural) - t
 - sie (Them; informell, plural) - en
