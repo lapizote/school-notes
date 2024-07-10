@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a7ea24589b43f630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 111/Module 4/4-5 Summary.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYS 111/Module 4/4-5 Summary.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 111/Module 4/4-5 Summary.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,10 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71256e88905e7f5e",
+  "active": "a7ea24589b43f630",
   "lastOpenFiles": [
-    "PHYS 111/Module 4/4-3 Homogeneous Equations.md",
     "PHYS 111/Module 4/4-5 Summary.md",
+    "conflict-files-obsidian-git.md",
+    "GER 11/Untitled.md",
+    "PHYS 111/Module 4/4-3 Homogeneous Equations.md",
     "Other/Homogeneous Function.md",
     "Untitled.md",
     "Other",
@@ -174,10 +189,8 @@
     "ArtApp/Bluet.md",
     "ArtApp/Blind.md",
     "README.md",
-    "4 - Alphabet.md",
     "resources/photos/vector-addition.png",
     "resources/photos/vector-subtraction.png",
-    "Random.md",
     "PHYS 111/Module 3",
     "resources/photos/module 2/pset2-1.PNG",
     "resources/photos/module 2/pset2-3_2.PNG",

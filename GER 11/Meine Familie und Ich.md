@@ -7,3 +7,5 @@ Das sind meine Geschwister. Sie heißen Annegelica, Anthony, und Ariane. Sie sin
 Meine Familie kommen von den Philippinen und sie wohnen in Quezon-Stadt. Sie sprechen Filipino und Englisch.
 
 Dankeschön für ihre Zeit! Auf wiedersehen!
+
+

@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+**1.**
+Laozi says: “There is no greater crime than desire.”
+Buddha says: “There is dukkha (suffering) when there is desire.”
+I say: “But I want her so fucking bad!”
+=======
 Author's Note:
 Here lies an abode of whatever my creative juices were able to pump out.
 
@@ -57,3 +63,4 @@ He's been poisoned by the hustle culture. I don't blame him.
 
 Facebook, god damn it.
 Reagan and Thatcher - *fuck* both of you. Burn in hell.
+>>>>>>> origin/main
