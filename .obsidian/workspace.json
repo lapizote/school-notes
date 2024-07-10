@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ArtApp/Zine.md",
+                "file": "PHYS 111/Module 4/4-5 Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ArtApp/Zine.md",
+                "file": "PHYS 111/Module 4/4-5 Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ArtApp/Zine.md",
+                "file": "PHYS 111/Module 4/4-5 Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ArtApp/Zine.md"
+                "file": "PHYS 111/Module 4/4-5 Summary.md"
               }
             }
           }
@@ -148,10 +148,16 @@
   },
   "active": "71256e88905e7f5e",
   "lastOpenFiles": [
+    "PHYS 111/Module 4/4-3 Homogeneous Equations.md",
+    "PHYS 111/Module 4/4-5 Summary.md",
+    "Other/Homogeneous Function.md",
+    "Untitled.md",
+    "Other",
+    "PHYS 111/Problem Sets/Problem Set 2.md",
+    "PHYS 111/Module 2/2-4 Unit Vectors.md",
+    "ArtApp/Zine.md",
     "GER 11/3 - Introducing Oneself & Others.md",
     "GER 11/1 - Common Phrases in German Class.md",
-    "ArtApp/Zine.md",
-    "PHYS 111/Module 4/4-3 Homogeneous Equations.md",
     "PHYS 111/Module 1/1-7 Finding roots of complex numbers.md",
     "GER 11/Adjectives.md",
     "ArtApp/Untitled.md",
@@ -172,11 +178,6 @@
     "resources/photos/vector-addition.png",
     "resources/photos/vector-subtraction.png",
     "Random.md",
-    "PHYS 111/Module 3/3-7 Algebraic Properties of Matrices.md",
-    "ArtApp/1 - Introduction.md",
-    "GER 11/2 - Greetings and Farewell.md",
-    "PHYS 111/Module 3/3-3 Scalar Multiplication.md",
-    "PHYS 111/Module 3/3-1 Matrices.md",
     "PHYS 111/Module 3",
     "resources/photos/module 2/pset2-1.PNG",
     "resources/photos/module 2/pset2-3_2.PNG",
@@ -191,7 +192,6 @@
     "pdf/PHYS111/Problem Set 1.pdf",
     "pdf/PHYS111/1-5 Polar Graphs.pdf",
     "pdf/PHYS111/1-4 Complex Conjugates.pdf",
-    "resources/photos/pset1pic1.png",
-    "pdf/PHYS111/1-1 Complex Numbers.pdf"
+    "resources/photos/pset1pic1.png"
   ]
 }
