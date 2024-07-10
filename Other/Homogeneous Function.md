@@ -11,3 +11,5 @@ f(zx,zy) &= zx+3zy \\
 \end{align}
 $$
 We then have a degree of 1.
+
+This can be useful for dealing with [[4-3 Homogeneous Equations|First Order Ordinary Differential Equations (FOODEs) with Homogeneous functions]].
