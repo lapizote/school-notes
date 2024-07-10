@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ArtApp/Blind.md",
+                "file": "ArtApp/Zine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef338802dde1aeff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ArtApp/Zine.md",
                 "mode": "source",
                 "source": false
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ArtApp/Blind.md",
+                "file": "ArtApp/Zine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ArtApp/Blind.md",
+                "file": "ArtApp/Zine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ArtApp/Blind.md"
+                "file": "ArtApp/Zine.md"
               }
             }
           }
@@ -185,8 +197,14 @@
   },
   "active": "fece4e943e30f22e",
   "lastOpenFiles": [
-    "ArtApp/Bluet.md",
     "ArtApp/Untitled.md",
+    "ArtApp/3 - Reading the Image & Structuralism.md",
+    "ArtApp/Blind.md",
+    "ArtApp/Zine.md",
+    "ArtApp/Bluet.md",
+    "Random.md",
+    "conflict-files-obsidian-git.md",
+    "git push.md",
     "GER 11/Untitled.md",
     "GER 11/Mein Lieblingsessen.md",
     "GER 11/Summary.md",
@@ -197,7 +215,6 @@
     "Untitled.md",
     "Untitled 1.md",
     "GER 11/3 - Introducing Oneself & Others.md",
-    "conflict-files-obsidian-git.md",
     "PHYS 111/Problem Sets/Problem Set 3.md",
     "PHYS 111/Module 3/3-9 Matrices as Geometric Transformations.md",
     "PHYS 111/Module 3/3-8 Vectors and Matrices.md",
@@ -206,12 +223,7 @@
     "PHYS 111/Module 3/3-5 Transpose of a matrix.md",
     "PHYS 111/Module 3/3-4 Matrix Multiplication.md",
     "PHYS 111/Module 3/3-3 Scalar Multiplication.md",
-    "PHYS 111/Module 3/3-2 Matrix Addition.md",
-    "PHYS 111/Module 3/3-10 Transformations of Geometric Significance.md",
-    "PHYS 111/Module 3/3-1 Matrices.md",
     "PHYS 111/Module 3",
-    "ArtApp/Blind.md",
-    "ArtApp/3 - Reading the Image & Structuralism.md",
     "resources/photos/module 2/pset_2-2_2.PNG",
     "resources/photos/module 2/pset2-3_2.PNG",
     "resources/photos/module 2/pset2-3_1.PNG",

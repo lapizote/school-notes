@@ -14,3 +14,14 @@
 	
 
 	b. Find the $3 \times 3$ matrix that, when it acts on a vector, gives the component of the vector perpendicular to the plane.
+
+$$
+\begin{bmatrix}
+	-\frac{7}{11} & \frac{6}{11} & 0 \\
+	\frac{6}{11} & 0 & \frac{6}{11} \\
+	0 & \frac{6}{11} & \frac{7}{11} 
+\end{bmatrix}
+$$
+
+
+Extra notes:
