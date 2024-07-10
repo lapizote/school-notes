@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "dc5055e2085059fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ArtApp/Zine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ef338802dde1aeff",
             "type": "leaf",
             "state": {
@@ -66,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f46953164699d21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -145,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ArtApp/Zine.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ArtApp/Zine.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ArtApp/Zine.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -195,15 +219,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fece4e943e30f22e",
+  "active": "8f46953164699d21",
   "lastOpenFiles": [
+    "ArtApp/Zine.md",
+    "conflict-files-obsidian-git.md",
+    "PHYS 111/Module 4/4-3 Homogeneous Equations.md",
+    "PHYS 111/Module 4/4-2 General and Particular Solutions.md",
+    "PHYS 111/Module 4/4-1 Differential Equations.md",
+    "PHYS 111/Module 4",
+    "GER 11/Adjectives.md",
     "ArtApp/Blind.md",
     "ArtApp/Bluet.md",
-    "ArtApp/Zine.md",
     "ArtApp/Untitled.md",
     "ArtApp/3 - Reading the Image & Structuralism.md",
     "Random.md",
-    "conflict-files-obsidian-git.md",
     "git push.md",
     "GER 11/Untitled.md",
     "GER 11/Mein Lieblingsessen.md",
@@ -219,10 +248,6 @@
     "PHYS 111/Module 3/3-9 Matrices as Geometric Transformations.md",
     "PHYS 111/Module 3/3-8 Vectors and Matrices.md",
     "PHYS 111/Module 3/3-7 Algebraic Properties of Matrices.md",
-    "PHYS 111/Module 3/3-6 System of 2 Equations for 2 Variables.md",
-    "PHYS 111/Module 3/3-5 Transpose of a matrix.md",
-    "PHYS 111/Module 3/3-4 Matrix Multiplication.md",
-    "PHYS 111/Module 3/3-3 Scalar Multiplication.md",
     "PHYS 111/Module 3",
     "resources/photos/module 2/pset_2-2_2.PNG",
     "resources/photos/module 2/pset2-3_2.PNG",
@@ -240,7 +265,6 @@
     "resources/photos/vector-addition.png",
     "resources/photos/pset1pic1.png",
     "resources/photos",
-    "resources",
-    "pdf/PHYS111/Problem Set 1.pdf"
+    "resources"
   ]
 }
