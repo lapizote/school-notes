@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b58bc3472883d186",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -157,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GER 11/Adjectives.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GER 11/Adjectives.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GER 11/Adjectives.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -207,18 +219,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef338802dde1aeff",
+  "active": "b58bc3472883d186",
   "lastOpenFiles": [
+    "GER 11/Adjectives.md",
+    "conflict-files-obsidian-git.md",
+    "pdf/PHYS111/4-5 Summary.pdf",
+    "PHYS 111/Module 4/4-5 Summary.md",
+    "Other/Homogeneous Function.md",
+    "Other",
+    "GER 11/Mein Haus.md",
     "GER 11/Articles.md",
     "ArtApp/Zine.md",
     "ArtApp/Untitled.md",
     "ArtApp/Bluet.md",
-    "conflict-files-obsidian-git.md",
     "PHYS 111/Module 4/4-3 Homogeneous Equations.md",
     "PHYS 111/Module 4/4-2 General and Particular Solutions.md",
     "PHYS 111/Module 4/4-1 Differential Equations.md",
     "PHYS 111/Module 4",
-    "GER 11/Adjectives.md",
     "ArtApp/Blind.md",
     "ArtApp/3 - Reading the Image & Structuralism.md",
     "Random.md",
@@ -232,10 +249,6 @@
     "Untitled.md",
     "Untitled 1.md",
     "GER 11/3 - Introducing Oneself & Others.md",
-    "PHYS 111/Problem Sets/Problem Set 3.md",
-    "PHYS 111/Module 3/3-9 Matrices as Geometric Transformations.md",
-    "PHYS 111/Module 3/3-8 Vectors and Matrices.md",
-    "PHYS 111/Module 3/3-7 Algebraic Properties of Matrices.md",
     "PHYS 111/Module 3",
     "resources/photos/module 2/pset_2-2_2.PNG",
     "resources/photos/module 2/pset2-3_2.PNG",
@@ -251,8 +264,6 @@
     "pdf/GER11/1 - Common Phrases in German Class.pdf",
     "resources/photos/vector-subtraction.png",
     "resources/photos/vector-addition.png",
-    "resources/photos/pset1pic1.png",
-    "resources/photos",
-    "resources"
+    "resources/photos/pset1pic1.png"
   ]
 }
