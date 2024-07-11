@@ -73,26 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ArtApp/Zine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f46953164699d21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "GER 11/Adjectives.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -169,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "GER 11/Adjectives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "GER 11/Adjectives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "GER 11/Adjectives.md"
               }
             }
           }
@@ -219,9 +207,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f46953164699d21",
+  "active": "ef338802dde1aeff",
   "lastOpenFiles": [
+    "GER 11/Articles.md",
     "ArtApp/Zine.md",
+    "ArtApp/Untitled.md",
+    "ArtApp/Bluet.md",
     "conflict-files-obsidian-git.md",
     "PHYS 111/Module 4/4-3 Homogeneous Equations.md",
     "PHYS 111/Module 4/4-2 General and Particular Solutions.md",
@@ -229,8 +220,6 @@
     "PHYS 111/Module 4",
     "GER 11/Adjectives.md",
     "ArtApp/Blind.md",
-    "ArtApp/Bluet.md",
-    "ArtApp/Untitled.md",
     "ArtApp/3 - Reading the Image & Structuralism.md",
     "Random.md",
     "git push.md",
@@ -238,7 +227,6 @@
     "GER 11/Mein Lieblingsessen.md",
     "GER 11/Summary.md",
     "GER 11/Meine Familie und Ich.md",
-    "GER 11/Articles.md",
     "4 - Alphabet.md",
     "README.md",
     "Untitled.md",
