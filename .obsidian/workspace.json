@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69825a1cdfb2c97f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -157,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/Homogeneous Function.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other/Homogeneous Function.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/Homogeneous Function.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -207,8 +219,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ef338802dde1aeff",
+  "active": "69825a1cdfb2c97f",
   "lastOpenFiles": [
+    "Other/Homogeneous Function.md",
+    "conflict-files-obsidian-git.md",
+    "pdf/PHYS111/Homogeneous Function.pdf",
     "PHYS 111/Module 4/4-5 Summary.md",
     "PHYS 111/Module 4/4-3 Homogeneous Equations.md",
     "ArtApp/Untitled.md",
@@ -233,8 +248,6 @@
     "PHYS 111/Module 3/3-6 System of 2 Equations for 2 Variables.md",
     "PHYS 111/Module 3/3-4 Matrix Multiplication.md",
     "PHYS 111/Module 3/3-2 Matrix Addition.md",
-    "PHYS 111/Module 3/3-3 Scalar Multiplication.md",
-    "PHYS 111/Module 3/3-7 Algebraic Properties of Matrices.md",
     "pdf/PHYS111/4-5 Summary.pdf",
     "Other",
     "PHYS 111/Module 4",
@@ -250,7 +263,6 @@
     "PHYS 111/Module 2",
     "PHYS 111/Module 1",
     "pdf/GER11/2 - Greetings and Farewell.pdf",
-    "pdf/GER11/1 - Common Phrases in German Class.pdf",
     "resources/photos/vector-subtraction.png",
     "resources/photos/vector-addition.png",
     "resources/photos/pset1pic1.png"
