@@ -73,26 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GER 11/Adjectives.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b58bc3472883d186",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Other/Homogeneous Function.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -169,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Other/Homogeneous Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Other/Homogeneous Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Other/Homogeneous Function.md"
               }
             }
           }
@@ -219,36 +207,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b58bc3472883d186",
+  "active": "ef338802dde1aeff",
   "lastOpenFiles": [
-    "GER 11/Adjectives.md",
-    "conflict-files-obsidian-git.md",
-    "pdf/PHYS111/4-5 Summary.pdf",
     "PHYS 111/Module 4/4-5 Summary.md",
-    "Other/Homogeneous Function.md",
-    "Other",
+    "PHYS 111/Module 4/4-3 Homogeneous Equations.md",
+    "ArtApp/Untitled.md",
+    "ArtApp/Zine.md",
     "GER 11/Mein Haus.md",
     "GER 11/Articles.md",
-    "ArtApp/Zine.md",
-    "ArtApp/Untitled.md",
-    "ArtApp/Bluet.md",
-    "PHYS 111/Module 4/4-3 Homogeneous Equations.md",
-    "PHYS 111/Module 4/4-2 General and Particular Solutions.md",
-    "PHYS 111/Module 4/4-1 Differential Equations.md",
-    "PHYS 111/Module 4",
-    "ArtApp/Blind.md",
-    "ArtApp/3 - Reading the Image & Structuralism.md",
-    "Random.md",
-    "git push.md",
-    "GER 11/Untitled.md",
-    "GER 11/Mein Lieblingsessen.md",
-    "GER 11/Summary.md",
-    "GER 11/Meine Familie und Ich.md",
-    "4 - Alphabet.md",
-    "README.md",
-    "Untitled.md",
-    "Untitled 1.md",
     "GER 11/3 - Introducing Oneself & Others.md",
+    "GER 11/Adjectives.md",
+    "PHYS 111/Module 1/1-5 Polar Graphs.md",
+    "PHYS 111/Module 1/1-6 Proof for Euler's Formula.md",
+    "PHYS 111/Module 1/1-7 Finding roots of complex numbers.md",
+    "PHYS 111/Module 1/1-4 Complex Conjugates.md",
+    "PHYS 111/Module 1/1-3 Complex (Argand) Plane.md",
+    "PHYS 111/Module 1/1-2 Arithmetic Operations of Complex Numbers.md",
+    "PHYS 111/Module 1/1-1 Complex Numbers.md",
+    "PHYS 111/Module 2/2-6 Parametric Equations of a Vector.md",
+    "PHYS 111/Module 2/2-7 Equation of a Plane.md",
+    "PHYS 111/Module 2/2-2 Vector Addition.md",
+    "PHYS 111/Module 3/3-5 Transpose of a matrix.md",
+    "PHYS 111/Module 3/3-8 Vectors and Matrices.md",
+    "PHYS 111/Module 3/3-10 Transformations of Geometric Significance.md",
+    "PHYS 111/Module 3/3-6 System of 2 Equations for 2 Variables.md",
+    "PHYS 111/Module 3/3-4 Matrix Multiplication.md",
+    "PHYS 111/Module 3/3-2 Matrix Addition.md",
+    "PHYS 111/Module 3/3-3 Scalar Multiplication.md",
+    "PHYS 111/Module 3/3-7 Algebraic Properties of Matrices.md",
+    "pdf/PHYS111/4-5 Summary.pdf",
+    "Other",
+    "PHYS 111/Module 4",
     "PHYS 111/Module 3",
     "resources/photos/module 2/pset_2-2_2.PNG",
     "resources/photos/module 2/pset2-3_2.PNG",
