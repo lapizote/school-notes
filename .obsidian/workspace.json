@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "06d899eea0bec80c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PHYS 111/Module 4/4-5 Summary.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 111/Module 2/2-3 Dot Product.md",
+                "file": "PHYS 111/Module 4/4-5 Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYS 111/Module 2/2-3 Dot Product.md",
+                "file": "PHYS 111/Module 4/4-5 Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 111/Module 2/2-3 Dot Product.md"
+                "file": "PHYS 111/Module 4/4-5 Summary.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea9c15b0990037ae",
+  "active": "06d899eea0bec80c",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "PHYS 111/Module 2/2-3 Dot Product.md",
     "PHYS 111/Module 2/2-4 Unit Vectors.md",
     "PHYS 111/Module 2/2-2 Vector Addition.md",
-    "PHYS 111/Module 2/2-3 Dot Product.md",
     "PHYS 111/Module 2/2-7 Equation of a Plane.md",
     "PHYS 111/Module 2/2-6 Parametric Equations of a Vector.md",
     "GER 11/Summary.md",
@@ -173,7 +187,6 @@
     "PHYS 111/Module 1/1-1 Complex Numbers.md",
     "PHYS 111/Module 1/1-2 Arithmetic Operations of Complex Numbers.md",
     "PHYS 111/Module 1/1-3 Complex (Argand) Plane.md",
-    "PHYS 111/Problem Sets/Problem Set 3.md",
     "pdf/PHYS111/Homogeneous Function.pdf",
     "pdf/PHYS111/4-5 Summary.pdf",
     "Other",

@@ -2,3 +2,6 @@
 - double space
 
 Related to Bluets -> Lover's Discourse
+
+
+Artist Statement -> Arial
