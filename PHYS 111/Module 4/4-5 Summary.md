@@ -61,3 +61,18 @@ $$
 3. We can then equate the equation found in Step 2 with $\frac{\delta f}{\delta y} = N(x,y)$.
 4. Find $C(y)$ and then construct the final equation found from Step 1.
 5. Since $M(x,y)\,dx + N(x,y)\,dy=0$ should be interpreted as $df=0$, then simply equate the final expression to $C$.
+
+$$
+\frac{m}{b}(\ln|\frac{\frac{2b}{v_0}+k}{\frac{b}{v_0}+k}|)
+$$
+
+$$
+x =
+\frac{A(\sqrt{-\omega^2}-1)}{2}
+\left(
+\left(\frac{\sqrt{-\omega^2}+1}{-\omega^2-\sqrt{-\omega^2}}\right)
+e^{\sqrt{-\omega^2}t}
+\left(\frac{1-\sqrt{-\omega^2}}{-\omega^2-\sqrt{-\omega^2}}\right)
+e^{-\sqrt{-\omega^2}t}
+\right)
+$$

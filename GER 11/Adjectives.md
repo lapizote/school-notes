@@ -13,3 +13,9 @@ kurz lang
 sanft, hart -> soft, hard
 
 bunt -> colorful
+
+schmal breit
+
+schön hässlich
+
+hell dunkel
