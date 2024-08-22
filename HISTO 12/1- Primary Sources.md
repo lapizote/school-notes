@@ -1,0 +1,66 @@
+### Bonifacio's letter
+- addressed to Jacinto
+- April 1897
+- vs Agoncillo's textbook account
+- situation in Manila and Cavite
+### Kinds of historical sources
+- primary source
+- secondary source
+### Primary vs Secondary source?
+- depends on what you're studying
+- e.g. "Street Names of Manila and Their Origins" can be a primary source for street names in 1971, but a secondary source for the street origins
+- reminder: only a tiny fragment of human experience
+### Historical method
+- external criticism
+	- checks for authenticity
+	- is the document real? would've been written in its time? consistent with the norms, traditions, and culture during the time?
+	- handwriting, ink, etc.
+- internal criticism
+	- checks for reliability
+	- is the actual content actually legit? not false information by the author?
+- Code of Kalantiaw
+	- found by Jose Marco
+	- 1433 Aklan
+- Law No. 3: "Obey ye: no one shall have wives that are too young, nor shall they be more than what he can take care of, nor spend much luxury. He who fulfills not, obeys not, shall be condemned to swim three hours, and, for the second time, he shall be scourged with spines to death."
+	- How do you measure three hours? No clocks at the time in 1433 Aklan
+### Reliability of source
+- How close was the author to the event?
+- When was the account made?
+- Who was the recipient?
+- Is there bias?
+	- Problematic: there is no such thing as zero bias
+	- All sources are biased!
+	- Better question: What is the text doing? Saying vs Doing
+	- Pigafetta's battle of Mactan:
+		- Magellan (49 troops)
+		- Lapu-Lapu (1500 warriors)
+			- A typical barangay had 500 people (and that includes non-warriors)
+		- To convey the message that they were outnumbered and to bolster the image of Magellan
+- Probable?
+- Corroborated by other accounts?
+- e.g. Pigafetta's account is "reliable"
+	- Pigafetta wrote a diary, then his published accounts were based on that diary
+	- Pigafetta's "marvelous creatures" in the Americas
+		- May affect reliability of notes?
+		- Assumption at the time that there are fantastical creatures in far-off places
+		- May have simply been a specific addition to help sell the book due to that assumption
+### Bonifacio
+- only one actual picture of him exists
+- Other illustrations and interpretations:
+	- La ilustracion espanola y americana (1897)
+	- El renacimiento filipino (1911)
+	- Bonifacio Monument (1933) by Guillermo Tolentino
+		- Iconic depiction: gun, bolo, Katipunan flag
+	- Bonifacio(?) by Ramon Martinez
+		- classic image: camisa de chino, red flags, bolo, Katipunan flag
+		- face is not Bonifacio lol
+		- from "Ala-ala ng bayang Pilipino sa mga Bayani" (1911) by Jorge Pineda, not Bonifacio, g0eneric hero
+			- elements incorporated in the centennial anniversary stamp (1963)
+	- Carlos Francisco's mural (1968)
+- poor boy from Tondo?
+- Marxist explanation
+	- Revolutionaries -> Proletariat (Bonifacio)
+	- Spanish -> Bourgeois (burgis)
+	- Revolution as revolt of the masses
+	- komonesta! npa!
+- Grupo de Filipinos Illustres (1911) by Guillermo Tolentino

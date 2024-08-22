@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "704b24271bc4672b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ArtApp/1 - Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccab42dae2c7c715",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GER 11/2 - Greetings and Farewell.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa5762ead698bc64",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GER 11/Mein Lieblingsessen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fece4e943e30f22e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ArtApp/Zine.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dc5055e2085059fa",
             "type": "leaf",
             "state": {
@@ -73,26 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Other/Homogeneous Function.md",
+                "file": "GER 11/1 - Common Phrases in German Class.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "69825a1cdfb2c97f",
+            "id": "cc85c5cf2ddd2b94",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "HISTO 12/2 - Philippine Revolution.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "HISTO 12/2 - Philippine Revolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "HISTO 12/2 - Philippine Revolution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "HISTO 12/2 - Philippine Revolution.md"
               }
             }
           }
@@ -206,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,35 +170,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69825a1cdfb2c97f",
+  "active": "cc85c5cf2ddd2b94",
   "lastOpenFiles": [
+    "Untitled.md",
+    "HISTO 12/2 - Philippine Revolution.md",
+    "HISTO 12/1- Primary Sources.md",
+    "HISTO 12/Untitled",
+    "EDUC 132/1 - Behaviorism.md",
+    "ArtApp/Zine.md",
+    "GER 11/2 - Greetings and Farewell.md",
+    "HISTO 12",
+    "ArtApp/1 - Introduction.md",
+    "EDUC 132",
+    "PHILO 11",
+    "ArtApp/4.md",
+    "ArtApp/3 - Reading the Image & Structuralism.md",
+    "ArtApp/Blind.md",
+    "PHYS 111/Module 3/3-9 Matrices as Geometric Transformations.md",
+    "PHYS 111/Module 3/3-10 Transformations of Geometric Significance.md",
+    "PHYS 111/Module 4/4-2 General and Particular Solutions.md",
+    "PHYS 111/Module 4/4-3 Homogeneous Equations.md",
+    "PHYS 111/Module 4/4-5 Summary.md",
+    "PHYS 111/Module 3/3-8 Vectors and Matrices.md",
+    "GER 11/Mein Haus.md",
+    "GER 11/Mein Lieblingsessen.md",
+    "GER 11/Untitled.md",
     "Other/Homogeneous Function.md",
     "conflict-files-obsidian-git.md",
     "pdf/PHYS111/Homogeneous Function.pdf",
-    "PHYS 111/Module 4/4-5 Summary.md",
-    "PHYS 111/Module 4/4-3 Homogeneous Equations.md",
     "ArtApp/Untitled.md",
-    "ArtApp/Zine.md",
-    "GER 11/Mein Haus.md",
     "GER 11/Articles.md",
     "GER 11/3 - Introducing Oneself & Others.md",
     "GER 11/Adjectives.md",
     "PHYS 111/Module 1/1-5 Polar Graphs.md",
-    "PHYS 111/Module 1/1-6 Proof for Euler's Formula.md",
-    "PHYS 111/Module 1/1-7 Finding roots of complex numbers.md",
-    "PHYS 111/Module 1/1-4 Complex Conjugates.md",
-    "PHYS 111/Module 1/1-3 Complex (Argand) Plane.md",
-    "PHYS 111/Module 1/1-2 Arithmetic Operations of Complex Numbers.md",
-    "PHYS 111/Module 1/1-1 Complex Numbers.md",
-    "PHYS 111/Module 2/2-6 Parametric Equations of a Vector.md",
-    "PHYS 111/Module 2/2-7 Equation of a Plane.md",
-    "PHYS 111/Module 2/2-2 Vector Addition.md",
-    "PHYS 111/Module 3/3-5 Transpose of a matrix.md",
-    "PHYS 111/Module 3/3-8 Vectors and Matrices.md",
-    "PHYS 111/Module 3/3-10 Transformations of Geometric Significance.md",
-    "PHYS 111/Module 3/3-6 System of 2 Equations for 2 Variables.md",
-    "PHYS 111/Module 3/3-4 Matrix Multiplication.md",
-    "PHYS 111/Module 3/3-2 Matrix Addition.md",
     "pdf/PHYS111/4-5 Summary.pdf",
     "Other",
     "PHYS 111/Module 4",
@@ -259,10 +214,6 @@
     "resources/photos/module 2/pset2-1.PNG",
     "pdf/PHYS111/Problem Set 2.pdf",
     "resources/photos/module 2/plane1.PNG",
-    "resources/photos/module 2",
-    "PHYS 111/Module 2",
-    "PHYS 111/Module 1",
-    "pdf/GER11/2 - Greetings and Farewell.pdf",
     "resources/photos/vector-subtraction.png",
     "resources/photos/vector-addition.png",
     "resources/photos/pset1pic1.png"

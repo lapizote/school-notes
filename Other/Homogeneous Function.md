@@ -1,6 +1,7 @@
 Given a function $f(x,y)$, it is homogeneous if we are able to multiply each variable by arbitrary variable $z$ (such that $f(zx, zy)$) and then rearrange it to get a function in the form $z^nf(x,y)$.
 ### Degree
-Refers to the exponent of $z$ after we rearrange the homogeneous function.
+Refers to the exponent of $z$ after we rearrange the homogene
+ous function.
 #### Example
 $$
 \begin{align}
