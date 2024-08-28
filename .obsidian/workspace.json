@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MATH 31.3/L'Hospital's Rule.md",
+                "file": "PHYS 31.2/Module 1/Interference and Standing Waves.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MATH 31.3/L'Hospital's Rule.md",
+                "file": "PHYS 31.2/Module 1/Interference and Standing Waves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MATH 31.3/L'Hospital's Rule.md",
+                "file": "PHYS 31.2/Module 1/Interference and Standing Waves.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MATH 31.3/L'Hospital's Rule.md"
+                "file": "PHYS 31.2/Module 1/Interference and Standing Waves.md"
               }
             }
           }
@@ -148,50 +148,50 @@
   },
   "active": "b16732cd9d7bc2c2",
   "lastOpenFiles": [
-    "pdf/PHYS111/1-1 Complex Numbers.pdf",
+    "PHYS 31.2/Module 1/Wave Velocity, Energy, Power, and Intensity.md",
+    "PHYS 31.2/Module 1/Interference and Standing Waves.md",
+    "PHYS 31.2/Module 1/Untitled.md",
+    "PHYS 31.2/Module 1/Formula of a Wave.md",
+    "PHYS 31.2/Module 1",
+    "PHYS 111/Module 2/2-6 Parametric Equations of a Vector.md",
+    "PHYS 111/Module 2/2-3 Dot Product.md",
+    "Random.md",
+    "second partial derivatives.md",
+    "PHYS 111/Module 4/4-2 General and Particular Solutions.md",
+    "PHYS 111/Module 4/4-4 Linear.md",
+    "PHYS 111/Module 4/4-3 Homogeneous Equations.md",
+    "PHYS 111/Module 4/4-5 Summary.md",
+    "PHYS 111/Module 4/4-1 Differential Equations.md",
+    "GER 11/Mein Lieblingsessen.md",
+    "GER 11/3 - Introducing Oneself & Others.md",
+    "Untitled.md",
+    "PHYS 31.2",
+    "PHYS 111/Summary.md",
+    "PHYS 112",
+    "PHYS 112.md",
+    "GER 11/Summary.md",
+    "GER 11/Untitled.md",
+    "GER 11/Mein Haus.md",
+    "README.md",
     "MATH 31.3/L'Hospital's Rule.md",
+    "pdf/PHYS111/1-1 Complex Numbers.pdf",
     "MATH 31.3",
     "ArtApp/DBs/3.md",
     "ArtApp/2 - Welcome to Hell - Part 1.md",
     "ArtApp/1 - Introduction.md",
-    "ArtApp/Zine.md",
-    "ArtApp/DBs/2.md",
-    "ArtApp/DBs/1.md",
-    "GER 11/Adjectives.md",
-    "GER 11/Vlog.md",
-    "GER 11/1 - Common Phrases in German Class.md",
-    "GER 11/Mein Lieblingsessen.md",
-    "GER 11/Untitled.md",
-    "GER 11/Summary.md",
-    "GER 11/Meine Familie und Ich.md",
-    "GER 11/Articles.md",
-    "GER 11/Mein Haus.md",
-    "ArtApp/Untitled.md",
-    "GER 11/2 - Greetings and Farewell.md",
-    "GER 11/3 - Introducing Oneself & Others.md",
-    "ArtApp/3 - Reading the Image & Structuralism.md",
-    "ArtApp/Blind.md",
-    "ArtApp/Bluet.md",
-    "ArtApp/DBs.md",
-    "Other/Homogeneous Function.md",
     "ArtApp/DBs",
-    "PHYS 111/Problem Sets/Problem Set 2.md",
     "pdf/PHYS111/Summary.pdf",
     "pdf/PHYS111/Homogeneous Function.pdf",
     "pdf/PHYS111/4-5 Summary.pdf",
     "Other",
-    "PHYS 111/Module 4",
     "resources/photos/vector-addition.png",
     "resources/photos/vector-subtraction.png",
-    "PHYS 111/Module 3",
     "resources/photos/module 2/pset2-1.PNG",
     "resources/photos/module 2/pset2-3_2.PNG",
     "resources/photos/module 2/pset2-3_1.PNG",
     "resources/photos/module 2/pset_2-2_2.PNG",
     "resources/photos/module 2/pset2-2_1.PNG",
-    "pdf/PHYS111/Problem Set 2.pdf",
     "resources/photos/module 2/plane1.PNG",
-    "resources/photos/module 2",
     "resources/photos/pset1pic1.png"
   ]
 }

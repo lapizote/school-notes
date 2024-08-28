@@ -48,7 +48,7 @@ we can say that $y = f(x)$ and then do $\ln y = \ln(f(x))$.
 $$
 \begin{align}
 \lim_{x\rightarrow \infty} &\ln(1+\frac{1}{x})^x \tag{form: $1^\infty$} \\
-y &= \ln(1+\frac{1}{x})^x
+\ln y &= \ln(1+\frac{1}{x})^x
 \end{align}
 $$
 then
