@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "dd89363eeec7547e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EDUC 132/1 - Behaviorism.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EDUC 132/1 - Behaviorism.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EDUC 132/1 - Behaviorism.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -170,11 +182,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "237f7a479ae0a3b8",
+  "active": "dd89363eeec7547e",
   "lastOpenFiles": [
+    "EDUC 132/1 - Behaviorism.md",
+    "conflict-files-obsidian-git.md",
+    "PHYS 31.2/Module 1/Wave Velocity, Energy, Power, and Intensity.md",
+    "PHYS 31.2/Module 1/Untitled.md",
+    "PHYS 31.2/Module 1/Interference and Standing Waves.md",
+    "PHYS 31.2/Module 1/Formula of a Wave.md",
+    "PHYS 31.2/Module 1",
+    "PHYS 31.2",
     "HISTO 12/1- Primary Sources.md",
     "MATH 31.3/L'Hospital's Rule.md",
-    "conflict-files-obsidian-git.md",
     "HISTO 12/2 - Philippine Revolution.md",
     "pdf/PHYS111/Summary.pdf",
     "PHYS 111/Summary.md",
@@ -187,7 +206,6 @@
     "ArtApp/DBs",
     "Untitled.md",
     "HISTO 12/Untitled",
-    "EDUC 132/1 - Behaviorism.md",
     "ArtApp/Zine.md",
     "GER 11/2 - Greetings and Farewell.md",
     "HISTO 12",
@@ -201,13 +219,7 @@
     "PHYS 111/Module 3/3-10 Transformations of Geometric Significance.md",
     "PHYS 111/Module 4/4-2 General and Particular Solutions.md",
     "PHYS 111/Module 4/4-3 Homogeneous Equations.md",
-    "PHYS 111/Module 4/4-5 Summary.md",
-    "PHYS 111/Module 3/3-8 Vectors and Matrices.md",
-    "GER 11/Mein Haus.md",
-    "GER 11/Mein Lieblingsessen.md",
     "pdf/PHYS111/Homogeneous Function.pdf",
-    "pdf/PHYS111/4-5 Summary.pdf",
-    "Other",
     "resources/photos/module 2/pset_2-2_2.PNG",
     "resources/photos/module 2/pset2-3_2.PNG",
     "resources/photos/module 2/pset2-3_1.PNG",
