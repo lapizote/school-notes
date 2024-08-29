@@ -1,10 +1,10 @@
 
-| Indefinit Artikel | Negativ |
-| ----------------- | ------- |
-| Mein              | Kein    |
-| Nein              | Kein    |
-| Feine             | Keine   |
-| Pl.               | Keine   |
+| Indefinit Artikel | Negativ |     |
+| ----------------- | ------- | --- |
+| Mein              | Kein    |     |
+| Nein              | Kein    |     |
+| Feine             | Keine   |     |
+| Pl.               | Keine   |     |
 Definite Articles (The):
 Der -> Masculine
 Das -> Neutral

@@ -1,7 +1,7 @@
 Given two vectors $\vec{a}$ and $\vec{b}$, their dot product can be expressed as follows:
 $$
 \begin{align}
-\vec{a} \cdot \vec{b} = a_xb_x + a_yb_y + a_z+b_z 
+\vec{a} \cdot \vec{b} = a_xb_x + a_yb_y + a_zb_z 
 \end{align}
 $$
 This also implies that the dot product is a scalar quantity.
