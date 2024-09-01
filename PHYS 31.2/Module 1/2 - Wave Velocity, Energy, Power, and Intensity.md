@@ -52,3 +52,7 @@ I \propto \frac{1}{r^2}; && I=\frac{P}{4\pi r^2}; && \frac{I_1}{I_2} = \frac{(r_
 \end{align*}
 $$
 The third equation is due to the inverse square law.
+
+### Summary:
+1. (Propagation) Speed of a Transverse Wave on a String: $v = \sqrt{\frac{F}{\mu}}$
+2. Power of a wave: $P(x,t) = \sqrt{\mu F}\omega^2A^2\sin^2(kx-\omega t)$
