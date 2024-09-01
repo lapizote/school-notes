@@ -30,3 +30,13 @@ $$
 \frac{\delta^2y(x,t)}{\delta x^2} = \frac{1}{v^2} \frac{\delta^2y(x,t)}{\delta t^2}
 $$
 Note: In a lot of instances the speed of light $c$ is used in place of $v$.
+
+### Summary
+Function of a particle in a wave:
+$$
+y(x,t) = A\cos(kx\pm \omega t)
+$$
+Its components:
+- Wave number $k = \frac{2\pi}{\lambda}$
+- Angular frequency $\omega = 2\pi f = \frac{2\pi}{T}$
+- Amplitude $A$
