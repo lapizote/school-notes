@@ -42,3 +42,23 @@ Textbook definition:
 3. Remove desirable stimuli
 4. Present aversive stimuli (punishment)
 	- The consequence should NOT cause physical, mental, or emotional harm
+
+### Synthesis
+#### Designing Learning
+- writing learning objectives/outcomes
+- designed such that intended behavior manifests after the learning
+#### Learning & Teaching Methods
+- Programmed learning & e-learning
+	- e.g. Kahoot
+- Practice (Guided & Independent)
+	- Homework
+#### Questioning
+- use of closed or convergent questions
+#### Assessment: Objective Test
+- Supply type
+- Binary choice
+- Multiple choice
+#### Class Management
+- reinforcement
+- classroom rules (policies) and consequences
+- prompts (e.g. guidelines for group discussion & presentation)

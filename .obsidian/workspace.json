@@ -37,26 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EDUC 132/1 - Behaviorism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd89363eeec7547e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "HISTO 12/3 - Philippine-American War.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -133,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "HISTO 12/3 - Philippine-American War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "HISTO 12/3 - Philippine-American War.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "HISTO 12/3 - Philippine-American War.md"
               }
             }
           }
@@ -182,19 +170,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd89363eeec7547e",
+  "active": "237f7a479ae0a3b8",
   "lastOpenFiles": [
+    "HISTO 12/2 - Philippine Revolution.md",
+    "HISTO 12/3 - Philippine-American War.md",
+    "HISTO 12/1- Primary Sources.md",
+    "EDUC 132/2 - Social Cognitive Approach to Learning.md",
     "EDUC 132/1 - Behaviorism.md",
+    "PHYS 31.2/Module 1/Interference and Standing Waves.md",
+    "PHYS 31.2/Module 1/Untitled.md",
+    "MATH 31.3/L'Hospital's Rule.md",
+    "Random.md",
+    "PHYS 31.2/Module 1/Formula of a Wave.md",
     "conflict-files-obsidian-git.md",
     "PHYS 31.2/Module 1/Wave Velocity, Energy, Power, and Intensity.md",
-    "PHYS 31.2/Module 1/Untitled.md",
-    "PHYS 31.2/Module 1/Interference and Standing Waves.md",
-    "PHYS 31.2/Module 1/Formula of a Wave.md",
     "PHYS 31.2/Module 1",
     "PHYS 31.2",
-    "HISTO 12/1- Primary Sources.md",
-    "MATH 31.3/L'Hospital's Rule.md",
-    "HISTO 12/2 - Philippine Revolution.md",
     "pdf/PHYS111/Summary.pdf",
     "PHYS 111/Summary.md",
     "PHYS 111/Module 4/4-4 Linear.md",
@@ -216,9 +207,6 @@
     "ArtApp/3 - Reading the Image & Structuralism.md",
     "ArtApp/Blind.md",
     "PHYS 111/Module 3/3-9 Matrices as Geometric Transformations.md",
-    "PHYS 111/Module 3/3-10 Transformations of Geometric Significance.md",
-    "PHYS 111/Module 4/4-2 General and Particular Solutions.md",
-    "PHYS 111/Module 4/4-3 Homogeneous Equations.md",
     "pdf/PHYS111/Homogeneous Function.pdf",
     "resources/photos/module 2/pset_2-2_2.PNG",
     "resources/photos/module 2/pset2-3_2.PNG",
