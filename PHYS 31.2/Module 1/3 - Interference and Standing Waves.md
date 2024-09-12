@@ -23,5 +23,42 @@ For a standing wave to manifest, the length of the string $L$ and the wavelength
 $$
 L = \frac{n}{2}\lambda_n
 $$
-where $n$ is any integer, corresponding to the number of nodes present in the standing wave.
+where $n$ is any integer, corresponding to the number of antinodes present in the standing wave.
 #### Wave Function of a Standing Wave
+Given two wave positions $y_1$ and $y_2$,
+$$
+\begin{align*}
+	y_1(x,t) = -A\cos(kx+\omega t)
+	y_2(x,t) = A\cos(kx+\omega t)
+\end{align*}
+$$
+then the final displacement position is
+$$
+\begin{align*}
+y(x,t) &= y_1(x,t) + y_2(x,t) \\
+&= A(-\cos(kx+\omega t)+A\cos(kx+\omega t)) \\
+&= (2A\sin kx)(\sin(\omega t)) \tag{using trig addition} \\
+&= (A_{\text{sw}}\sin kx)(\sin(\omega t)) \tag{alternatively} \\
+\end{align*}
+$$
+To then find the position of the nodes, we can take advantage of the fact that $y(x,t) = 0$ at these points. Because $A_\text{sw} > 0$, then $\sin(kx) = 0$. From these we can get the following values:
+$$
+\begin{align*}
+kx = 0, \pi, 2\pi, 3\pi, ... \\
+x = 0, \frac{\pi}{k},\frac{2\pi}{k}, \frac{3\pi}{k}, ...
+\end{align*}
+$$
+
+### Normal Modes of a String
+Since we have the relationship
+$$
+L = n\frac{\lambda}{2}
+$$
+then we can have a possible standing wave frequency related to its corresponding wavelength according to:
+$$
+f_n = \frac{v}{\lambda_n}
+$$
+where $f_1$ is the fundamental frequency.
+
+Integer multiples of $f_1$ correspond to $2f, 3f, 4f,$ etc. These are known as harmonics or overtones
+

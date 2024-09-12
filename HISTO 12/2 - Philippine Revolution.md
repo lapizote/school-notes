@@ -69,6 +69,15 @@ Tejeros Convention
 	- All Magdiwang except for Aguinaldo
 - Not actually a story of Magdalo vs Magdiwang!
 	- Magdiwangs sided with Magdalo (Aguinaldo)
-
-Maggie
-Jose
+### Biak-na-bato
+Spaniards
+- Madrid Govt wanted revolution crushed
+- Governor-general used policy of attraction
+Aguinaldo
+- Objective: continue war of independence
+- Constitution: copy of Cuban constitution
+#### Pact of Biak-na-bato
+- Mediator: Pedro Paterno
+Both sides acted in bad faith
+- Spanish governor-general: expatriate revolutionary leaders
+- Aguinaldo: suspension of hostilities, use money to buy arms
