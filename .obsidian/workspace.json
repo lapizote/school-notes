@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PHYS 31.2/Module 1/3 - Interference and Standing Waves.md",
+                "file": "PHYS 31.2/Module 2/3 - Sound Intensity.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PHYS 31.2/Module 1/3 - Interference and Standing Waves.md",
+                "file": "PHYS 31.2/Module 2/3 - Sound Intensity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PHYS 31.2/Module 1/3 - Interference and Standing Waves.md",
+                "file": "PHYS 31.2/Module 2/3 - Sound Intensity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PHYS 31.2/Module 1/3 - Interference and Standing Waves.md"
+                "file": "PHYS 31.2/Module 2/3 - Sound Intensity.md"
               }
             }
           }
@@ -148,15 +148,21 @@
   },
   "active": "7b41e7b33d24717b",
   "lastOpenFiles": [
-    "PHYS 31.2/Module 1/4 - Sound and Hearing.md",
+    "PHYS 31.2/Module 1/2 - Wave Velocity, Energy, Power, and Intensity.md",
+    "PHYS 31.2/Module 1/3 - Interference and Standing Waves.md",
+    "PHYS 31.2/Module 2/3 - Sound Intensity.md",
+    "PHYS 31.2/Module 2/1 - Sound and Hearing.md",
+    "PHYS 31.2/Module 2/2 - Speed of Sound Waves.md",
+    "PHYS 31.2/Module 1/1 - Formula of a Wave.md",
+    "PHYS 31.2/resources/Figure16.7.PNG",
+    "PHYS 31.2/resources/Figure16.3.PNG",
+    "PHYS 31.2/resources/Figure16.2.PNG",
+    "PHYS 31.2/Module 2",
     "EDUC 132/Discussion Boards.md",
     "EDUC 132/1 - Behaviorism.md",
     "EDUC 132/2 - Social Cognitive Approach to Learning.md",
     "HISTO 12/Untitled.md",
     "HISTO 12/4 - R.md",
-    "PHYS 31.2/Module 1/1 - Formula of a Wave.md",
-    "PHYS 31.2/Module 1/2 - Wave Velocity, Energy, Power, and Intensity.md",
-    "PHYS 31.2/Module 1/3 - Interference and Standing Waves.md",
     "MATH 31.3/L'Hospital's Rule.md",
     "MATH 31.3/Series.md",
     "PHYS 111/Module 2/2-7 Equation of a Plane.md",
@@ -172,9 +178,7 @@
     "PHYS 111/Module 3/3-7 Algebraic Properties of Matrices.md",
     "PHYS 111/Module 3/3-8 Vectors and Matrices.md",
     "PHYS 31.2/Module 1/0 - Table of Contents.md",
-    "4 - Alphabet.md",
     "PHYS 31.2/resources",
-    "PHYS 31.2/Untitled.md",
     "HISTO 12",
     "EDUC 132",
     "PHYS 31.2/Module 1",
@@ -183,15 +187,12 @@
     "pdf/PHYS111/1-1 Complex Numbers.pdf",
     "MATH 31.3",
     "ArtApp/DBs",
-    "pdf/PHYS111/Summary.pdf",
     "resources/photos/vector-addition.png",
     "resources/photos/vector-subtraction.png",
     "resources/photos/module 2/pset2-1.PNG",
     "resources/photos/module 2/pset2-3_2.PNG",
     "resources/photos/module 2/pset2-3_1.PNG",
     "resources/photos/module 2/pset_2-2_2.PNG",
-    "resources/photos/module 2/pset2-2_1.PNG",
-    "resources/photos/module 2/plane1.PNG",
-    "resources/photos/pset1pic1.png"
+    "resources/photos/module 2/pset2-2_1.PNG"
   ]
 }
