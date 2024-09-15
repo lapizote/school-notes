@@ -3,7 +3,7 @@ Sound is:
 
 Consider (for now) that sound is:
 - in an idealized case of a sound wave
-- propagating in the +x-direction *only*.
+- propagating in the $+x$-direction *only*.
 
 Then we have the wave function $y(x,t)$ as the displacement $y$ of a particle at position $x$ and time $t$. Essentially, we use the same function [[1 - Formula of a Wave|as previously]],
 $$

@@ -56,9 +56,9 @@ L = n\frac{\lambda}{2}
 $$
 then we can have a possible standing wave frequency related to its corresponding wavelength according to:
 $$
-f_n = \frac{v}{\lambda_n}
+f_n = \frac{v}{\lambda_n} = n\frac{v}{2L}
 $$
 where $f_1$ is the fundamental frequency.
 
-Integer multiples of $f_1$ correspond to $2f, 3f, 4f,$ etc. These are known as harmonics or overtones
+Integer multiples of $f_1$ correspond to $2f, 3f, 4f,$ etc. These are known as harmonics or overtones.
 
