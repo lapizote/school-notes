@@ -69,6 +69,7 @@ Then to get the sound intensity level in decibels:
 $$
 \beta = (10dB)\log\frac{I}{I_0}
 $$
+where $I_0 = 1 \times 10^{-12} W/m^2$
 
 ### Standing Sound Wave
 ````col
