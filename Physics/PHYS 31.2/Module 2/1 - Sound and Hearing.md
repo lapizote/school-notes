@@ -61,3 +61,28 @@ In a sinusoidal wave of moderate loudness, the max pressure is $3.0 \times 10^{-
 
 **Solution:**
 
+### Summary
+#### Sound Pressure
+When sound passes through a medium (fluid), there is a change in volume as follows:
+$$
+\begin{align}
+\frac{dv}{V} &= \lim_{\Delta x \rightarrow 0} \frac{S(y(x+\Delta x, t)-y(x,t))}{S\Delta x} \\
+\frac{dv}{V} &= \frac{\delta y(x,t)}{\delta x}
+\end{align}
+$$
+Note that the bulk modulus $B$ is represented in terms of pressure and change in volume:
+$$
+B = \frac{-p(x,t)}{\frac{dv}{V}}
+$$
+These two equations can then be combined and rearranged to get the pressure equation:
+$$
+p(x,t) = BkA\sin(kx-\omega t)
+$$
+where $B$ is the bulk modulus.
+
+The maximum pressure can then be found through:
+$$
+\begin{align*}
+p_\text{max} = BkA \tag{of a sinusoidal sound wave}
+\end{align*}
+$$

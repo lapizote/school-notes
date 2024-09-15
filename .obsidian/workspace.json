@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/PHYS 31.2/Module 2/3 - Sound Intensity.md",
+                "file": "Physics/PHYS 31.2/Module 2/7 - Summary.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/PHYS 31.2/Module 2/3 - Sound Intensity.md",
+                "file": "Physics/PHYS 31.2/Module 2/7 - Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/PHYS 31.2/Module 2/3 - Sound Intensity.md",
+                "file": "Physics/PHYS 31.2/Module 2/7 - Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/PHYS 31.2/Module 2/3 - Sound Intensity.md"
+                "file": "Physics/PHYS 31.2/Module 2/7 - Summary.md"
               }
             }
           }
@@ -148,8 +148,20 @@
   },
   "active": "60bcaa3a228701c6",
   "lastOpenFiles": [
+    "Physics/PHYS 31.2/Module 2/6 - Doppler Effect.md",
+    "Physics/PHYS 31.2/Module 2/7 - Summary.md",
+    "Physics/PHYS 31.2/Module 2/5 - Sound Wave Interference.md",
     "Physics/PHYS 31.2/Module 2/4 - Standing Sound Waves.md",
+    "Physics/PHYS 31.2/Module 2/3 - Sound Intensity.md",
     "Physics/PHYS 31.2/Module 2/2 - Speed of Sound Waves.md",
+    "Physics/PHYS 31.2/resources/Figure16.38.PNG",
+    "Physics/PHYS 31.2/Module 2/1 - Sound and Hearing.md",
+    "Physics/PHYS 31.2/Module 1/1 - Formula of a Wave.md",
+    "Physics/PHYS 31.2/resources/Figure16.2.PNG",
+    "Physics/PHYS 31.2/Module 1/3 - Interference and Standing Waves.md",
+    "Physics/PHYS 31.2/resources/Figure16.36.png",
+    "Physics/PHYS 31.1",
+    "Random.md",
     "Physics/PHYS 111/Problem Sets/Problem Set 1.md",
     "Physics/PHYS 111/Problem Sets/Problem Set 2.md",
     "Physics/PHYS 111/Problem Sets/Problem Set 3.md",
@@ -165,15 +177,6 @@
     "Physics/PHYS 111/Module 3/3-6 System of 2 Equations for 2 Variables.md",
     "Physics/PHYS 111/Module 3/3-5 Transpose of a matrix.md",
     "Physics/PHYS 111/Module 3/3-3 Scalar Multiplication.md",
-    "Physics/PHYS 111/Module 3/3-4 Matrix Multiplication.md",
-    "Physics/PHYS 111/Module 3/3-2 Matrix Addition.md",
-    "Physics/PHYS 111/Module 3/3-1 Matrices.md",
-    "Physics/PHYS 111/Module 2/2-7 Equation of a Plane.md",
-    "Physics/PHYS 111/Module 2/2-6 Parametric Equations of a Vector.md",
-    "Physics/PHYS 111/Module 2/2-5 Cross Product.md",
-    "Physics/PHYS 111/Module 2/2-4 Unit Vectors.md",
-    "Physics/PHYS 111/Module 2/2-3 Dot Product.md",
-    "Physics/PHYS 111/Module 2/2-2 Vector Addition.md",
     "Physics",
     "PHYS 111/resources/photos/vector-addition.png",
     "PHYS 111/resources/photos/vector-subtraction.png",
@@ -182,9 +185,6 @@
     "PHYS 111/resources/photos/module 2/pset2-3_1.PNG",
     "PHYS 111/resources/photos/module 2/pset2-1.PNG",
     "PHYS 111/resources/photos/module 2/pset_2-2_2.PNG",
-    "PHYS 111/resources/photos/module 2/plane1.PNG",
-    "PHYS 31.2/resources/Figure16.21.PNG",
-    "PHYS 31.2/resources/Figure16.9.PNG",
     "PHYS 31.2/Module 2",
     "PHYS 31.2/resources",
     "HISTO 12",
@@ -192,7 +192,6 @@
     "PHYS 31.2/Module 1",
     "PHYS 31.2",
     "PHYS 112",
-    "pdf/PHYS111/1-1 Complex Numbers.pdf",
-    "MATH 31.3"
+    "pdf/PHYS111/1-1 Complex Numbers.pdf"
   ]
 }

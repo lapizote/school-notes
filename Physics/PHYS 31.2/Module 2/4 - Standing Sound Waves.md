@@ -27,3 +27,24 @@ In a sound pipe, a resonance curve pattern can be seen where peaks occur at the 
 
 ![[Figure16.9.PNG]]
 
+### Summary
+Open pipe:
+$$
+	\begin{align}
+	f_n = n\frac{v}{2L} \tag{n = 1, 2, 3, ...}
+	\end{align}
+$$
+Stopped pipe:
+$$
+	\begin{align}
+	f_n = n\frac{v}{4L} \tag{n = 1, 3, 5, ...}
+	\end{align}
+$$
+
+Their fundamental frequencies would then be:
+$$
+\begin{align}
+f_1 &= \frac{v}{2L} \tag{for an open pipe} \\
+f_1 &= \frac{v}{4L} \tag{for a closed pipe}
+\end{align}
+$$

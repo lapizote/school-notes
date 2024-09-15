@@ -43,3 +43,20 @@ where:
 - $M$ = molar mass
 - $R$ = gas constant, $8.314$ J/mole-K
 - $\gamma$ = heat capacity ratio
+
+### Summary
+#### Velocity
+We can express velocity in terms of the Bulk or Young's Modulus. Note that the former is for liquids, the latter is for solids.
+$$
+v = \sqrt{\frac{B}{\rho}} \,\, \text{or} \,\, v = \sqrt{\frac{Y}{\rho}}
+$$
+
+We can also find the velocity in gas in terms of the heat capacity ration $\gamma$:
+$$
+v = \sqrt{\frac{\gamma RT}{M}}
+$$
+where:
+- $T$ = absolute temperature (K)
+- $M$ = molar mass
+- $R$ = gas constant, $8.314$ J/mole-K
+- $\gamma$ = heat capacity ratio

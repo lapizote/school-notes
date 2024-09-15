@@ -61,3 +61,7 @@ $$
 $$
 I = \frac{p_\text{max}^2}{2\rho v} = \frac{p_\text{max}^2}{2\sqrt{\rho B}}
 $$
+Then to get the sound intensity level in decibels:
+$$
+\beta = (10dB)\log\frac{I}{I_0}
+$$
