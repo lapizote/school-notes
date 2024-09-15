@@ -27,4 +27,4 @@ $$
 &= \frac{4}{5} - \frac{7}{5}i
 \end{align}
 $$
-See [[1-3 Complex (Argand) Plane#Useful things about complex number graphs]] for the effects of various arithmetic operations on the complex graphs.
+See [[3 - Complex (Argand) Plane#Useful things about complex number graphs]] for the effects of various arithmetic operations on the complex graphs.

@@ -1,4 +1,4 @@
-**Note: Uses desmos-generated graphs, if you are using Obsidian make sure you have internet.**
+**Note: Uses desmos-generated graphs.
 
 Notation for conjugates:
 $$

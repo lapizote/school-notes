@@ -1,3 +1,4 @@
+#phys31-2 #waves #wave-equation
 $$
 \begin{align}
 	k &= \frac{2\pi}{\lambda} \\

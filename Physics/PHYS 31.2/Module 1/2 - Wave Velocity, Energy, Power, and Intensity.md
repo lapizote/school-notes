@@ -1,3 +1,4 @@
+#phys31-2 #waves 
 ### Velocity of Waves on a String
 Speed of a transverse wave on a string:
 $$

@@ -1,4 +1,4 @@
-**Note: Uses desmos-generated graphs, if you are using Obsidian make sure you have internet.**
+**Note: Uses desmos-generated graphs.
 
 Similar to regular cartesian coordinates, complex numbers may be represented in polar form.
 
@@ -39,7 +39,7 @@ r &= \sqrt{1^2+1^2} = \sqrt{2} \\
 &= \sqrt{2}(\cos45\degree+\sin45\degree)
 \end{align}
 $$
-We can use Euler's formula $e^{i\theta} = \cos\theta + i\sin\theta$ ([[1-6 Proof for Euler's Formula|see proof here]]) to determine the exponential polar form, which would be
+We can use Euler's formula $e^{i\theta} = \cos\theta + i\sin\theta$ ([[6 - Proof for Euler's Formula|see proof here]]) to determine the exponential polar form, which would be
 $$
 z = re^{i\theta}.
 $$
@@ -53,4 +53,4 @@ $$(\sqrt{2}e^{i45\degree})^6$$
 is much easier to evaluate than
 $$(1+i)^6.$$
 
-You can also [[1-7 Finding roots of complex numbers|find the roots of complex numbers]] using this form.
+You can also [[7 - Finding roots of complex numbers|find the roots of complex numbers]] using this form.

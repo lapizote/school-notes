@@ -1,3 +1,4 @@
+#phys31-2 #waves 
 ### Intensity
 Remember in [[2 - Wave Velocity, Energy, Power, and Intensity]] that intensity is the energy transfer per unit area perpendicular to the direction of propagation. Also note the [[1 - Formula of a Wave|formula for displacement on a wave]] and [[1 - Sound and Hearing|pressure fluctuation equation]]:
 $$

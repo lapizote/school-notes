@@ -1,3 +1,4 @@
+#phys31-2 #waves #standingwave
 ### Normal Modes
 There are two common cases for standing sound waves:
 1. Standing sound waves in an open pipe (open on both ends)

@@ -1,4 +1,4 @@
-1. Matrix of a rotation by an angle $\theta$
+Matrix of a rotation by an angle $\theta$
 $$
 R_\theta = 
 	\begin{bmatrix}

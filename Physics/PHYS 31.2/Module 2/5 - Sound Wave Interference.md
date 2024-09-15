@@ -1,3 +1,4 @@
+#phys31-2 #waves 
 Consider two speakers that emit identical sinusoidal sound waves.
 ![[Figure16.21.PNG]]
 At point $P$, the waves are in phase. Meanwhile, the waves are out of phase by $\frac{1}{2}$ at point $Q$.

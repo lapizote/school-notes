@@ -1,4 +1,4 @@
-**Note: Uses desmos-generated graphs, if you are using Obsidian make sure you have internet.**
+**Note: Uses desmos-generated graphs.
 
 Since a complex number $z$ can be said to have two parts $x$ and $y$ ($Re(z)$ and $Im(z)$ respectively), we can represent it in a complex number plane (also known as an Argand plane).
 
@@ -31,4 +31,4 @@ $$
 	- For subtraction:
 	![[vector-subtraction.png|400]]
 
-2. Since [[1-4 Complex Conjugates|complex conjugates]] only differ by a negative imaginary part, we can say that it is a reflection of the original complex number along the x-axis.
+2. Since [[4 - Complex Conjugates|complex conjugates]] only differ by a negative imaginary part, we can say that it is a reflection of the original complex number along the x-axis.

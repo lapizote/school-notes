@@ -1,3 +1,4 @@
+#phys31-2 #waves 
 Sound is:
 - A longitudinal wave in a medium (can propagate through liquid and solid).
 

@@ -1,3 +1,4 @@
+#phys31-2 #waves #standingwave
 ### Boundary Conditions
 A wave on a string reflects depending on the state of the end of the string:
 - If it is a fixed end, inverted reflection occurs.
