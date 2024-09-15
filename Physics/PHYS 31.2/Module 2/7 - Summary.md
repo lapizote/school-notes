@@ -24,10 +24,21 @@ p_\text{max} = BkA \tag{of a sinusoidal sound wave}
 $$
 
 ### Sound Velocity
-We can express velocity in terms of the Bulk or Young's Modulus. Note that the former is for liquids, the latter is for solids.
+We can express velocity in terms of the Bulk or Young's Modulus.
+````col
+```col-md
+For liquids
 $$
-v = \sqrt{\frac{B}{\rho}} \,\, \text{or} \,\, v = \sqrt{\frac{Y}{\rho}}
+v = \sqrt{\frac{B}{\rho}}
 $$
+```
+```col-md
+For solids
+$$
+v = \sqrt{\frac{B}{\rho}}
+$$
+```
+````
 
 We can also find the velocity in gas in terms of the heat capacity ration $\gamma$:
 $$
@@ -41,31 +52,40 @@ where:
 
 ### Sound Intensity
 The intensity of a sound wave can be expressed as follows:
+````col
+```col-md
 $$
 I = \frac{1}{2}\sqrt{\rho B}\omega^2A^2
 $$
+
+```
+```col-md
 $$
 I = \frac{p_\text{max}^2}{2\rho v} = \frac{p_\text{max}^2}{2\sqrt{\rho B}}
 $$
+```
+````
 Then to get the sound intensity level in decibels:
 $$
 \beta = (10dB)\log\frac{I}{I_0}
 $$
 
 ### Standing Sound Wave
-Open pipe:
+````col
+```col-md
+Open Pipe (Open both sides)
 $$
-	\begin{align}
-	f_n = n\frac{v}{2L} \tag{n = 1, 2, 3, ...}
-	\end{align}
-$$
-Stopped pipe:
-$$
-	\begin{align}
-	f_n = n\frac{v}{4L} \tag{n = 1, 3, 5, ...}
-	\end{align}
-$$
+f_n = n\frac{v}{2L} \,\, \text{(n = 1, 2, 3, ...)}
 
+$$
+```
+```col-md
+Stopped Pipe (Closed one side)
+$$
+f_n = n\frac{v}{4L} \,\, \text{(n = 1, 3, 5, ...)}
+$$
+```
+````
 Their fundamental frequencies would then be:
 $$
 \begin{align}
@@ -80,7 +100,6 @@ f_\text{beat} = |f_2 - f_1|
 $$
 
 ### Doppler Effect
-A generalization of the doppler effect formula is
 $$
 f_L = \frac{v \pm v_L}{v \pm v_s}f_s
 $$
