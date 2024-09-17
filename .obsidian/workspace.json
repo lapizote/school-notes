@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "41217f56b48f4d55",
+        "id": "f1c32c4258a15bdd",
         "type": "tabs",
         "children": [
           {
-            "id": "46ac9de4f8a14c35",
+            "id": "180f7632a9b56ffa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Math/Other/Partial Derivatives.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Math/Other/Partial Derivatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Math/Other/Partial Derivatives.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Math/Other/Partial Derivatives.md"
               }
             }
           }
@@ -145,10 +145,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46ac9de4f8a14c35",
+  "active": "180f7632a9b56ffa",
   "lastOpenFiles": [
-    "HISTO 12/6 - Women.md",
+    "Random.md",
+    "README.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Untitled 2.md",
+    "Math/Other/Homogeneous Function.md",
+    "Math/Other/Partial Derivatives.md",
+    "Math/MATH 31.3/Series.md",
+    "Math/MATH 31.3/L'Hospital's Rule.md",
+    "Humanities/HISTO 12/3 - Philippine-American War.md",
+    "Humanities/HISTO 12/4 - R.md",
+    "Humanities/HISTO 12/5 - Industrial Education.md",
+    "Humanities/HISTO 12/6 - Women.md",
     "conflict-files-obsidian-git.md",
+    "HISTO 12/6 - Women.md",
     "pdf/PHYS 31.2/Module 2 Summary.pdf",
     "pdf/PHYS 31.2",
     "Physics/PHYS 111/resources/photos/module 2/pset_2-2_2.PNG",
@@ -174,19 +187,6 @@
     "Physics/PHYS 31.2/Module 1/1 - Formula of a Wave.md",
     "Physics/PHYS 111/resources/photos",
     "Physics/PHYS 111/Problem Sets/Problem Set 3.md",
-    "Physics/PHYS 111/Problem Sets/Problem Set 2.md",
-    "Physics/PHYS 111/Problem Sets/Problem Set 1.md",
-    "Physics/PHYS 111/Module 4/4-4 Linear.md",
-    "Physics/PHYS 111/Module 4/4-5 Summary.md",
-    "Physics/PHYS 111/Module 4/4-3 Homogeneous Equations.md",
-    "Physics/PHYS 111/Module 4/4-2 General and Particular Solutions.md",
-    "Physics/PHYS 111/Module 4/4-1 Differential Equations.md",
-    "Physics/PHYS 111/Module 3/3-9 Matrices as Geometric Transformations.md",
-    "Physics/PHYS 111/Module 3/3-8 Vectors and Matrices.md",
-    "Physics/PHYS 111/Module 3/3-7 Algebraic Properties of Matrices.md",
-    "Physics/PHYS 111/Module 3/3-6 System of 2 Equations for 2 Variables.md",
-    "Physics/PHYS 111/Module 3/3-5 Transpose of a matrix.md",
-    "Physics/PHYS 111/Module 3/3-4 Matrix Multiplication.md",
     "Physics/PHYS 31.2/resources",
     "Physics/PHYS 31.2/Module 2",
     "Physics/PHYS 31.2/Module 1",
