@@ -53,3 +53,42 @@
 - Feb 4: American soldier shoots Filipino soldier
 	- famous story: Filipino walking is halted, but Filipino didnt understand and kept walking
 - Feb 6: US ratification
+
+### Filipino capacity
+- negative appraisals from American teachers
+- Fee: "The Filipino is like an orphan baby"
+- Philinda Rand: "These people have absolutely untrained minds and no self-control."
+- Filipino challenge: "We are a literary people. We have the literary sense for all languages."
+
+### Political Contradictions
+- Class elections
+- Fee: " Beyond, through double doors, the voting precinct"
+- Ironic, Filipinos voted in schools but could not vote in actual elections
+- Class on American revolution
+	- Taxation without representation
+	- Students: "Just like the Americans with us. They tax us without representation."
+- Americanize elite Filipinos to ensure collaboration
+	- Studies in the US
+	- University of the Philippines
+	- Philippine Women's University
+- Yet still dream of Philippine independence
+	- The people educated in the US were more nationalistic
+
+### Tarhata Kiram
+- niece of sultan of Sulu
+- Studied in:
+	- Normal School in Manila
+	- University of Illinois
+		- roommate: Carmen Aguinaldo (daughter of Emilio Aguinaldo)
+- example of Americanization
+- returned to Sulu
+- involved in rebellion
+- Atlantic Constitution: "despite the best efforts of the University of Illinois and other agencies of American culture to send her back to the Philippines thoroughly and incurably Americanized"
+- Margaret Stoll (classmate): "(Kiram) is a cultured, refined, and keen witted woman, who, against the odds of century-old oriental customs, is struggling to maintain her thoroughly occidental ideas"
+- Kiram: "the experience of all colonial governments that the most troublesome elements in a subjugated country belong to the educated class, particularly those educated abroad. It is axiomatic that you cannot make a slave of a man after educating."
+
+### Filipino teachers
+- outnumbered American teachers
+- Americans controlled highest positions
+- policy of Filipinization -> resignation of some American teachers like Fee
+- 

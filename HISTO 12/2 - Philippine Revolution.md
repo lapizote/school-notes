@@ -1,4 +1,4 @@
-## First Phase (1896-1897)
+At## First Phase (1896-1897)
 #### 1896 Revolution
 Manila
 - ill-defended
