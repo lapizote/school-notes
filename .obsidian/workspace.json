@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "911e13989cc3ec4d",
+    "id": "f2b2c88636174bb7",
     "type": "split",
     "children": [
       {
-        "id": "f1c32c4258a15bdd",
+        "id": "68013b65269bd40e",
         "type": "tabs",
         "children": [
           {
-            "id": "180f7632a9b56ffa",
+            "id": "60bcaa3a228701c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Other/Partial Derivatives.md",
+                "file": "Humanities/HISTO 12/4 - Schools.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "722cd56cf4a2e94f",
+    "id": "a3d67bf1cd8ea601",
     "type": "split",
     "children": [
       {
-        "id": "e3bc758827192fc5",
+        "id": "6adc024c6b7fb262",
         "type": "tabs",
         "children": [
           {
-            "id": "92341869cad523c5",
+            "id": "a02c6939c0e3d5ad",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "e9ce08f5e6f57d1a",
+            "id": "5c37b54366e23ba3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "c93fe4ff29da90ef",
+            "id": "98fb6c1efeb43cb0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,34 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "12ce089f2b4e8bd9",
+    "id": "948455b2bd4c2acb",
     "type": "split",
     "children": [
       {
-        "id": "6ee7f201964d8046",
+        "id": "0472a586cf5a63d1",
         "type": "tabs",
         "children": [
           {
-            "id": "63e561c07e5d28c6",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "878a43de18ff0b60",
+            "id": "32f5ab47543d15b9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Other/Partial Derivatives.md",
+                "file": "Humanities/HISTO 12/4 - Schools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,24 +97,35 @@
             }
           },
           {
-            "id": "84e775b7832cb67e",
+            "id": "6ceca32a190977cc",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Other/Partial Derivatives.md",
+                "file": "Humanities/HISTO 12/4 - Schools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e489858e734913bd",
+            "id": "997dace3e54f9d9c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3b3c6b91fbb0f6ec",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Other/Partial Derivatives.md"
+                "file": "Humanities/HISTO 12/4 - Schools.md"
               }
             }
           }
@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,53 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "180f7632a9b56ffa",
+  "active": "60bcaa3a228701c6",
   "lastOpenFiles": [
-    "Random.md",
-    "README.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Untitled 2.md",
-    "Math/Other/Homogeneous Function.md",
-    "Math/Other/Partial Derivatives.md",
-    "Math/MATH 31.3/Series.md",
-    "Math/MATH 31.3/L'Hospital's Rule.md",
-    "Humanities/HISTO 12/3 - Philippine-American War.md",
-    "Humanities/HISTO 12/4 - R.md",
     "Humanities/HISTO 12/5 - Industrial Education.md",
+    "Humanities/HISTO 12/4 - Schools.md",
+    "Humanities/HISTO 12/3 - Philippine-American War.md",
+    "Humanities/GER 11/2 - Greetings and Farewell.md",
+    "Humanities/GER 11/3 - Introducing Oneself & Others.md",
+    "Physics/PHYS 31.2/Module 2/Summary.md",
     "Humanities/HISTO 12/6 - Women.md",
-    "conflict-files-obsidian-git.md",
-    "HISTO 12/6 - Women.md",
+    "Humanities/EDUC 132/3- Cognitive Perspective of Learning.md",
+    "Physics/PHYS 31.2/Module 2/6 - Doppler Effect.md",
+    "Physics/PHYS 31.2/Module 2/3 - Sound Intensity.md",
+    "Physics/PHYS 31.2/Module 2/4 - Standing Sound Waves.md",
+    "Physics/PHYS 31.2/Module 2/5 - Sound Wave Interference.md",
     "pdf/PHYS 31.2/Module 2 Summary.pdf",
     "pdf/PHYS 31.2",
-    "Physics/PHYS 111/resources/photos/module 2/pset_2-2_2.PNG",
-    "Physics/PHYS 111/resources/photos/module 2/pset2-3_2.PNG",
-    "Physics/PHYS 111/resources/photos/module 2/pset2-3_1.PNG",
-    "Physics/PHYS 111/resources/photos/module 2/pset2-2_1.PNG",
-    "Physics/PHYS 111/resources/photos/module 2/pset2-1.PNG",
-    "Physics/PHYS 111/resources/photos/module 2/plane1.PNG",
-    "Physics/PHYS 111/resources/photos/vector-subtraction.png",
-    "Physics/PHYS 111/resources/photos/vector-addition.png",
-    "Physics/PHYS 111/resources/photos/pset1pic1.png",
-    "Physics/PHYS 111/resources/photos/module 2",
-    "Physics/PHYS 31.2/resources/Figure16.9.PNG",
-    "Physics/PHYS 31.2/Module 2/6 - Doppler Effect.md",
-    "Physics/PHYS 31.2/Module 2/Summary.md",
-    "Physics/PHYS 31.2/Module 2/5 - Sound Wave Interference.md",
-    "Physics/PHYS 31.2/Module 2/4 - Standing Sound Waves.md",
-    "Physics/PHYS 31.2/Module 2/3 - Sound Intensity.md",
+    "pdf/PHYS 32.2",
+    "pdf/New folder",
+    "pdf/PHYS112/Module 2 Summary.pdf",
+    "pdf/PHYS112",
     "Physics/PHYS 31.2/Module 2/2 - Speed of Sound Waves.md",
-    "Physics/PHYS 31.2/Module 2/1 - Sound and Hearing.md",
-    "Physics/PHYS 31.2/Module 1/3 - Interference and Standing Waves.md",
-    "Physics/PHYS 31.2/Module 1/2 - Wave Velocity, Energy, Power, and Intensity.md",
     "Physics/PHYS 31.2/Module 1/1 - Formula of a Wave.md",
-    "Physics/PHYS 111/resources/photos",
+    "Physics/PHYS 31.2/Module 2/1 - Sound and Hearing.md",
+    "Physics/PHYS 31.2/resources/Figure16.38.PNG",
+    "Humanities/GER 11/Vlog.md",
+    "Humanities/GER 11/Summary.md",
+    "Humanities/GER 11/Mein Haus.md",
+    "Humanities/GER 11/Mein Lieblingsessen.md",
+    "Humanities/GER 11/Meine Familie und Ich.md",
+    "Physics/PHYS 31.2/Module 1/3 - Interference and Standing Waves.md",
+    "Physics/PHYS 31.2/resources/Figure16.2.PNG",
+    "Physics/PHYS 31.2/resources/Figure16.36.png",
+    "Physics/PHYS 31.1",
+    "Random.md",
+    "Physics/PHYS 111/Problem Sets/Problem Set 1.md",
+    "Physics/PHYS 111/Problem Sets/Problem Set 2.md",
     "Physics/PHYS 111/Problem Sets/Problem Set 3.md",
-    "Physics/PHYS 31.2/resources",
-    "Physics/PHYS 31.2/Module 2",
-    "Physics/PHYS 31.2/Module 1",
-    "Physics/PHYS 111/resources",
-    "Physics/PHYS 111/Problem Sets",
-    "Physics/PHYS 111/Module 4"
+    "Physics/PHYS 111/Module 4/4-5 Summary.md",
+    "Physics",
+    "PHYS 111/resources/photos/vector-addition.png",
+    "PHYS 111/resources/photos/vector-subtraction.png",
+    "PHYS 111/resources/photos/pset1pic1.png",
+    "PHYS 111/resources/photos/module 2/pset2-3_2.PNG",
+    "PHYS 111/resources/photos/module 2/pset2-3_1.PNG",
+    "PHYS 111/resources/photos/module 2/pset2-1.PNG",
+    "PHYS 111/resources/photos/module 2/pset_2-2_2.PNG",
+    "PHYS 31.2/Module 2",
+    "PHYS 31.2/resources"
   ]
 }
