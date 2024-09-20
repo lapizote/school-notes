@@ -2,10 +2,14 @@
 ### Normal Modes
 There are two common cases for standing sound waves:
 1. Standing sound waves in an open pipe (open on both ends)
+	- Displacement node & pressure antinode at closed end
 2. Standing sound waves in a stopped pipe (open on one end, closed on another)
+	- Displacement antinode & pressure node at the open end
+(Notice that pressure is opposite the displacement)
 
 Remember that $f_n = n\frac{v}{2L}$ for a string fixed at both ends. For both cases:
 1. Open pipe:
+	//todo: add photos
 $$
 	\begin{align}
 	f_n = n\frac{v}{2L} \tag{n = 1, 2, 3, ...}

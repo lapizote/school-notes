@@ -1,0 +1,7 @@
+The central message is the various expectations on women in the American colonial period that sometimes contrast with each other: there is progress to women's status in terms of education and autonomy, however the limits to this are dictated by societal expectations---for example, they are still expected to fulfill their domestic obligations as wives even if the 'ideal' Filipino woman is someone who is professional and educated.
+
+The 3rd picture showing a working woman best displays these contrasting expectations. How the woman is wearing a puffy-sleeved dress while chopping wood demonstrates how, while women are now newly expected to work, they are still constrained by their clothing that aren't conducive/matching to their job.
+
+Meanwhile, the picture of a graduate of the University of the Philippines (in page 8) and students of St. Scholastica (pg 34) shows that, during the American colonial period, women were given more liberty in terms of their educational attainment - even to the point of having a school exclusively for girls. Still, the picture of a woman dressed in a formal evening gown (pg 31) implies that there still existed a particular form of femininity upon them.
+
+Lastly, the photos of the veranda and the home interior, being domestic settings, ironically paint an image of the Filipina as a homemaker even in the light of the education and the professional life that they may have. Due to the existence of societal expectations, they are still eventually chained to the home much like their ancestors.

@@ -1,3 +1,4 @@
+## Beauty Pageants
 ### Modern Filipina Beauty Pageant
 - origins
 	- Manila Carnival
@@ -52,3 +53,81 @@
 	- Spanish period: remained at hoe, public displays only for religious ceremonies
 - debates on traditional vs modern Filipina
 	- Maria Clara vs modern coed
+
+### Why Participate?
+- Celebrity status
+- Graphic: "As carnival queen, she has become a celebrity. Carnival queens are perhaps the first of female celebrities in the Philippines. She has a public, a large amount of people who admire her, who can look at her (because of the pictures) and who are her fans."
+- Marriage prospects
+- Villanueva: journalist before becoming Manila Carnival queen, later married Teodoro Kalaw
+- beauty queens: symbols of respectability
+
+### Beauty pageants
+- colonial enterprise yet national identity
+- from Filipino critique to popularity
+- modern Filipina woman
+
+## Educated Filipinas
+### Maria Clara
+- 1934 Constitutional Convention
+	- should Filipinas have the right to vote?
+	- debate framed around Maria Clara
+- "The opponents of woman suffrage predicate their opposition on the assumption that our women of today are the Maria Claras of yesterday. That is a false premise, that is false assumption. The Maria Claras or the Maria Clara type is gone. I would be ashamed, Mr. President, of our women today if they were still the Maria Claras of yesterday-women who lived in seclusion, frail and fragile, taken care of. It is an insult to progress and civilization if we claim that our women today are of a bygone era."
+### Femininity
+- Spanish colonial period:
+	- religious, charitable, demure
+	- Maria Clara
+	- rudimentary education
+	- domesticity and motherhood
+	- "Politics was not the realm of women"
+- American colonial period:
+	- English-speaking
+	- University educated
+	- Professional
+	- American governors-general: pro-suffrage
+### Opposition
+- whether women should enter all aspects of public space
+- civic work, but not politics
+- too "Americanized"
+- Teodora Kalaw: "unconscious victims of modernity"
+	- "walking out alone" with "a handbag under the arm, just like like bold little American misses
+### Amorsolo
+- Dalagang Bukid (1936)
+- Rural scenes
+- Romanticizing and idealizing
+
+### Alzona
+- on women's clothing
+- traditional clothing gets sticky on rainy days, and is unfit for laboratories
+- Popularization of outdoor sports and consequently, its women's clothing
+	- Scandalous
+- Women required to wear a dress over their bloomers
+	- Protest against basketball for women
+	- Replaced by volleyball and softball
+- first Filipino woman to gain a PhD pensionado?
+- historian at UP
+- The Filipino Woman of To-Day" (1934)
+
+### Women and politics
+- Filipinas magazine: "To marginalize women from public life is equivalent to an attempt against the nation's prosperity."
+- Civic organizations:
+	- Asociacion Feminista Filipina
+- 1933 Women's Suffrage Bill
+- 1934 Constitutional Convention
+- 1935 Constitution:
+	- Philippine Independence
+	- but no women's suffrage
+- 1937 plebiscite
+- Rafael Palma:
+	- "I cannot escape this conclusion. If women are offered equal opportunity as men in education and they are encouraged to become acquainted with worldly knowledge"
+
+### Women's Definition of Womanhood
+- motherhood and the home
+- civic activities
+- professions: first doctor, first lawyer, first PhD
+- beauty queen
+
+### Colonial Mentality?
+- suffragist = American colonial influence?
+- education and clubs
+- from one colonial construction to another: from Maria Clara to suffragist?
+
