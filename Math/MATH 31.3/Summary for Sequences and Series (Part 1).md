@@ -1,5 +1,6 @@
 ## For Sequences
-### Monotonic Series Theorem
+Given any sequence $a_n$, if there exists a $\displaystyle \lim_{n\rightarrow\infty} a_n = L$, then the sequence is convergent. If not, then the sequence is divergent.
+### Monotonic Sequence Theorem
 A sequence $\{a_n\}$ is increasing if $a_n < a_{n+1}$ for all $n \geq 1$. It is decreasing if $a_n > a_{n+1}$ for all $n \geq 1$.
 In either case, it is monotonic. To find if it is monotonic, you can:
 1. Compare $a_n$ and $a_{n+1}$ by checking $\displaystyle\frac{a_{n+1}}{a_n}$.
@@ -27,6 +28,20 @@ Given $\displaystyle \sum a_n$ and $\displaystyle \sum b_n$, with $a_n, b_n \geq
 Then
 1. If $\displaystyle \sum b_n$ is convergent, then $\displaystyle \sum a_n$ is convergent.
 2. If $\displaystyle \sum a_n$ is divergent, then $\displaystyle \sum b_n$ is divergent.
+
+### Integral Test
+Given
+$$
+\sum_{n=1}^{\infty}a_n
+$$
+Let $f(x)$ be a function satisfying:
+1. $a_n = f(n)$
+2. $f$ should be positive, continuous, and decreasing on $[1,\infty)$.
+(If there is no $f(x)$ that satisfies both conditions, then we cannot use the integral test.)
+
+Then:
+1. If $\displaystyle \int_1^\infty f(x) dx$ is convergent, then $\displaystyle \sum_{n=1}^{\infty}a_n$ is convergent.
+2. If $\displaystyle \int_1^\infty f(x) dx$ is divergent, then $\displaystyle \sum_{n=1}^{\infty}a_n$ is divergent.
 ### Limit Comparison Test
 Given
 $$
@@ -50,7 +65,7 @@ There are two types of convergent series:
 2. Conditionally Convergent: series becomes divergent if absolute values are taken.
 Then, if $\displaystyle\sum_{n=1}^\infty |a_n|$ is convergent, then $\displaystyle\sum_{n=1}^\infty a_n$ is convergent. This is helpful when it is easier to find the former than the latter.
 
-### Common Series & Sequences
+### Common Series & Sequences (for Comparison Tests)
 #### P-series
 The series in the form
 $$
