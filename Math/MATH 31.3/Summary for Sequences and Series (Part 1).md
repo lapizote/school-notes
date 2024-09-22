@@ -23,12 +23,6 @@ $$
 $$
 Then if $\displaystyle \lim_{n\rightarrow\infty} a_n \neq 0$, then $\displaystyle \sum_{n=1}^{\infty}a_n$ will diverge.
 Note that this does NOT mean that $\displaystyle \sum_{n=1}^{\infty}a_n$ will converge if $\displaystyle \lim_{n\rightarrow\infty} a_n = 0$.
-### Direct Comparison Test
-Given $\displaystyle \sum a_n$ and $\displaystyle \sum b_n$, with $a_n, b_n \geq 0$ for all $n$ and $a_n \leq b_n$ for all $n,
-Then
-1. If $\displaystyle \sum b_n$ is convergent, then $\displaystyle \sum a_n$ is convergent.
-2. If $\displaystyle \sum a_n$ is divergent, then $\displaystyle \sum b_n$ is divergent.
-
 ### Integral Test
 Given
 $$
@@ -42,6 +36,11 @@ Let $f(x)$ be a function satisfying:
 Then:
 1. If $\displaystyle \int_1^\infty f(x) dx$ is convergent, then $\displaystyle \sum_{n=1}^{\infty}a_n$ is convergent.
 2. If $\displaystyle \int_1^\infty f(x) dx$ is divergent, then $\displaystyle \sum_{n=1}^{\infty}a_n$ is divergent.
+### Direct Comparison Test
+Given $\displaystyle \sum a_n$ and $\displaystyle \sum b_n$, with $a_n, b_n \geq 0$ for all $n$ and $a_n \leq b_n$ for all $n,
+Then
+1. If $\displaystyle \sum b_n$ is convergent, then $\displaystyle \sum a_n$ is convergent.
+2. If $\displaystyle \sum a_n$ is divergent, then $\displaystyle \sum b_n$ is divergent.
 ### Limit Comparison Test
 Given
 $$
