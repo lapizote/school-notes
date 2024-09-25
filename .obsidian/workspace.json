@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Humanities/EDUC 132/4 -.md",
+                "file": "Math/MATH 31.3/Summary for Sequences and Series (Part 1).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Humanities/EDUC 132/4 -.md",
+                "file": "Math/MATH 31.3/Summary for Sequences and Series (Part 1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Humanities/EDUC 132/4 -.md",
+                "file": "Math/MATH 31.3/Summary for Sequences and Series (Part 1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Humanities/EDUC 132/4 -.md"
+                "file": "Math/MATH 31.3/Summary for Sequences and Series (Part 1).md"
               }
             }
           }
@@ -148,13 +148,23 @@
   },
   "active": "60bcaa3a228701c6",
   "lastOpenFiles": [
-    "Humanities/EDUC 132/2 - Social Cognitive Approach to Learning.md",
+    "Math/MATH 31.3/Series.md",
+    "Math/MATH 31.3/Summary for Sequences and Series (Part 1).md",
+    "Math/MATH 31.3/L'Hospital's Rule.md",
+    "Math/MATH 31.3/Limit Comparison Test.md",
+    "Humanities/ARTAP 11/4.md",
+    "Humanities/ARTAP 11/Blind.md",
+    "Physics/PHYS 31.2/Module 2/2 - Speed of Sound Waves.md",
+    "Physics/PHYS 31.2/resources/Figure16.2.PNG",
+    "Physics/PHYS 31.2/Module 1/3 - Interference and Standing Waves.md",
+    "Math/Other/Homogeneous Function.md",
+    "Physics/PHYS 31.2/Module 2/Summary.md",
+    "Physics/PHYS 31.2/Module 1/2 - Wave Velocity, Energy, Power, and Intensity.md",
+    "Physics/PHYS 31.2/Module 1/1 - Formula of a Wave.md",
     "Humanities/EDUC 132/4 -.md",
+    "Humanities/EDUC 132/2 - Social Cognitive Approach to Learning.md",
     "Humanities/EDUC 132/3- Cognitive Perspective of Learning.md",
     "Humanities/EDUC 132/Discussion Boards.md",
-    "Math/MATH 31.3/Summary for Sequences and Series (Part 1).md",
-    "Math/MATH 31.3/Limit Comparison Test.md",
-    "Math/MATH 31.3/Series.md",
     "Humanities/ARTAP 11/2 - Welcome to Hell - Part 1.md",
     "Humanities/ARTAP 11/3 - Reading the Image & Structuralism.md",
     "Humanities/ARTAP 11/1 - Introduction.md",
@@ -163,18 +173,9 @@
     "Humanities/GER 11/Adjectives.md",
     "Humanities/GER 11/3 - Introducing Oneself & Others.md",
     "Humanities/EDUC 132/1 - Behaviorism.md",
-    "Physics/PHYS 31.2/Module 2/Summary.md",
     "pdf/PHYS 31.2/Module 2 Summary.pdf",
     "Physics/PHYS 111/Module 3/3-10 Transformations of Geometric Significance.md",
     "Physics/PHYS 111/Module 3/3-9 Matrices as Geometric Transformations.md",
-    "Physics/PHYS 111/Module 3/3-8 Vectors and Matrices.md",
-    "Physics/PHYS 111/Module 3/3-7 Algebraic Properties of Matrices.md",
-    "Physics/PHYS 111/Module 3/3-6 System of 2 Equations for 2 Variables.md",
-    "Physics/PHYS 111/Module 3/3-5 Transpose of a matrix.md",
-    "Physics/PHYS 111/Module 2/2-4 Unit Vectors.md",
-    "Physics/PHYS 111/Module 4/4-5 Summary.md",
-    "Physics/PHYS 111/Module 3/3-4 Matrix Multiplication.md",
-    "Physics/PHYS 111/Module 4/4-3 Homogeneous Equations.md",
     "pdf/MATH 31.3/Limit Comparison Test.pdf",
     "pdf/MATH 31.3",
     "pdf/New folder",
@@ -187,7 +188,6 @@
     "pdf/PHYS 31.2",
     "pdf/PHYS 32.2",
     "Physics/PHYS 31.2/resources/Figure16.38.PNG",
-    "Physics/PHYS 31.2/resources/Figure16.2.PNG",
     "PHYS 111/resources/photos/vector-addition.png",
     "PHYS 111/resources/photos/vector-subtraction.png",
     "PHYS 111/resources/photos/pset1pic1.png",
