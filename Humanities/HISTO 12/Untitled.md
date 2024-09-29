@@ -1,0 +1,7 @@
+As Worcester mentioned under "Keeping the Head-Hunters in Good Humor", one of the uses that the Americans colonizers had for sports was to keep the indigenous people occupied and entertained. According to him, the "hillmen" were fond of sports---the strategy of using sports was most effective during Worcester's travels.
+
+One of the practices of the indigenous people that the Americans wanted to end was the practice of headhunting, described by Worcester as the "most dangerous of all sports". They believed that the tribesmen had a "super-abundant animal spirits" that need to have an outlet, and that they could redirect these into safer experiences like American sports and dancing.
+
+In addition to that, Worcester mentions a sportsmanship present between the native participants when it came to competition, saying that "the winners are happy and the losers are good losers". In a sense, this implies that sports was also used to facilitate good relationships and camaraderie not just between the colonizers and native people but also between different tribes. For example, it was mentioned that the towns of Tinglayan and Tucucan had a dispute over a stolen hog, which was promptly settled through a wrestling match where the Igorots trusted the Americans to act as fair judges.
+
+From this, it can be said that sports were used by the Americans as a way to "pacify" the tribes and to promote non-violent relations through healthy competitions.

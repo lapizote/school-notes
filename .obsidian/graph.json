@@ -1,31 +1,31 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Physics  ",
+      "query": "path:\"PHYS 111\"",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:Math  ",
+      "query": "path:ArtApp  ",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "path:Humanities  ",
+      "query": "path:\"GER 11\"  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 9182950
       }
     }
   ],
@@ -35,10 +35,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.474359925788497,
+  "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.3264828158743575,
-  "close": false
+  "close": true
 }

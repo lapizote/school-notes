@@ -70,5 +70,22 @@ Types of Long-Term Memory
 	- Implications: learning and teaching
 		- Prior knowledge: make sure that the students have appropriate schema to learn the new material
 		- Meaningful learning: real-life application
-		- Create memorable events involvin visual or auditory images to improve retention of concepts and information
+		- Create memorable events involving visual or auditory images to improve retention of concepts and information
 		- Use of multimedia to illustrate text/complex ideas
+- Episodic Memory
+	- A part of long-term memory that stores images in our personal experiences
+	- Information is stored in the form of images that are organized on the basis of where and when it happened
+	- Memory of Remembering
+- Procedural Memory
+	- learning of motor and cognitive skills
+	- remembering how to do something
+	- Practice: reflective to reflexive
+	- Cognitive Skills: Mental abilities that involves acquiring knowledge, solving problems, and performing tasks:
+		- Reading fluently
+		- Solving basic math operations
+		- Using digital tools
+		- Solving crossword puzzles
+	- Learning & Teaching Strategies:
+		- Demonstrate a procedure or show pictures of specific steps
+		- Encourage students to use verbal rehearsal
+		- Let students demonstrate and give feedback

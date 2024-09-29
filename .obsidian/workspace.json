@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0a7e0499e90d38dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/PHYS 31.2/Module 2/Summary.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/PHYS 31.2/Module 2/Summary.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/PHYS 31.2/Module 2/Summary.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,8 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "10c8294353351540",
+  "active": "0a7e0499e90d38dc",
   "lastOpenFiles": [
+    "Physics/PHYS 31.2/Module 2/Summary.md",
+    "conflict-files-obsidian-git.md",
+    "Physics/PHYS 31.2/Module 3/1 - Reflections and Refractions.md",
+    "Physics/PHYS 31.2/Module 3",
+    "Humanities/HISTO 12/Untitled.md",
+    "Humanities/HISTO 12/7 - Indigenous Peoples.md",
+    "Humanities/EDUC 132/3- Constructivism.md",
     "Physics/PHYS 31.2/Module 2/5 - Sound Wave Interference.md",
     "Physics/PHYS 31.2/Module 2/4 - Standing Sound Waves.md",
     "Physics/PHYS 31.2/Module 1/2 - Wave Velocity, Energy, Power, and Intensity.md",
@@ -159,7 +179,6 @@
     "pdf/PHYS 31.2/Module 1",
     "pdf/PHYS 31.2/New folder",
     "pdf/PHYS 31.2/Module 2 Summary.pdf",
-    "Physics/PHYS 31.2/Module 2/Summary.md",
     "Physics/PHYS 31.2/Module 2/6 - Doppler Effect.md",
     "Math/MATH 31.3/Summary for Sequences and Series (Part 1).md",
     "Math/MATH 31.3/Series.md",
@@ -177,14 +196,8 @@
     "Humanities/EDUC 132/Discussion Boards.md",
     "Humanities/ARTAP 11/2 - Welcome to Hell - Part 1.md",
     "Humanities/ARTAP 11/3 - Reading the Image & Structuralism.md",
-    "Humanities/ARTAP 11/1 - Introduction.md",
-    "Humanities/GER 11/4 - Alphabet.md",
-    "Humanities/GER 11/Articles.md",
-    "Humanities/GER 11/Adjectives.md",
-    "Humanities/GER 11/3 - Introducing Oneself & Others.md",
     "pdf/MATH 31.3/Limit Comparison Test.pdf",
     "pdf/MATH 31.3",
-    "pdf/New folder",
     "Physics/PHYS 31.2/resources/Figure16.21.PNG",
     "Physics/PHYS 31.2/resources/Figure16.36.png",
     "Physics/PHYS 31.2/resources/Figure16.38.PNG",

@@ -1,7 +1,7 @@
 #phys31-2 #waves #superposition
-The doppler effect occurs when the source of a sound wave is in motion.
+The Doppler effect occurs when the source (and/or observer) of a sound wave is in motion.
 
-In analyzing the doppler effect, one must consider the following:
+In analyzing the Doppler effect, one must consider the following:
 - $v_L$: the velocity of the listener relative to the medium (air)
 - $v_s$: the velocity of the source relative to the medium
 - positive direction: from the listener to the source
@@ -48,6 +48,8 @@ Note that this can be generalized for all situations. Also notice how the freque
 
 Essentially,
 $f_L > f_s$ when $v_s < 0$; $f_L < f_s$ when $v_s > 0$.
+
+### Double Doppler Shift
 
 ### Shock Waves & Sonic Booms
 Typically, $v_s < v$. As such, the waves will be crowded together in front of a moving source. In other words, as $v_s \rightarrow v$, then $\lambda_\text{front} \rightarrow 0$.
