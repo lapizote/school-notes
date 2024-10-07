@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ebf0f93bcb2c9f77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Humanities/HISTO 12/5 - Industrial Education.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Humanities/HISTO 12/5 - Industrial Education.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Humanities/HISTO 12/5 - Industrial Education.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,13 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e9bc686692de538",
+  "active": "ebf0f93bcb2c9f77",
   "lastOpenFiles": [
+    "Humanities/HISTO 12/5 - Industrial Education.md",
+    "conflict-files-obsidian-git.md",
+    "pdf/PHYS 31.2/Module 1/3 - Interference and Standing Waves.pdf",
+    "pdf/PHYS 31.2/Module 1/2 - Wave Velocity, Energy, Power, and Intensity.pdf",
+    "pdf/PHYS 31.2/Module 1/1 - Formula of a Wave.pdf",
+    "pdf/PHYS 31.2/Module 1",
+    "pdf/MATH 31.3/Summary for Sequences and Series (Part 1).pdf",
     "Humanities/HISTO 12/8 -.md",
     "Humanities/HISTO 12/7 - Indigenous Peoples.md",
     "Humanities/HISTO 12/6 - Women.md",
     "Humanities/HISTO 12/1 - Primary Sources.md",
-    "Humanities/HISTO 12/5 - Industrial Education.md",
     "Humanities/HISTO 12/4 - Schools.md",
     "Humanities/HISTO 12/3 - Philippine-American War.md",
     "Humanities/HISTO 12/2 - Philippine Revolution.md",
@@ -174,18 +193,12 @@
     "Physics/PHYS 31.2/Module 1/2 - Wave Velocity, Energy, Power, and Intensity.md",
     "Humanities/GER 11/1 - Common Phrases in German Class.md",
     "Physics/PHYS 31.2/Module 2/4 - Standing Sound Waves.md",
-    "Humanities/EDUC 132/3- Constructivism.md",
     "pdf/MATH 31.3/Limit Comparison Test.pdf",
     "pdf/MATH 31.3",
     "pdf/HISTO 12/6 - Women.pdf",
     "pdf/HISTO 12/5 - Industrial Education.pdf",
     "pdf/HISTO 12/4 - Schools.pdf",
-    "pdf/HISTO 12",
     "Physics/PHYS 31.2/resources/Figure16.2.PNG",
-    "Physics/PHYS 31.2/Module 3",
-    "pdf/PHYS 31.2/Module 2 Summary.pdf",
-    "pdf/PHYS111/1-2 Arithmetic Operations of Complex Numbers.pdf",
-    "pdf/GER11/3 - Introducing Oneself & Others.pdf",
     "Physics/PHYS 111/resources/photos/module 2/pset_2-2_2.PNG",
     "Physics/PHYS 111/resources/photos/module 2/pset2-3_2.PNG",
     "Physics/PHYS 111/resources/photos/module 2/pset2-3_1.PNG",

@@ -93,6 +93,5 @@ It is:
 1. Before everything, try the divergence test first.
 2. If the form looks something like $\displaystyle \frac{f(n)}{g(n)}$ where $f(n)$ and $g(n)$ are polynomials of $n$, the Limit Comparison Test may work. With this, it will most likely be similar to a p-series.
 3. If you see something that involves $(-1)^n$, then you are likely to use the Alternating Series Test. If $\displaystyle\lim_{n\rightarrow\infty} a_n = 0$ is difficult to find, then you can probably try to show that $\displaystyle\sum_{n=1}^\infty |b_n|$ (where $b_n$ is the full expression of the series) is convergent. If you cannot determine if $b_n$ is convergent, then good luck lol
-	- Note that if you get a limit that is not 0 for $a_n$, then you can just use the divergence test to conclude that the series is divergent.
 4. If you know of a known series (e.g. p-series and geometric series) that is greater than or less than the given series (whether the one or the other applies kinda is just based on intuition), then you can use the Direct Comparison Test.
 5. If all the values of the series are positive and you cannot use either comparison tests, then you may need to use the Integral Test. 

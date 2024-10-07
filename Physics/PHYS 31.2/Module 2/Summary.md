@@ -107,7 +107,7 @@ Doppler Effect
 $$
 f_L = \frac{v \pm v_L}{v \pm v_s}f_s
 $$
-where the sign of $v_L$ and $v_s$ depends on the direction of the movement of the listener and source. When moving towards the other, then the velocity is a positive. If moving away from the other, then the velocity is a negative.
+where the sign of $v_L$ and $v_s$ depends on the direction of the movement of the listener and source.
 ```
 ```col-md
 Shock Wave
