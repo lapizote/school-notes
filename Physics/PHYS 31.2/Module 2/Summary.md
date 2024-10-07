@@ -35,7 +35,7 @@ $$
 ```col-md
 For solids
 $$
-v = \sqrt{\frac{B}{\rho}}
+v = \sqrt{\frac{Y}{\rho}}
 $$
 ```
 ````

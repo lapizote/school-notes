@@ -62,3 +62,34 @@ The index of refraction depends not only on the substance but also on the wavele
 This means that the index of refraction changes depending on the wavelength of light.
 
 //todo: insert table 33.1
+
+### Total Internal Reflection
+Under certain circumstances, all the light can be reflected from the interface even though the second material is transparent:
+
+//todo: insert figure
+
+Since $n_a > n_b$, then $\sin\theta_b > \sin\theta_a$, which means that the transmitted ray is 
+
+At $\theta_a > \theta_\text{crit}$, none of the incident light is transmitted, only reflected. This is called total internal reflection.
+
+We set $\theta_b = 90\degree$ such that
+$$
+\begin{align}
+\sin\theta_b &= \frac{n_a}{n_b}\sin\theta_a \\
+\sin\theta_\text{crit} &= \frac{n_b}{n_a}
+\end{align}
+$$
+#### Applications
+- Binoculars (Porro prisms)
+- Endoscope?
+- Optic fiber
+- Cut diamonds
+
+### Dispersion
+Consider white light, a superposition of waves with wavelengths in the visible spectrum. Also consider that the speed of light in a vacuum is the same for all wavelengths.
+
+//todo: insert figure 33.18
+
+However, the index of refraction is dependent on the wavelength (and as such the speed of light in a material is different for different wavelengths). This causes dispersion.
+
+
