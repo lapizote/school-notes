@@ -11,9 +11,11 @@
             "id": "10c8294353351540",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Physics/PHYS 112/Module 2/2 - Matrices Basic properties 2.pdf"
+                "file": "Math/MATH 31.3/LT 1 Fact Sheet.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/PHYS 112/Module 2/2 - Matrices Basic properties 2.pdf",
+                "file": "Math/MATH 31.3/LT 1 Fact Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/PHYS 112/Module 2/2 - Matrices Basic properties 2.pdf",
+                "file": "Math/MATH 31.3/LT 1 Fact Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/PHYS 112/Module 2/2 - Matrices Basic properties 2.pdf"
+                "file": "Math/MATH 31.3/LT 1 Fact Sheet.md"
               }
             }
           }
@@ -156,43 +158,44 @@
   },
   "active": "10c8294353351540",
   "lastOpenFiles": [
-    "Physics/PHYS 112/Module 2/1 - Vector spaces.pdf",
-    "Physics/PHYS 112/Module 1/5 - Gamma function.pdf",
-    "Physics/PHYS 112/Module 2/2 - Matrices Basic properties 2.pdf",
+    "Math/MATH 31.3/resources/series test.PNG",
+    "Math/MATH 31.3/resources/maclaurin series.PNG",
+    "Math/MATH 31.3/resources",
+    "Math/MATH 31.3/New folder",
+    "Math/MATH 31.3/Summary for Sequences and Series.md",
+    "Math/MATH 31.3/LT 1 Fact Sheet.md",
+    "Math/resources",
+    "Humanities/HISTO 12/11 - Urban Changes.md",
+    "Humanities/HISTO 12/Untitled.md",
+    "Humanities/HISTO 12/10 - Rural Changes.md",
+    "Humanities/HISTO 12/9 - Rebellion.md",
+    "Humanities/HISTO 12/7 - Indigenous Peoples.md",
+    "Humanities/HISTO 12/5 - Industrial Education.md",
+    "Humanities/HISTO 12/3 - Philippine-American War.md",
+    "Humanities/HISTO 12/2 - Philippine Revolution.md",
+    "Humanities/HISTO 12/1 - Primary Sources.md",
+    "Math/MATH 31.3/Limit Comparison Test.md",
+    "Math/MATH 31.3/L'Hospital's Rule.md",
+    "Humanities/HISTO 12/6 - Women.md",
+    "Humanities/GER 11/Meine Familie und Ich.md",
+    "Humanities/GER 11/Mein Haus.md",
+    "Humanities/EDUC 132/5 - Socio-Cultural Theory of Development.md",
+    "Humanities/EDUC 132/3- Constructivism.md",
+    "Humanities/EDUC 132/4 -.md",
+    "Humanities/EDUC 132/2 - Social Cognitive Approach to Learning.md",
+    "Math/Other/Homogeneous Function.md",
+    "Math/Other/Partial Derivatives.md",
+    "Math/MATH 31.3/Series.md",
     "Physics/PHYS 112/Module 2/3 - Functions of Matrices, transpose, Hermitian conjugate, trace.pdf",
     "Physics/PHYS 112/Module 2/4 - Determinants.pdf",
+    "Physics/PHYS 112/Module 2/2 - Matrices Basic properties 2.pdf",
     "Physics/PHYS 112/Module 2/5 - Eigenvectors and eigenvalues 2.pdf",
     "Physics/PHYS 112/Module 2/6 - Special Matrices.pdf",
-    "Physics/PHYS 112/Module 2/7 - Degeneracy.pdf",
-    "Physics/PHYS 112/Module 2",
-    "Physics/PHYS 112/Module 1/4 - Distinguishable and Indistinguishable.pdf",
-    "Physics/PHYS 112/Problem Sets/PHYS_112_PSet2-Group2-1.pdf",
+    "Physics/PHYS 112/Module 2/1 - Vector spaces.pdf",
+    "Physics/PHYS 112/Module 1/5 - Gamma function.pdf",
     "Physics/PHYS 111/Module 4/4-1 Differential Equations.md",
     "Random.md",
-    "Math/MATH 31.3/Summary for Sequences and Series (Part 1).md",
-    "Math/MATH 31.3/Series.md",
-    "Humanities/GER 11/2 - Greetings and Farewell.md",
-    "Math/MATH 31.3/L'Hospital's Rule.md",
-    "Physics/PHYS 31.2/Module 1/1 - Formula of a Wave.md",
-    "Humanities/HISTO 12/1 - Primary Sources.md",
-    "Humanities/HISTO 12/6 - Women.md",
-    "Humanities/HISTO 12/5 - Industrial Education.md",
-    "Humanities/HISTO 12/4 - Schools.md",
-    "Humanities/HISTO 12/7 - Indigenous Peoples.md",
-    "Humanities/HISTO 12/8 - Photographs.md",
-    "Humanities/HISTO 12/9 - Rebellion.md",
-    "Humanities/HISTO 12/10 - Rural Changes.md",
-    "Humanities/HISTO 12/Untitled.md",
-    "conflict-files-obsidian-git.md",
     "Untitled.canvas",
-    "Physics/PHYS 31.2/Module 3/3 - Geometric Optics.md",
-    "Physics/PHYS 31.2/Module 3/2 - Polarization.md",
-    "Humanities/HISTO 12/11 - Urban Changes.md",
-    "Humanities/EDUC 132/5 - Socio-Cultural Theory of Development.md",
-    "Physics/PHYS 111/Module 3/3-7 Algebraic Properties of Matrices.md",
-    "Physics/PHYS 111/Module 3/3-6 System of 2 Equations for 2 Variables.md",
-    "Physics/PHYS 111/Module 3/3-5 Transpose of a matrix.md",
-    "Physics/PHYS 111/Module 3/3-2 Matrix Addition.md",
     "Physics/PHYS 31.2/resources/Figure16.2.PNG",
     "Physics/PHYS 31.2/resources/Figure16.21.PNG",
     "Physics/PHYS 31.2/resources/Figure16.36.png",
@@ -201,7 +204,6 @@
     "PHYS 111/resources/photos/vector-subtraction.png",
     "PHYS 111/resources/photos/pset1pic1.png",
     "PHYS 111/resources/photos/module 2/pset2-3_2.PNG",
-    "PHYS 111/resources/photos/module 2/pset2-3_1.PNG",
-    "PHYS 111/resources/photos/module 2/pset2-1.PNG"
+    "PHYS 111/resources/photos/module 2/pset2-3_1.PNG"
   ]
 }
