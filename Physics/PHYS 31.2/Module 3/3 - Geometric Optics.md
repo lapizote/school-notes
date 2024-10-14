@@ -109,3 +109,46 @@ m = \frac{y'}{y} = -\frac{s'}{s} \tag{lateral magnification, spherical mirror}
 \end{align}
 $$
 If $m > 0$, then the image is upright. If $m < 0$, then the image is inverted.
+#### The Convex Spherical Mirror
+//pic
+The center of curvature is on the side opposite to the outgoing rays, so $R$ is negative.
+Provided that angle $\alpha$ is small, then all the rays from $P$ diverge from the same point $P'$. The object distance $s$ is positive while image distance $s'$ is negative.
+
+//pic
+
+The relationships
+$$
+\begin{align}
+\frac{1}{s}+\frac{1}{s'} &= \frac{2}{R} \\
+m = \frac{y'}{y} &= -\frac{s'}{s}
+\end{align}
+$$
+is also valid.
+
+Note that if light rays are directed towards the focal point, they will all be reflected at the same parallel angle.
+
+### Graphical Method for Mirrors
+Consider a graphical formalism using the object, the center of the curvature, the focal point, and the mirror plane to find the position and size of the image.
+
+We can find the point of intersection of a few particular rays that diverge from a point on the object. For construction, we always choose an object point that is not on the optic axis, then we draw the principal rays.
+
+All the rays should intersect at a point, forming an image graphically.
+
+//pics
+
+### Refraction at a Spherical Surface (Locating the Image)
+Consider refraction at a spherical interface between two optical materials with different indexes of refraction (e.g. human eye).
+
+//pic
+
+Consider
+$$
+\theta_a = \alpha + \phi \,\,\,\, \phi = \beta + \theta_b
+$$
+$$
+n_a \sin\theta_a = n_b \sin\theta_b
+$$
+Then
+$$
+\tan\alpha = \frac{h}{s+\delta} \,\,\, \tan\beta = \frac{h}{s'-\delta} \,\,\,\, \tan\phi = \frac{h}{R-\delta}
+$$
