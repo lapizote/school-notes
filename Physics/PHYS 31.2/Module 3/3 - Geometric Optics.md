@@ -136,7 +136,8 @@ All the rays should intersect at a point, forming an image graphically.
 
 //pics
 
-### Refraction at a Spherical Surface (Locating the Image)
+### Refraction at a Spherical Surface
+#### Locating the Image
 Consider refraction at a spherical interface between two optical materials with different indexes of refraction (e.g. human eye).
 
 //pic
@@ -152,3 +153,58 @@ Then
 $$
 \tan\alpha = \frac{h}{s+\delta} \,\,\, \tan\beta = \frac{h}{s'-\delta} \,\,\,\, \tan\phi = \frac{h}{R-\delta}
 $$
+$$
+\frac{n_a}{s} + \frac{n_b}{s'} = \frac{n_b-n_a}{R}
+$$
+#### Finding the Magnification
+//img
+
+Consider that from triangles $PQV$ and $P'Q'V$:
+$$
+\tan{\theta_a} = \frac{y}{s} \,\,\,\,\, \tan{\theta_b} = \frac{-y'}{s'}
+$$
+Then
+$$
+\frac{n_ay}{s} = -\frac{n_by'}{s'} \text{ or } m = \frac{y'}{y} = \frac{n_as'}{n_bs}
+$$
+An important special case is a plane surface between two optical materials (i.e. $R = \infty$)
+$$
+\frac{n_a}{s} + \frac{n_b}{s'} = 0
+$$
+And the lateral magnification for this case is $m = 1$.
+
+### Thin Lenses
+#### Converging Lens (Double Convex)
+An optical system with two refracting surfaces, e.g. two spherical surfaces close together (of negligible thickness), such that the refraction only occurs at the center of the lenses.
+
+Consider a lens of the shape as shown in the figure:
+//pic
+
+When a beam of rays parallel to the axis passes through the lens, the rays converge to a point $F2$.
+
+Triangles $PQO$ and $P'Q'O$ are similar so that the ratios of the corresponding sides are equal:
+$$
+\frac{y}{s} = -\frac{y'}{s'} \text{ or } \frac{y'}{y} = -\frac{s'}{s}
+$$
+And triangles $OAF_2$ and $P'Q'F_2$ are similar such that
+$$
+\frac{y}{f} = -\frac{y'}{s'-f} \text{ or } \frac{y'}{y} = -\frac{s'-f}{f}
+$$
+Then we should get
+$$
+\frac{1}{s} + \frac{1}{s'} = \frac{1}{f}
+$$
+#### Diverging Lens (Double Concave)
+In these lenses, the beam of parallel light rays diverge after refraction. The focal length of these lenses are negative (i.e. "negative lens", reversed relative to that of a "positive lens").
+
+//pic
+
+### Graphical Methods for Lenses
+Consider that the entire deviation of a ray as occurring at the midplane of the lens, consistent with the assumption that the distance between the lens surfaces is negligible.
+
+//pics
+
+Notice that the image is real in the converging lenses, while it is virtual in the diverging lenses.
+
+//object outside focal point pic
+//object closer to focal point pic
