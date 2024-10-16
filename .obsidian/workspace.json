@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/PHYS 31.2/Module 3/3 - Geometric Optics.md",
+                "file": "Physics/PHYS 31.2/Module 3/4 - Lenses.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/PHYS 112/Problem Sets/PHYS_112_PSet3_Group2-1.pdf"
+                "file": "Physics/PHYS 112/Problem Sets/PHYS_112_PSet2-Group2-1.pdf"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/PHYS 31.2/Module 3/3 - Geometric Optics.md",
+                "file": "Physics/PHYS 31.2/Module 3/4 - Lenses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/PHYS 31.2/Module 3/3 - Geometric Optics.md",
+                "file": "Physics/PHYS 31.2/Module 3/4 - Lenses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/PHYS 31.2/Module 3/3 - Geometric Optics.md"
+                "file": "Physics/PHYS 31.2/Module 3/4 - Lenses.md"
               }
             }
           }
@@ -168,6 +168,11 @@
   },
   "active": "10c8294353351540",
   "lastOpenFiles": [
+    "Physics/PHYS 31.2/Module 3/3 - Geometric Optics.md",
+    "Physics/PHYS 31.2/Module 3/4 - Lenses.md",
+    "Physics/PHYS 112/Problem Sets/PHYS_112_PSet2-Group2-1.pdf",
+    "Physics/PHYS 112/Problem Sets/PHYS112_PSet1-Group2-1.pdf",
+    "Physics/PHYS 112/Problem Sets/PHYS_112_PSet3_Group2-1.pdf",
     "Physics/PHYS 31.2/resources/Figure34.36.PNG",
     "Physics/PHYS 31.2/resources/Figure34.37.PNG",
     "Physics/PHYS 31.2/resources/Figure34.35.PNG",
@@ -177,16 +182,12 @@
     "Physics/PHYS 31.2/resources/Figure34.22.PNG",
     "Physics/PHYS 31.2/resources/Figure34.21.PNG",
     "Physics/PHYS 112/Module 2/3 - Functions of Matrices, transpose, Hermitian conjugate, trace.pdf",
-    "Physics/PHYS 31.2/Module 3/3 - Geometric Optics.md",
-    "Physics/PHYS 112/Problem Sets/PHYS_112_PSet3_Group2-1.pdf",
     "Physics/PHYS 112/Module 2/5 - Eigenvectors and eigenvalues 2.pdf",
     "Physics/PHYS 112/Module 2/1 - Vector spaces.pdf",
     "Physics/PHYS 112/Module 2/2 - Matrices Basic properties 2.pdf",
     "Physics/PHYS 112/Module 2/7 - Degeneracy.pdf",
     "Physics/PHYS 112/Module 2/4 - Determinants.pdf",
     "Physics/PHYS 112/Module 2/6 - Special Matrices.pdf",
-    "Physics/PHYS 112/Problem Sets/PHYS112_PSet1-Group2-1.pdf",
-    "Physics/PHYS 112/Module 1/1 - Probability.pdf",
     "Physics/PHYS 111/Module 4/4-2 General and Particular Solutions.md",
     "conflict-files-obsidian-git.md",
     "Humanities/EDUC 132/6 - Bioecological Theory.md",
@@ -213,7 +214,6 @@
     "Physics/PHYS 111/Module 2/2-6 Parametric Equations of a Vector.md",
     "Math/MATH 31.3/resources/series test.PNG",
     "Math/MATH 31.3/resources/maclaurin series.PNG",
-    "Untitled.canvas",
-    "Physics/PHYS 31.2/resources/Figure16.2.PNG"
+    "Untitled.canvas"
   ]
 }
