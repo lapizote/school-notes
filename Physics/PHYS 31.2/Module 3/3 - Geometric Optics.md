@@ -109,3 +109,104 @@ m = \frac{y'}{y} = -\frac{s'}{s} \tag{lateral magnification, spherical mirror}
 \end{align}
 $$
 If $m > 0$, then the image is upright. If $m < 0$, then the image is inverted.
+#### The Convex Spherical Mirror
+//pic
+The center of curvature is on the side opposite to the outgoing rays, so $R$ is negative.
+Provided that angle $\alpha$ is small, then all the rays from $P$ diverge from the same point $P'$. The object distance $s$ is positive while image distance $s'$ is negative.
+
+//pic
+
+The relationships
+$$
+\begin{align}
+\frac{1}{s}+\frac{1}{s'} &= \frac{2}{R} \\
+m = \frac{y'}{y} &= -\frac{s'}{s}
+\end{align}
+$$
+is also valid.
+
+Note that if light rays are directed towards the focal point, they will all be reflected at the same parallel angle.
+
+### Graphical Method for Mirrors
+Consider a graphical formalism using the object, the center of the curvature, the focal point, and the mirror plane to find the position and size of the image.
+
+We can find the point of intersection of a few particular rays that diverge from a point on the object. For construction, we always choose an object point that is not on the optic axis, then we draw the principal rays.
+
+All the rays should intersect at a point, forming an image graphically.
+
+//pics
+
+### Refraction at a Spherical Surface
+#### Locating the Image
+Consider refraction at a spherical interface between two optical materials with different indexes of refraction (e.g. human eye).
+
+![[Figure34.21.PNG]]
+
+Consider
+$$
+\theta_a = \alpha + \phi \,\,\,\, \phi = \beta + \theta_b
+$$
+$$
+n_a \sin\theta_a = n_b \sin\theta_b
+$$
+Then
+$$
+\tan\alpha = \frac{h}{s+\delta} \,\,\, \tan\beta = \frac{h}{s'-\delta} \,\,\,\, \tan\phi = \frac{h}{R-\delta}
+$$
+$$
+\frac{n_a}{s} + \frac{n_b}{s'} = \frac{n_b-n_a}{R}
+$$
+#### Finding the Magnification
+![[Figure34.22.PNG]]
+
+Consider that from triangles $PQV$ and $P'Q'V$:
+$$
+\tan{\theta_a} = \frac{y}{s} \,\,\,\,\, \tan{\theta_b} = \frac{-y'}{s'}
+$$
+Then
+$$
+\frac{n_ay}{s} = -\frac{n_by'}{s'} \text{ or } m = \frac{y'}{y} = \frac{n_as'}{n_bs}
+$$
+An important special case is a plane surface between two optical materials (i.e. $R = \infty$)
+$$
+\frac{n_a}{s} + \frac{n_b}{s'} = 0
+$$
+And the lateral magnification for this case is $m = 1$.
+
+### Thin Lenses
+#### Converging Lens (Double Convex)
+An optical system with two refracting surfaces, e.g. two spherical surfaces close together (of negligible thickness), such that the refraction only occurs at the center of the lenses.
+
+Consider a lens of the shape as shown in the figure:
+![[Figure34.28.PNG]]
+
+When a beam of rays parallel to the axis passes through the lens, the rays converge to a point $F2$.
+
+![[Figure34.29.PNG]]
+
+Triangles $PQO$ and $P'Q'O$ are similar so that the ratios of the corresponding sides are equal:
+$$
+\frac{y}{s} = -\frac{y'}{s'} \text{ or } \frac{y'}{y} = -\frac{s'}{s}
+$$
+And triangles $OAF_2$ and $P'Q'F_2$ are similar such that
+$$
+\frac{y}{f} = -\frac{y'}{s'-f} \text{ or } \frac{y'}{y} = -\frac{s'-f}{f}
+$$
+Then we should get
+$$
+\frac{1}{s} + \frac{1}{s'} = \frac{1}{f}
+$$
+#### Diverging Lens (Double Concave)
+In these lenses, the beam of parallel light rays diverge after refraction. The focal length of these lenses are negative (i.e. "negative lens", reversed relative to that of a "positive lens").
+
+![[Figure34.31.PNG]]
+
+![[Figure34.35.PNG]]
+### Graphical Methods for Lenses
+Consider that the entire deviation of a ray as occurring at the midplane of the lens, consistent with the assumption that the distance between the lens surfaces is negligible.
+
+![[Figure34.36.PNG]]
+
+Notice that the image is real in the converging lenses, while it is virtual in the diverging lenses.
+
+![[Figure34.37.PNG]]

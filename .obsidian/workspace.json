@@ -20,7 +20,17 @@
             }
           },
           {
-            "id": "255bfa11d44c65ce",
+            "id": "e4464e77fcba8335",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Physics/PHYS 112/Problem Sets/PHYS_112_PSet3_Group2-1.pdf"
+              }
+            }
+          },
+          {
+            "id": "3f96bb672b19c86b",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -158,9 +168,30 @@
   },
   "active": "10c8294353351540",
   "lastOpenFiles": [
+    "Physics/PHYS 31.2/resources/Figure34.36.PNG",
+    "Physics/PHYS 31.2/resources/Figure34.37.PNG",
+    "Physics/PHYS 31.2/resources/Figure34.35.PNG",
+    "Physics/PHYS 31.2/resources/Figure34.31.PNG",
+    "Physics/PHYS 31.2/resources/Figure34.29.PNG",
+    "Physics/PHYS 31.2/resources/Figure34.28.PNG",
+    "Physics/PHYS 31.2/resources/Figure34.22.PNG",
+    "Physics/PHYS 31.2/resources/Figure34.21.PNG",
+    "Physics/PHYS 112/Module 2/3 - Functions of Matrices, transpose, Hermitian conjugate, trace.pdf",
+    "Physics/PHYS 31.2/Module 3/3 - Geometric Optics.md",
+    "Physics/PHYS 112/Problem Sets/PHYS_112_PSet3_Group2-1.pdf",
+    "Physics/PHYS 112/Module 2/5 - Eigenvectors and eigenvalues 2.pdf",
+    "Physics/PHYS 112/Module 2/1 - Vector spaces.pdf",
+    "Physics/PHYS 112/Module 2/2 - Matrices Basic properties 2.pdf",
+    "Physics/PHYS 112/Module 2/7 - Degeneracy.pdf",
+    "Physics/PHYS 112/Module 2/4 - Determinants.pdf",
+    "Physics/PHYS 112/Module 2/6 - Special Matrices.pdf",
+    "Physics/PHYS 112/Problem Sets/PHYS112_PSet1-Group2-1.pdf",
+    "Physics/PHYS 112/Module 1/1 - Probability.pdf",
+    "Physics/PHYS 111/Module 4/4-2 General and Particular Solutions.md",
+    "conflict-files-obsidian-git.md",
+    "Humanities/EDUC 132/6 - Bioecological Theory.md",
     "Physics/PHYS 31.2/Module 3/1 - Reflections and Refractions.md",
     "Physics/PHYS 31.2/Module 3/2 - Polarization.md",
-    "Physics/PHYS 31.2/Module 3/3 - Geometric Optics.md",
     "Physics/PHYS 111/Module 2/2-5 Cross Product.md",
     "Physics/PHYS 111/Module 2/2-4 Unit Vectors.md",
     "Math/MATH 31.3/Summary for Sequences and Series.md",
@@ -168,18 +199,8 @@
     "Math/MATH 31.3/Limit Comparison Test.md",
     "Math/MATH 31.3/L'Hospital's Rule.md",
     "Math/MATH 31.3/LT 1 Fact Sheet.md",
-    "Physics/PHYS 112/Problem Sets/PHYS_112_PSet3_Group2-1.pdf",
-    "Physics/PHYS 112/Module 2/3 - Functions of Matrices, transpose, Hermitian conjugate, trace.pdf",
-    "Physics/PHYS 112/Module 2/4 - Determinants.pdf",
-    "Physics/PHYS 112/Module 2/6 - Special Matrices.pdf",
-    "Physics/PHYS 112/Module 2/5 - Eigenvectors and eigenvalues 2.pdf",
-    "Physics/PHYS 112/Module 1/2 - Conditional Probability.pdf",
-    "Physics/PHYS 112/Problem Sets/PHYS_112_PSet2-Group2-1.pdf",
-    "Physics/PHYS 112/Problem Sets/PHYS112_PSet1-Group2-1.pdf",
     "README.md",
     "Random.md",
-    "Physics/PHYS 112/Module 1/3 - Counting.pdf",
-    "Physics/PHYS 112/Module 1/1 - Probability.pdf",
     "Physics/PHYS 111/Module 3/3-10 Transformations of Geometric Significance.md",
     "Physics/PHYS 111/Module 3/3-9 Matrices as Geometric Transformations.md",
     "Physics/PHYS 111/Module 3/3-7 Algebraic Properties of Matrices.md",
@@ -190,20 +211,9 @@
     "Physics/PHYS 111/Module 3/3-1 Matrices.md",
     "Physics/PHYS 111/Module 2/2-7 Equation of a Plane.md",
     "Physics/PHYS 111/Module 2/2-6 Parametric Equations of a Vector.md",
-    "Physics/PHYS 111/Module 2/2-3 Dot Product.md",
-    "Physics/PHYS 111/Module 2/2-2 Vector Addition.md",
-    "Physics/PHYS 111/Module 1/7 - Finding roots of complex numbers.md",
-    "Physics/PHYS 111/Module 1/6 - Proof for Euler's Formula.md",
     "Math/MATH 31.3/resources/series test.PNG",
     "Math/MATH 31.3/resources/maclaurin series.PNG",
     "Untitled.canvas",
-    "Physics/PHYS 31.2/resources/Figure16.2.PNG",
-    "Physics/PHYS 31.2/resources/Figure16.21.PNG",
-    "Physics/PHYS 31.2/resources/Figure16.36.png",
-    "Physics/PHYS 31.2/resources/Figure16.38.PNG",
-    "PHYS 111/resources/photos/vector-addition.png",
-    "PHYS 111/resources/photos/vector-subtraction.png",
-    "PHYS 111/resources/photos/pset1pic1.png",
-    "PHYS 111/resources/photos/module 2/pset2-3_2.PNG"
+    "Physics/PHYS 31.2/resources/Figure16.2.PNG"
   ]
 }

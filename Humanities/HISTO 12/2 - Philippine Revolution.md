@@ -1,4 +1,4 @@
-At## First Phase (1896-1897)
+## First Phase (1896-1897)
 #### 1896 Revolution
 Manila
 - ill-defended
@@ -11,6 +11,7 @@ Blanco
 - wavering between policy of aggression and policy of attraction
 - lack of military force
 	- only 3000 people!
+	
 Polavieja
 - pursue Katipunan forces in Manila
 - tighten blockade of Cavite

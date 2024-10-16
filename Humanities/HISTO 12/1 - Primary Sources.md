@@ -54,7 +54,7 @@
 	- Bonifacio(?) by Ramon Martinez
 		- classic image: camisa de chino, red flags, bolo, Katipunan flag
 		- face is not Bonifacio lol
-		- from "Ala-ala ng bayang Pilipino sa mga Bayani" (1911) by Jorge Pineda, not Bonifacio, g0eneric hero
+		- from "Ala-ala ng bayang Pilipino sa mga Bayani" (1911) by Jorge Pineda, not Bonifacio, generic hero
 			- elements incorporated in the centennial anniversary stamp (1963)
 	- Carlos Francisco's mural (1968)
 - poor boy from Tondo?
