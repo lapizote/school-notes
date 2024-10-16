@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/MATH 31.3/LT 1 Fact Sheet.md",
+                "file": "Physics/PHYS 31.2/Module 3/3 - Geometric Optics.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "64c458959ef02128",
+            "id": "255bfa11d44c65ce",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Physics/PHYS 112/Problem Sets/PHYS_112_PSet2-Group2-1.pdf"
+                "file": "Physics/PHYS 112/Module 2/3 - Functions of Matrices, transpose, Hermitian conjugate, trace.pdf"
               }
             }
           }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/MATH 31.3/LT 1 Fact Sheet.md",
+                "file": "Physics/PHYS 31.2/Module 3/3 - Geometric Optics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/MATH 31.3/LT 1 Fact Sheet.md",
+                "file": "Physics/PHYS 31.2/Module 3/3 - Geometric Optics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/MATH 31.3/LT 1 Fact Sheet.md"
+                "file": "Physics/PHYS 31.2/Module 3/3 - Geometric Optics.md"
               }
             }
           }
@@ -158,43 +158,44 @@
   },
   "active": "10c8294353351540",
   "lastOpenFiles": [
-    "Math/MATH 31.3/resources/series test.PNG",
-    "Math/MATH 31.3/resources/maclaurin series.PNG",
-    "Math/MATH 31.3/resources",
-    "Math/MATH 31.3/New folder",
+    "Physics/PHYS 31.2/Module 3/1 - Reflections and Refractions.md",
+    "Physics/PHYS 31.2/Module 3/2 - Polarization.md",
+    "Physics/PHYS 31.2/Module 3/3 - Geometric Optics.md",
+    "Physics/PHYS 111/Module 2/2-5 Cross Product.md",
+    "Physics/PHYS 111/Module 2/2-4 Unit Vectors.md",
     "Math/MATH 31.3/Summary for Sequences and Series.md",
-    "Math/MATH 31.3/LT 1 Fact Sheet.md",
-    "Math/resources",
-    "Humanities/HISTO 12/11 - Urban Changes.md",
-    "Humanities/HISTO 12/Untitled.md",
-    "Humanities/HISTO 12/10 - Rural Changes.md",
-    "Humanities/HISTO 12/9 - Rebellion.md",
-    "Humanities/HISTO 12/7 - Indigenous Peoples.md",
-    "Humanities/HISTO 12/5 - Industrial Education.md",
-    "Humanities/HISTO 12/3 - Philippine-American War.md",
-    "Humanities/HISTO 12/2 - Philippine Revolution.md",
-    "Humanities/HISTO 12/1 - Primary Sources.md",
+    "Math/MATH 31.3/Series.md",
     "Math/MATH 31.3/Limit Comparison Test.md",
     "Math/MATH 31.3/L'Hospital's Rule.md",
-    "Humanities/HISTO 12/6 - Women.md",
-    "Humanities/GER 11/Meine Familie und Ich.md",
-    "Humanities/GER 11/Mein Haus.md",
-    "Humanities/EDUC 132/5 - Socio-Cultural Theory of Development.md",
-    "Humanities/EDUC 132/3- Constructivism.md",
-    "Humanities/EDUC 132/4 -.md",
-    "Humanities/EDUC 132/2 - Social Cognitive Approach to Learning.md",
-    "Math/Other/Homogeneous Function.md",
-    "Math/Other/Partial Derivatives.md",
-    "Math/MATH 31.3/Series.md",
+    "Math/MATH 31.3/LT 1 Fact Sheet.md",
+    "Physics/PHYS 112/Problem Sets/PHYS_112_PSet3_Group2-1.pdf",
     "Physics/PHYS 112/Module 2/3 - Functions of Matrices, transpose, Hermitian conjugate, trace.pdf",
     "Physics/PHYS 112/Module 2/4 - Determinants.pdf",
-    "Physics/PHYS 112/Module 2/2 - Matrices Basic properties 2.pdf",
-    "Physics/PHYS 112/Module 2/5 - Eigenvectors and eigenvalues 2.pdf",
     "Physics/PHYS 112/Module 2/6 - Special Matrices.pdf",
-    "Physics/PHYS 112/Module 2/1 - Vector spaces.pdf",
-    "Physics/PHYS 112/Module 1/5 - Gamma function.pdf",
-    "Physics/PHYS 111/Module 4/4-1 Differential Equations.md",
+    "Physics/PHYS 112/Module 2/5 - Eigenvectors and eigenvalues 2.pdf",
+    "Physics/PHYS 112/Module 1/2 - Conditional Probability.pdf",
+    "Physics/PHYS 112/Problem Sets/PHYS_112_PSet2-Group2-1.pdf",
+    "Physics/PHYS 112/Problem Sets/PHYS112_PSet1-Group2-1.pdf",
+    "README.md",
     "Random.md",
+    "Physics/PHYS 112/Module 1/3 - Counting.pdf",
+    "Physics/PHYS 112/Module 1/1 - Probability.pdf",
+    "Physics/PHYS 111/Module 3/3-10 Transformations of Geometric Significance.md",
+    "Physics/PHYS 111/Module 3/3-9 Matrices as Geometric Transformations.md",
+    "Physics/PHYS 111/Module 3/3-7 Algebraic Properties of Matrices.md",
+    "Physics/PHYS 111/Module 3/3-6 System of 2 Equations for 2 Variables.md",
+    "Physics/PHYS 111/Module 3/3-5 Transpose of a matrix.md",
+    "Physics/PHYS 111/Module 3/3-3 Scalar Multiplication.md",
+    "Physics/PHYS 111/Module 3/3-2 Matrix Addition.md",
+    "Physics/PHYS 111/Module 3/3-1 Matrices.md",
+    "Physics/PHYS 111/Module 2/2-7 Equation of a Plane.md",
+    "Physics/PHYS 111/Module 2/2-6 Parametric Equations of a Vector.md",
+    "Physics/PHYS 111/Module 2/2-3 Dot Product.md",
+    "Physics/PHYS 111/Module 2/2-2 Vector Addition.md",
+    "Physics/PHYS 111/Module 1/7 - Finding roots of complex numbers.md",
+    "Physics/PHYS 111/Module 1/6 - Proof for Euler's Formula.md",
+    "Math/MATH 31.3/resources/series test.PNG",
+    "Math/MATH 31.3/resources/maclaurin series.PNG",
     "Untitled.canvas",
     "Physics/PHYS 31.2/resources/Figure16.2.PNG",
     "Physics/PHYS 31.2/resources/Figure16.21.PNG",
@@ -203,7 +204,6 @@
     "PHYS 111/resources/photos/vector-addition.png",
     "PHYS 111/resources/photos/vector-subtraction.png",
     "PHYS 111/resources/photos/pset1pic1.png",
-    "PHYS 111/resources/photos/module 2/pset2-3_2.PNG",
-    "PHYS 111/resources/photos/module 2/pset2-3_1.PNG"
+    "PHYS 111/resources/photos/module 2/pset2-3_2.PNG"
   ]
 }
