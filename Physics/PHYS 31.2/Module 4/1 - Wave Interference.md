@@ -9,11 +9,11 @@ Recall [[3 - Interference and Standing Waves]] and [[5 - Sound Wave Interference
 ### Interference in Two or Three Dimensions
 Interference is most easily observed when sinusoidal waves with a single frequency $f$ and wavelength $\lambda$ is combined.
 
-//pic
+![[Figure35.1.PNG]]
 
 We can assume that the material surrounding $S_1$ is uniform such that there is no refraction or bending. If the waves are 2D (e.g. waves on a surface of a liquid), the figure represents circular wave fronts. If they are 3D, they represent spherical wave fronts spreading away from $S_1$.
 
-//pic
+![[Figure35.2.PNG]]
 
 Assume that we are working with monochromatic (single wavelength) waves. Now consider two identical sources of monochromatic waves $S_1$ and $S_2$ wherein they produce waves of same amplitude and wavelength (such that they are permanently in phase).
 
@@ -27,20 +27,18 @@ Remember that when waves arrive at a point in phase (i.e. path difference is an 
 
 Now we take a look at point $c$, where the path difference is $2.50\lambda$. Destructive interference occurs, because the path difference is a half-integral number of $\lambda$.
 
-//pic
+![[Figure35.3.PNG]]
 
 We can then construct a diagram of antinodal curves and nodal curves (the former being points of constructive interference, the latter being points of destructive interference)
 
 ### Two-Source Interference of Light
 We can now take a look at Young's double slit experiment.
 
-//pic
+![[Figure35.5-1.PNG]]
 
 Light is directed towards a screen with a narrow slit $S_0$, while waves emerging from $S_1$ and $S_2$ are in phase, such that they are coherent sources.
 
-//pic actual geometry
-
-//pic
+![[Figure35.5-2.PNG]]
 
 We assume that $r_1$ is parallel to $r_2$, such that the path difference between the two rays is essentially
 $$
@@ -58,9 +56,9 @@ $$
 \delta = d\sin\theta = (m+\frac{1}{2})\lambda \tag{$m = 0, \pm1, \pm2, \dots$}
 \end{align}
 $$
-//pic of regions
+![[Figure35.6.PNG]]
 
-How about the positions of the bright bands, however? We can go back to Figure ().
+How about the positions of the bright bands, however? We can go back to Figure 35.5.
 
 Let $y_m$ be the distance from the center of the pattern ($\theta = 0$) to the center of the $m^\text{th}$ bright band. Then:
 $$
@@ -83,7 +81,7 @@ E_2(t) &= E\cos(\omega t)
 $$
 By superposition, we find the resultant wave. We can use a phasor diagram to show the vector addition to find the amplitude $E_p$.
 
-//pic of phasor diagram
+![[Figure35.9.PNG]]
 
 Using the law of cosines:
 $$
@@ -102,7 +100,47 @@ I = \frac{\epsilon_0cE^2_p}{2} = 2\epsilon_0cE^2\cos^2(\frac{\phi}{2})
 $$
 ($\epsilon_0$ refers to permittivity of free space, i.e. ability of free space/vacuum to allow static charges.)
 
-Then we have consider the maximum intensity:
+Considering maximum intensity $I_0 = 2\epsilon_0cE^2$:
 $$
 I = I_0\cos^2(\frac{\phi}{2})
 $$
+
+### Phase Difference and Path Difference
+We can then determine the phase difference $\phi$ between two fields at any point $P$. Since we know that
+$$
+	\frac{\phi}{2\pi} = \frac{r_{2}-r_{1}}{\lambda}
+$$
+due to having a phase difference proportional to the path length, then
+$$
+\phi = \frac{2\pi}{\lambda}(r_2 - r_1) = k(r_2-r_1)
+$$
+(remember that wave number $k=(r_2-r_1)$).
+
+Once again, remember through [[#Two-Source Interference of Light]] that the path difference is equal to $d\sin \theta$, such that our equation becomes
+$$
+\phi = k(r_2-r_1) = kd\sin \theta = \frac{2\pi d}{\lambda}\sin \theta
+$$
+
+Substituting in our intensity equation:
+$$
+I = I_o\cos^2\left( \frac{1}{2} kd\sin \theta \right) = I_0\cos^2\left( \frac{\pi d}{\lambda} \sin \theta \right)
+$$
+where the maximum intensity occurs with
+$$
+\begin{align}
+		\frac{\pi}{\lambda}\sin \theta = m\pi \tag{$m=0, \pm 1, \pm 2, \dots$}
+\end{align}
+$$
+
+Since we know that $d \sin \theta = m\lambda$:
+$$
+I = I_0\cos^2\left( \frac{kdy}{2R} \right) = I_0\cos^2\left( \frac{\pi dy}{\lambda R} \right)
+$$
+
+![[Figure35.10.PNG]]
+
+### Change of Phase due to Reflection
+#### Lloyd's Mirror
+This is an experiment done by Humphrey Lloyd where it demonstrates an interference pattern as a result of reflections.
+
+It should be noted that the reflected ray undergoes a 180$^\circ$ phase change. This is similar to how strings undergo a "phase change" when it is reflected on a fixed end (see [[3 - Interference and Standing Waves#Boundary Conditions]])
