@@ -35,3 +35,28 @@ Consider that the entire deviation of a ray as occurring at the midplane of the 
 Notice that the image is real in the converging lenses, while it is virtual in the diverging lenses.
 
 ![[Figure34.37.PNG]]
+
+### Real Life Application
+#### Camera
+A camera uses a converging lens that is dynamically moved in and out to adjust for different object distances (i.e. changing image distance). The lens is farther away from the film/CCD array for near objects, and closer for far objects.
+
+Cameras can have other types of lenses, like:
+- Telephoto lens - lens with a long focal length (small FOV but large image of a distant object)
+- Wide-angle lens - lens of short focal length (but large FOV)
+#### Human Eye
+The eye and the camera are optically similar; however, the image distance for the eye (lens to retina) is fixed. Instead, the image is focused through the flexibility of the lens, being able to be stretched or contracted by the ciliary muscle (this is called accommodation).
+
+In reaching the retina, the light travels through 5 media:
+- Air (n= 1.0)
+- Cornea (n = 1.38)
+- Aqueous humor (1.33)
+- Lens (n = 1.40, on average)
+- Vitreous Humor (n = 1.34)
+
+Note that 70% of the refraction occurs at the air-cornea interface.
+
+The point nearest the eye at which an object can be placed and still produce an image is called the "near point" of the eye. This recesses over time (aka. presbyopia).
+
+Ideally, the far point of an eye is infinity.
+
+In cases like myopia, eye is elongated such that the image forms in front of the retina at far distances (a diverging lens is needed).
