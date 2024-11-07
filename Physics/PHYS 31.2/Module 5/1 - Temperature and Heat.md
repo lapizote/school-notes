@@ -98,3 +98,84 @@ Water is a special substance, because between 0$^\circ$C and 4$^\circ$C, water d
 Consider an aluminium rod. If the temperature changes but is not allowed to expand or contract (e.g. clamped on both ends), then thermal stress develops.
 
 Engineers account for thermal stresses when designing structures (e.g. for concrete highways, gaps are made to allow for expansion and contraction of concrete)
+
+#### Calculating the Thermal Stress in a Clamped Rod
+From the definition of Young's modulus:
+$$
+Y = \frac{\frac{F}{A}}{\frac{\Delta L}{L_o}}
+$$
+so
+$$
+(\frac{\Delta L}{L_o})_\text{thermal} = \frac{F}{AY}
+$$
+If the length is to be constant, then the total fractional change in length must be zero such that
+$$
+\left( \frac{\Delta L}{L_o} \right)_\text{thermal} + \left( \frac{\Delta L}{L_o} \right)_\text{tension} = \alpha\Delta T + \frac{F}{AY} = 0
+$$
+
+Then the tensile stress needed to keep the length constant:
+$$
+\frac{F}{A} = -Y\alpha\Delta T
+$$
+
+### Quantity of Heat
+Energy transfer that takes place because of a temperature difference is called heat flow or heat transfer. Note that heat refers to the energy that is transferred or energy in transit due to a temperature difference, NOT the amount of energy contained within a particular system.
+
+Meanwhile, temperature a quantitative description of the hotness and coldness of a material (a measure of the average translational kinetic energy associated with the disordered microscopic motion of atoms and molecules.)
+
+//diagrams
+
+The temperature of the body can be changed by either doing work on it or by adding heat to it.
+
+Unit of Heat: calorie is defined as the amount of heat required to raise the temperature of 1 gram of water from 14.5$^\circ$C to 15.5$^\circ$C
+
+#### Specific Heat
+The heat required for temperature change $\Delta T$ of mass $m$ is
+$$
+Q = mc\Delta T
+$$
+where $c$ is called the specific heat of the material.
+For an infinitesimal temperature change $dT$ and corresponding quantity of heat $dQ$:
+$$
+dQ = mc\,\,dT
+$$
+//graph
+
+Notice that the unit of $c$ is J/kg K
+
+The specific heat of water is approximately 4190 J/kg K or 1 cal/g C$^\circ$.
+
+//table
+
+#### Molar Heat Capacity
+Sometimes it is more convenient to describe a quantity of substance in terms of the number of moles $n$ rather than the mass $m$ of a material. The total mass $m$ of a material is now given by
+$$
+m = nM
+$$
+where $M$ is the molar mass (kg/mol) and $n$ is the number of moles.
+$$
+\begin{align}
+Q = mc\Delta T &= nMc\Delta T \tag{$Mc$ = molar heat capacity} \\
+Q &= nC\Delta T \tag{for $n$ moles}
+\end{align}
+$$
+
+### Phase Changes
+A phase refers to the specific state of matter (solid, liquid, gas), and a phase change would then be a transition from one phase to another.
+
+In any given pressure, it would take a specific temperature for phase change to start occurring.
+
+During a phase change, the temperature does not change until the phase change finishes, as the heat change is allocated to the phase change rather than to change the temperature.
+
+This is defined through the heat of fusion and heat of vaporization:
+- Heat of fusion, $L_f$ - heat per unit mass that is transferred in a solid-liquid phase change
+	- For H$_2$O at atm: $L_f = 3.34 \times 10^5$ J/kg = 79.6 cal/g
+- Heat of vaporization, $L_v$ - heat per unit mass that is transferred in a liquid-gas change.
+	- For H$_2$O at atm: $L_V = 2.256 \times 10^6$ J/kg = 539 cal/g
+
+//table
+
+//graph of temporal variation in temperature
+
+
+

@@ -14,11 +14,11 @@ There would then be two different condition types.
 #### Neither or Both Waves Have a Half-Cycle Phase Shift
 For constructive reflection:
 $$
-2t = m\lambda \tag{$m=0,1,2,\dots$}
+2nt = m\lambda \tag{$m=0,1,2,\dots$}
 $$
 For destructive:
 $$
-2t = \left( m+\frac{1}{2} \right)\lambda \tag{$m=0,1,2,\dots$}
+2nt = \left( m+\frac{1}{2} \right)\lambda \tag{$m=0,1,2,\dots$}
 $$
 #### One Wave Has a Half-Cycle Phase Shift
 Essentially, the conditions are swapped.
