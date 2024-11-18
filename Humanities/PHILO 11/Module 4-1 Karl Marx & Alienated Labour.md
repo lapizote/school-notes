@@ -1,0 +1,1 @@
+Man is reduced to the work that he does

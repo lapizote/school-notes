@@ -1,3 +1,12 @@
+The being of man is a being-in-the-world
+Dasein: "there-being" "there-being is the there of being among things—it lets things be (manifest) thereby rendering all encounter with them possible"
+
+Man reaches his wholeness in death, because man loses his potentiality for being
+He loses his "there"; It's done, everything is settled
+
+Man is in a state of "fallenness" (absorbed in his everyday world of concern) as a being-towards-death
+
+
 Verfallen: "pagkahulog" "fallenness"
 Dasman: "the day" "The impersonal public"
 
