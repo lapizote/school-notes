@@ -41,7 +41,7 @@ The rise of work in brought by capitalism gives view of man as controller and ma
 Man's dignity lies in his ability to stand for himself, to acquire master over nature and his own passions
 For Marx, labor confirms his own being as a species-being
 Man is not merely a natural being, but also a human natural being (man is a being =who treats himself as a present, living species)
-Man is the only thing who can make the community his object both practicall yand theoretically
+Man is the only thing who can make the community his object both practically and theoretically
 Man can make himself and his humanity his own object (universal and freedom of man)
 Man is man because he objectifies himself through labor: e.g. making a chair; man is transcending himself and making himself an object for-itself by means of nature -> chair becomes and expression, externalization, and realization of man's species life and an embodiment of his creativity.
 The human stamp in the chair; nature becomes humanized
@@ -49,4 +49,18 @@ The human stamp in the chair; nature becomes humanized
 "The human significance of nature exists for social man, because only in this case is nature a bond with other men, the basis of his existence for others and of their existence for him"
 
 Man must produce for society and with the consciousness of acting as a social being -> this is only how the work becomes human, and the object a human object (social object)
+
+Man as a species-being is man conscious not only of himself as an individual but also of his own species and of his own being as a member of his species
+
+Human work is truly communal because he produces universally, a real human being is one who reincorporates himself in the social
+
+In modern society: there is the functionalization and depersonalization of the person
+
+There is surplus from nature, and surplus becomes the basis of culture
+
+There is a danger to make everything about human existence work -> remember that work is a way of realizing oneself but not the only way
+
+modern man works aims at the world to change it, to create a product to perfect himself and for his fellowman
+
+The value of work lies in the worker, the dignity of man as an embodied person, free, communicating
  
