@@ -1,6 +1,6 @@
 Sa kabila ng absurdo, bakit pa ako magpapatuloy -> para saan ang aking ginagawa?
 
-Same -> 
+Same -> Kagaya
 Other -> Kaiba
 ### Violence
 **Background:**
@@ -25,7 +25,7 @@ Life is so much easier when surrounded by your alter egos - Narcissism
 im the alpha im the leader im the one to trust
 awoooooo!!!!
 
-Flowey kill or be killed
+Flowey from undertale: kill or be killed
 
 Trump -> us vs. them, capitalized on the violent attitude of Americans
 

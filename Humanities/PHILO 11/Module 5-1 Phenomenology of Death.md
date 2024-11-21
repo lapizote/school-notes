@@ -6,7 +6,6 @@ He loses his "there"; It's done, everything is settled
 
 Man is in a state of "fallenness" (absorbed in his everyday world of concern) as a being-towards-death
 
-
 Verfallen: "pagkahulog" "fallenness"
 Dasman: "the day" "The impersonal public"
 
