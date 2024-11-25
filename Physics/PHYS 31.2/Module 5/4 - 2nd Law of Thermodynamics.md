@@ -5,7 +5,7 @@ The second law of thermodynamics determines the preferred direction of such proc
 
 However, there are some idealized processes that would be reversible, where these reversible processes are very close (i.e. infinitesimally) to being in thermodynamic equilibrium with itself and its surroundings.
 
-//pics
+![[Figure20.1.PNG]]
 
 ### Heat Engines
 These include gasoline engines, jet engines, steam turbines, etc. This refers to a device that converts heat into work or mechanical energy.
@@ -22,7 +22,7 @@ $$
 Q = W
 $$
 #### Hot and Cold Reservoirs
-//pic
+![[Figure20.3.PNG]]
 
 We would have $Q_h > 0$ as heat is transferred to the working substance and $Q_c < 0$ as heat leaves the working substance. Then the net heat absorbed per cycle is
 $$
@@ -42,14 +42,16 @@ $$
 e = 1 + \frac{Q_c}{Q_h} = 1 - \left|\frac{Q_c}{Q_h}\right|
 $$
 ### Internal Combustion Engines
-//pics
+![[Figure20.5.PNG]]
 #### Otto Cycle
 The following is a pV diagram for the Otto cycle an idealized model of the thermodynamic processes in a gasoline engine.
 
-//pic
+![[Figure20.6.PNG]]
 
 ### Refrigerators
 These are essentially heat engines operating in reverse, where heat is taken from a cold place and is given to a warmer place. This requires a net input of mechanical work, as it is a non-natural process.
+
+![[Figure20.8.PNG]]
 
 $Q_c$ would be positive and $Q_h, W$ would be negative, where $Q_h > Q_c$ such that
 $$
@@ -66,10 +68,10 @@ $$
 K = \left|Q_c\right|
 $$
 #### Practical Refrigerators
-//pics
+![[Figure20.9.PNG]]
 
 #### Clausius Statement
-"Heat never flows spontaneously fr"
+"Heat never flows spontaneously from lower temperature to higher temperature without work."
 
 ### Carnot Cycle
 No heat engine can have 100% efficiency.
@@ -79,7 +81,7 @@ To get maximum heat-engine efficiency, we avoid all irreversible process. During
 
 We would then have two reversible isothermal and two reversible adiabatic processes:
 
-//diagram
+![[Figure20.13.PNG]]
 
 The heat transfer in a Carnot engine would be equivalent to
 $$
@@ -111,3 +113,6 @@ $$
 \frac{V_b}{V_a} = \frac{V_c}{V_d}
 $$
 So then we have
+$$
+\frac{Q_c}{Q_H} = -\frac{T_c\ln\left( \frac{V_c}{V_d} \right)}{T_h\ln\left( \frac{V_b}{V_a} \right)} = -\frac{T_c}{T_h}
+$$
