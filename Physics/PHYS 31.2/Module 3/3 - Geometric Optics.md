@@ -39,7 +39,8 @@ We have the center of curvature (C) of the surface, i.e. the center of the spher
 
 It is possible to find the location of real image $P'$, alongside the optic axis.
 #### Paraxial Approximation
-//picture
+![[Figure34.10.PNG]]
+
 When $\alpha$ is small, the the rays intersect at $P'$, on the vertex, which results in a sharp image. Otherwise, the image is elongated (spherical aberration).
 
 Assume that the distance of $P$ to $V$ is $> R$. We want to find the location of the real image $P'$. Remember the theorem that an exterior angle of a triangle is equal the sum of two opposite interior angles. From this, we can then apply that to triangles $PBC$ and $P'BC$.
