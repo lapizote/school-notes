@@ -12,11 +12,9 @@ In a lab, we have two typical types of thermometers:
 Two systems are in thermal equilibrium if and only if they have the same temperature.
 
 Consider three systems A, B, and C:
-//pic
+![[Figure17.2.PNG]]
 
 Note that A and B are separated by an insulator. When $A=C$ and $B=C$, then $A=B$.
-
-//pic
 
 #### Zeroth Law of Thermodynamics
 This is the zeroth law of thermodynamics. If $C$ is initially in thermal equilibrium with both $A$ and $B$, then $A$ and $B$ are in thermal equilibrium with each other.
@@ -27,7 +25,7 @@ This is the zeroth law of thermodynamics. If $C$ is initially in thermal equilib
 #### Gas Thermometer and the Kelvin Scale
 Ideally, we should define a temperature scale that does not depend on the properties of a particular material. A gas thermometer is close to ideal, as it uses the principle ($pV = nRT$) that the pressure of a gas at a constant volume increases with temperature
 
-//pic
+![[Figure17.5.PNG]]
 
 Note that all the pressure lines all intersect at one point (extrapolated to zero pressure), this is equivalent to 0 K (-273.15$^\circ$C)
 
@@ -51,7 +49,7 @@ Most materials tend to expand when their temperatures increases.
 
 Consider a rod of length $L_o$. Increasing the temperature of this rod causes it to expand, such that $\Delta T$ corresponds to $\Delta L$. 
 
-//pics of rod
+![[Figure17.8.PNG]]
 
 The change in length is given by
 $$
@@ -87,7 +85,7 @@ $$
 $$
 
 #### Coefficients of Expansion
-//pic
+![[Table17.1.PNG]]
 
 Note that the coefficient has a unit of $K^{-1}$ such that it is consistent with dimensional analysis.
 
@@ -123,7 +121,7 @@ Energy transfer that takes place because of a temperature difference is called h
 
 Meanwhile, temperature a quantitative description of the hotness and coldness of a material (a measure of the average translational kinetic energy associated with the disordered microscopic motion of atoms and molecules.)
 
-//diagrams
+![[Figure17.15.PNG]]
 
 The temperature of the body can be changed by either doing work on it or by adding heat to it.
 
@@ -139,13 +137,13 @@ For an infinitesimal temperature change $dT$ and corresponding quantity of heat 
 $$
 dQ = mc\,\,dT
 $$
-//graph
+![[Figure17.17.PNG]]
 
 Notice that the unit of $c$ is J/kg K
 
 The specific heat of water is approximately 4190 J/kg K or 1 cal/g C$^\circ$.
 
-//table
+![[Table17.3.PNG]]
 
 #### Molar Heat Capacity
 Sometimes it is more convenient to describe a quantity of substance in terms of the number of moles $n$ rather than the mass $m$ of a material. The total mass $m$ of a material is now given by
@@ -173,9 +171,9 @@ This is defined through the heat of fusion and heat of vaporization:
 - Heat of vaporization, $L_v$ - heat per unit mass that is transferred in a liquid-gas change.
 	- For H$_2$O at atm: $L_V = 2.256 \times 10^6$ J/kg = 539 cal/g
 
-//table
+![[Figure17.20.PNG]]
 
-//graph of temporal variation in temperature
+![[Table17.4.PNG]]
 
 
 

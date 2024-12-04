@@ -1,13 +1,12 @@
 ### PV curves at constant temperature—isotherms
-A single experiment can measure how the pressure changes as volume changes—this is known as an isothermal curve. THis is a graphical representation of the ideal gas equation of state.
+A single experiment can measure how the pressure changes as volume changes—this is known as an isothermal curve. This is a graphical representation of the ideal gas equation of state.
 
-//curve
-
+![[Figure18.6.PNG]]
 Many isothermal curves together make a three-dimensional phase surface.
 
 We can use this graph to predict what happens to a material in a sealed, rigid container if temperature is increased.
 
-//picky
+![[Figure18.7.PNG]]
 
 Notice the points of zero slope at points where phase change occurs.
 ### Ideal-Gas Equation
@@ -114,7 +113,7 @@ $$
 ### How much energy can ensembles contain?
 Consider a fixed volume V of a monoatomic ideal gas with point-like molecules.
 
-//ggg
+![[Figure18.17.PNG]]
 
 When an amount of heat dQ is added to the gas, the total translational kinetic energy increases by
 $$
@@ -128,7 +127,7 @@ C_v = \frac{3}{2}R = 12.47 \, \text{J/mol K} \tag{ideal gas of point particles}
 \end{align}
 $$
 
-//table 18.1
+![[Table18.1.PNG]]
 The point-molecule model is good enough for monoatomic gases, but does not correctly predict for diatomic and polyatomic gases.
 
 This occurs because diatomic molecules can be represented by two point masses. There can be additional kinetic energy asociated with the rotation about axes through its center of mass, and may also have vibrating motion associated with them.
@@ -152,14 +151,14 @@ $$
 #### What about vibration?
 For most diatomic gases, vibration motion does not contribute appreciably to heat capacity.
 
-//pic
+![[Table 18.18.PNG]]
 
 A high amount of heat energy is required to 
 
 #### For monoatomic solids
 We visualize the forces between neighboring atoms in a crystal, and we envision every atom as being attached to its neighbors by springs.
 
-//pic
+![[Figure18.20.PNG]]
 
 We get 3 degrees of freedom corresponding to the vibrational motion, each with KE of $\frac{1}{2}kT$, where each atom has potential energy associated with elastic deformation. For SHM, the average kinetic energy is equal to the average potential energy.
 

@@ -10,16 +10,16 @@ where $U$ refers to the internal energy, $Q$ is heat, and $W$ is work done by th
 #### Work Done During Volume Changes
 Consider the work done by the system during a volume change.
 
-//tube
+![[Figure19.4.PNG]]
 
 When a gas expands, it pushes outward on its boundary surfaces as they move outward. An expanding gas always does positive work.
 
 Let
 $A$: Cross sectional area of the cylinder
-$p$ pressure exerted by the system at the piston face
-$F = pA$ is the total force exerted by the system on the piston
+$p$: pressure exerted by the system at the piston face
+$F = pA$: is the total force exerted by the system on the piston
 
-//pic
+
 
 When the piston moves a distance $dx$, then the work $dW$ by this force is:
 $$
@@ -39,12 +39,12 @@ W = \int_{V_1}^{V_2} p \, dV
 $$
 In general, the pressure of the system may vary during the volume change. Let us try to find how the pressure varies as a function of volume using a pV-diagram (i.e. use the work formula to find the area under the pV curve):
 
-//pics
+![[Figure19.6.PNG]]
 
 #### Paths Between Thermodynamic States
 When a thermodynamic system changes from an initial state to a final state, it passes through a series of intermediate states (paths).
 
-//pics
+![[Figure19.7-1.PNG]] ![[Figure19.7-2.PNG]]
 
 This shows us that the work done by the system depends not only on the initial and final states, but also the intermediate states (i.e. the path)
 
@@ -81,7 +81,7 @@ Note that while $Q$ and $W$ are depends on the path, $\Delta U = Q - W$ is indep
 ### Cyclic Processes and Isolated Systems
 A cyclic process is a process that returns the system to its initial state.
 
-//pic
+![[Figure19.11.PNG]]
 
 ### Types of Thermodynamic Proceses
 #### Adiabatic Process
@@ -109,11 +109,11 @@ Constant temperature process.
 For a process to be isothermal, heat flow into or out of a system must occur slowly enough that thermal equilibrium is maintained.
 
 ### Internal Energy of an Ideal Gas
-//pic
+![[Figure19.17.PNG]]
 
 Many experiments have shown that when a low-density gas undergoes a free expansion, its temperature does not change. This gas is essentially an ideal gas.
 
-The internal energy o an ideal gas depends only on its temperature, not pressure nor volume.
+The internal energy of an ideal gas depends only on its temperature, not pressure nor volume.
 
 #### Heat Capacities of an Ideal Gas
 Heat capacities may be measured at a constant volume ($C_v$) or constant pressure ($C_p$).
@@ -131,7 +131,7 @@ $$
 
 For a given temperature increase, $\Delta U$ of an ideal gas has the same value no matter the process ($U \propto T$ only). Essentially, $Q$ input at a constant pressure > $Q$ input at constant volume.
 
-//pic
+![[Figure19.19.PNG]]
 
 Raising the temperature of an ideal gas from $T_1$ to $T_2$ by a constant-volume or a constant-pressure process. For an ideal gas, $U$ depends only on $T$, so $\Delta U$ is the same for both processes.
 
@@ -183,7 +183,7 @@ $$
 $$
 
 ### Adiabatic Processes for an Ideal Gas
-//figure
+![[Figure19.20.PNG]]
 
 As the gas expands from $V_a$ to $V_b$, it does postivie work $W$ on its environment, its internal energy decreases (as $\Delta = -W < 0$), and its temperature drops from $T+dT$ to $T$.
 

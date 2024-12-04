@@ -1,12 +1,21 @@
 $$
+a_{j+2} = \frac{\lambda+2j}{(j+2)(j+1)}a_j
+$$
+$$
+a_{j+2} \sim \frac{1}{j}a_j
+$$
+$$
 \begin{align}
-\int_0^1 \int_0^1 \frac{1}{1-xy} \, dx dy
-&= \int_0^1 \int_0^1 \sum_{n=0}^\infty y^nx^n \, dx dy \\
-&= \int_0^1 \sum_{n=0}^\infty \frac{y^nx^{n+1}}{n+1} \Bigg|_0^1 \, dy \\
-&= \int_0^1 \sum_{n=0}^\infty \frac{y^n}{n+1} \, dy \\
-&=\sum_{n=0}^\infty \frac{y^{n+1}}{(n+1)^2} \Bigg|_0^1 \, dy \\
-&=\sum_{n=0}^\infty \frac{1}{(n+1)^2} \\
-&=\sum_{n=1}^\infty \frac{1}{n^2} \\
+a_{j+2} &\sim \frac{1}{j}a_j \\
+a_{j+3} &\sim \frac{1}{j+1}a_{j+1} \\
+a_{j+4} &\sim \frac{1}{(j+2)j}a_{j} \\
+a_{j+5} &\sim \frac{1}{(j+3)(j+1)}a_{j+1} \\
+a_{j+6} &\sim \frac{1}{(j+4)(j+2)j}a_{j} \\
 \end{align}
-
+$$
+$$
+\begin{align}
+a_{j+2k} &\sim \frac{1}{(j+2k-2)(j+2k-4) \dots j}a_{j} \\
+a_{j+k} &\sim \frac{1}{(j+k-2)(j+k-4) \dots (j+1)}a_{j+1} \\
+\end{align}
 $$
