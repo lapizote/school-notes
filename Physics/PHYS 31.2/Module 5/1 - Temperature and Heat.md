@@ -67,7 +67,7 @@ Thermal expansion also applies to liquid materials. If $\Delta T$ is not high, t
 $$
 \Delta V = \beta V_o\Delta TC
 $$
-There is a simple relationship between $\beta$ and $\alpha$ for solid materials. Consider a cube of material with side length $L$ and volume $V = L^3.
+There is a simple relationship between $\beta$ and $\alpha$ for solid materials. Consider a cube of material with side length $L$ and volume $V = L^3$.
 
 At the initial temperature, $V = V_o$ and $L = L_o$. When temperature increases by dT, side length should increase by dL and the volume increases by an amount dV, such that
 $$
