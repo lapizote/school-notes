@@ -12,22 +12,21 @@ In a lab, we have two typical types of thermometers:
 Two systems are in thermal equilibrium if and only if they have the same temperature.
 
 Consider three systems A, B, and C:
-//pic
+![[Figure17.2.PNG]]
 
 Note that A and B are separated by an insulator. When $A=C$ and $B=C$, then $A=B$.
-
-//pic
 
 #### Zeroth Law of Thermodynamics
 This is the zeroth law of thermodynamics. If $C$ is initially in thermal equilibrium with both $A$ and $B$, then $A$ and $B$ are in thermal equilibrium with each other.
 
+---
 ### Temperature Scales
 - Celsius -> 0$^\circ$C is the freezing point of pure water and 100$^\circ$C is the boiling point
 - Fahrenheit -> 32$^\circ$F is freezing point of pure water and 212$^\circ$F is the boiling point
 #### Gas Thermometer and the Kelvin Scale
 Ideally, we should define a temperature scale that does not depend on the properties of a particular material. A gas thermometer is close to ideal, as it uses the principle ($pV = nRT$) that the pressure of a gas at a constant volume increases with temperature
 
-//pic
+![[Figure17.5.PNG]]
 
 Note that all the pressure lines all intersect at one point (extrapolated to zero pressure), this is equivalent to 0 K (-273.15$^\circ$C)
 
@@ -46,12 +45,13 @@ T_C = \frac{5}{9}(T_F - 32^\circ) \\
 T_K = T_C + 273.15
 \end{align}
 $$
+---
 ### Thermal Expansion
 Most materials tend to expand when their temperatures increases.
 
 Consider a rod of length $L_o$. Increasing the temperature of this rod causes it to expand, such that $\Delta T$ corresponds to $\Delta L$. 
 
-//pics of rod
+![[Figure17.8.PNG]]
 
 The change in length is given by
 $$
@@ -65,9 +65,9 @@ We can understand the linear expansion if we model the atoms as being help toget
 #### Volume Expansion
 Thermal expansion also applies to liquid materials. If $\Delta T$ is not high, then the increase in volume $\Delta V$ is given by
 $$
-\Delta V = \beta V_o\Delta TC
+\Delta V = \beta V_o\Delta T
 $$
-There is a simple relationship between $\beta$ and $\alpha$ for solid materials. Consider a cube of material with side length $L$ and volume $V = L^3.
+There is a simple relationship between $\beta$ and $\alpha$ for solid materials. Consider a cube of material with side length $L$ and volume $V = L^3$.
 
 At the initial temperature, $V = V_o$ and $L = L_o$. When temperature increases by dT, side length should increase by dL and the volume increases by an amount dV, such that
 $$
@@ -87,7 +87,7 @@ $$
 $$
 
 #### Coefficients of Expansion
-//pic
+![[Table17.1.PNG]]
 
 Note that the coefficient has a unit of $K^{-1}$ such that it is consistent with dimensional analysis.
 
@@ -106,7 +106,7 @@ Y = \frac{\frac{F}{A}}{\frac{\Delta L}{L_o}}
 $$
 so
 $$
-(\frac{\Delta L}{L_o})_\text{thermal} = \frac{F}{AY}
+(\frac{\Delta L}{L_o})_\text{tension} = \frac{F}{AY}
 $$
 If the length is to be constant, then the total fractional change in length must be zero such that
 $$
@@ -118,12 +118,13 @@ $$
 \frac{F}{A} = -Y\alpha\Delta T
 $$
 
+---
 ### Quantity of Heat
 Energy transfer that takes place because of a temperature difference is called heat flow or heat transfer. Note that heat refers to the energy that is transferred or energy in transit due to a temperature difference, NOT the amount of energy contained within a particular system.
 
 Meanwhile, temperature a quantitative description of the hotness and coldness of a material (a measure of the average translational kinetic energy associated with the disordered microscopic motion of atoms and molecules.)
 
-//diagrams
+![[Figure17.15.PNG]]
 
 The temperature of the body can be changed by either doing work on it or by adding heat to it.
 
@@ -139,13 +140,13 @@ For an infinitesimal temperature change $dT$ and corresponding quantity of heat 
 $$
 dQ = mc\,\,dT
 $$
-//graph
+![[Figure17.17.PNG]]
 
 Notice that the unit of $c$ is J/kg K
 
 The specific heat of water is approximately 4190 J/kg K or 1 cal/g C$^\circ$.
 
-//table
+![[Table17.3.PNG]]
 
 #### Molar Heat Capacity
 Sometimes it is more convenient to describe a quantity of substance in terms of the number of moles $n$ rather than the mass $m$ of a material. The total mass $m$ of a material is now given by
@@ -160,6 +161,7 @@ Q &= nC\Delta T \tag{for $n$ moles}
 \end{align}
 $$
 
+---
 ### Phase Changes
 A phase refers to the specific state of matter (solid, liquid, gas), and a phase change would then be a transition from one phase to another.
 
@@ -173,9 +175,9 @@ This is defined through the heat of fusion and heat of vaporization:
 - Heat of vaporization, $L_v$ - heat per unit mass that is transferred in a liquid-gas change.
 	- For H$_2$O at atm: $L_V = 2.256 \times 10^6$ J/kg = 539 cal/g
 
-//table
+![[Figure17.20.PNG]]
 
-//graph of temporal variation in temperature
+![[Table17.4.PNG]]
 
 
 
