@@ -143,3 +143,16 @@ Efficiency:
 $$
 e_\text{carnot} = 1-\frac{T_c}{T_h} = \frac{{T_h-T_c}}{T_h}
 $$
+##### Entropy:
+Total Entropy Change:
+$$
+\Delta S = S_2 - S_1 = \frac{Q}{T}
+$$
+$$
+\Delta s = \int_1^2 \frac{dQ}{T}
+$$
+In a cyclic process:
+$$
+\int \frac{dQ}{T} = 0
+$$
+(Refer to the Carnot cycle example)
