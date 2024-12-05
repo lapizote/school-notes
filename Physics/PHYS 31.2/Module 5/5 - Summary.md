@@ -1,3 +1,11 @@
+### Common Constants
+$$
+\begin{align}
+N_A &= 6.02\times 10^{23} \tag {avogadro's constant} \\
+R &= 8.314 \, \text{J/mol K} \tag{ideal gas} \\
+
+\end{align}
+$$
 ### 1 - Temperature and Heat
 ##### Kelvin-Celsius Conversion:
 $$
@@ -91,7 +99,7 @@ C_p = C_v + R
 $$
 ##### Ratio of Heat Capacities
 $$
-\gamma = \frac{C_p}{C_v}
+\gamma = \frac{C_p}{C_v} = \frac{C_v+R}{C_v} = 1 + \frac{R}{C_v}
 $$
 ##### Work done by an ideal gas, adiabatic:
 $$
