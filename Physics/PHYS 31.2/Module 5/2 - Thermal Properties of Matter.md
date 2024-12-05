@@ -40,6 +40,7 @@ and the molar mass M is the mass of 1 mole of a compound. This is equal to the m
 
 ---
 ### Molecule collisions and Pressure
+![[Figure 18.12.PNG]]
 The change in the x-component of momentum of a single molecule is
 $$
 m|v_x| - (-m|v_x|) = 2m|v_x|
@@ -136,7 +137,7 @@ $$
 ![[Table18.1.PNG]]
 The point-molecule model is good enough for monoatomic gases, but does not correctly predict for diatomic and polyatomic gases.
 
-This occurs because diatomic molecules can be represented by two point masses. There can be additional kinetic energy asociated with the rotation about axes through its center of mass, and may also have vibrating motion associated with them.
+This occurs because diatomic molecules can be represented by two point masses. There can be additional kinetic energy associated with the rotation about axes through its center of mass, and may also have vibrating motion associated with them.
 
 #### Principle of Equipartition of Energy
 We find the energy associated with each additional kind of motion of a complex molecule through the Principle of Equipartition of Energy.

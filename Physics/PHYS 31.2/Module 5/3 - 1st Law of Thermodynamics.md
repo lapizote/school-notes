@@ -156,7 +156,12 @@ $$
 dQ = nC_p \, dT
 $$
 The work $dW$ done on the gas in terms of the ideal gas equation:
-
+$$
+\begin{align}
+dW = p \, dV = nR \, dT
+\end{align}
+$$
+We can assume that $dU = nC_v\,dT$ as an ideal gas' internal energy depends only on its temperature.
 
 Finally, we get the relationship:
 $$

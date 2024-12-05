@@ -65,7 +65,7 @@ We can understand the linear expansion if we model the atoms as being help toget
 #### Volume Expansion
 Thermal expansion also applies to liquid materials. If $\Delta T$ is not high, then the increase in volume $\Delta V$ is given by
 $$
-\Delta V = \beta V_o\Delta TC
+\Delta V = \beta V_o\Delta T
 $$
 There is a simple relationship between $\beta$ and $\alpha$ for solid materials. Consider a cube of material with side length $L$ and volume $V = L^3$.
 

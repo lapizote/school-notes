@@ -27,7 +27,7 @@ $$
 
 We would have $Q_h > 0$ as heat is transferred to the working substance and $Q_c < 0$ as heat leaves the working substance. Then the net heat absorbed per cycle is
 $$
-Q = Q_h + Q_c = |Q_h| - |Q_c
+Q = Q_h + Q_c = |Q_h| - |Q_c|
 $$
 Then through the first law:
 $$
