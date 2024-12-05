@@ -9,6 +9,8 @@ We can use this graph to predict what happens to a material in a sealed, rigid c
 ![[Figure18.7.PNG]]
 
 Notice the points of zero slope at points where phase change occurs.
+
+---
 ### Ideal-Gas Equation
 $$
 pV = nRT
@@ -24,16 +26,19 @@ pV &= \frac{m_\text{total}}{M} RT \\
 \end{align}
 $$
 
+---
 ### Van Der Waals Equation
 $$
 \left( p+\frac{an^2}{V^2} \right)(V - nb) = nRT
 $$
 where b represents the volume of a mole of molecules and n is the number of moles.
 
+---
 ### Avogadro's Number
 The number of a molecules in a mole is Avogadro's number, $6.02214179 \times 10^{23}$ molecules/mol
 and the molar mass M is the mass of 1 mole of a compound. This is equal to the mass m of a single molecule multiplied by Avogadro's number.
 
+---
 ### Molecule collisions and Pressure
 The change in the x-component of momentum of a single molecule is
 $$
@@ -110,6 +115,7 @@ v_\text{rms} &= \sqrt{(v^2)_\text{av}} \\
 &= \sqrt{\frac{3kT}{m}} = \sqrt{ \frac{3RT}{M} }
 \end{align}
 $$
+---
 ### How much energy can ensembles contain?
 Consider a fixed volume V of a monoatomic ideal gas with point-like molecules.
 
@@ -137,7 +143,6 @@ We find the energy associated with each additional kind of motion of a complex m
 
 This states that each velocity component (linear or angular) has, on average, an associated kinetic energy per molecule of $\frac{1}{2}kT$.
 - Degrees of freedom -> number of velocity components needed to describe the motion of a molecule completely
-- e.g. for monoatomic gas -
 
 We then assign 5 degrees of freedom for a diatomic molecule (such that $\frac{5}{2}kT$) so that we get the kinetic energy of $n$ moles:
 $$
@@ -163,31 +168,6 @@ We visualize the forces between neighboring atoms in a crystal, and we envision 
 We get 3 degrees of freedom corresponding to the vibrational motion, each with KE of $\frac{1}{2}kT$, where each atom has potential energy associated with elastic deformation. For SHM, the average kinetic energy is equal to the average potential energy.
 
 If a crystal has $N$ atoms or $n$ moles, then
-
 $$
 C_V = 3R = 24.9 \text{J/mol K} \tag{Rule of Dulong and Petit}
-$$
-### Summary:
-Ideal gas law:
-$$
-pV = nRT = NkT
-$$
-(where the latter is expressed on a per-molecule basis)
-
-Average translational kinetic energy of $n$ moles of ideal gas:
-$$
-K_\text{tr} = \frac{3}{2}nRT
-$$
-Average translational kinetic energy of a gas molecule:
-$$
-\frac{1}{2}m(v^2)_\text{av} = \frac{3}{2}kT
-$$
-(note that $m$ refers to the mass of a single molecule)
-
-Root mean-square speed of a gas molecule:
-$$
-\begin{align}
-v_\text{rms} &= \sqrt{(v^2)_\text{av}} \\
-&= \sqrt{\frac{3kT}{m}} = \sqrt{ \frac{3RT}{M} }
-\end{align}
 $$

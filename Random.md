@@ -1,5 +1,6 @@
+Let $f(x) = (1-3x^2)$
 $$
-a_{j+2} = \frac{\lambda+2j}{(j+2)(j+1)}a_j
+\langle a_0^{(6)} f(x)| a_0^{(6)} f(x)\rangle = \int_{-1}^1 (a_0^{(6)} f(x))^2 = 1
 $$
 $$
 a_{j+2} \sim \frac{1}{j}a_j

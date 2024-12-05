@@ -1,6 +1,7 @@
 ### Thermodynamic Systems
 We must define clearly what is and is not included in the thermodynamic system. The state of the thermodynamic system changes when it goes through a thermodynamic process.
 
+---
 ### 1st Law of Thermodynamics
 $$
 \Delta U = Q-W
@@ -48,8 +49,6 @@ When a thermodynamic system changes from an initial state to a final state, it p
 
 This shows us that the work done by the system depends not only on the initial and final states, but also the intermediate states (i.e. the path)
 
-However, what is
-
 #### Internal Energy and the First Law of Thermodynamics
 Internal energy refers to the sum of the kinetic energies of all the particles in a system, plus the sum of all the potential energy of interaction among particles.
 
@@ -78,11 +77,13 @@ In a thermodynamic process, the internal energy may:
 
 Note that while $Q$ and $W$ are depends on the path, $\Delta U = Q - W$ is independent of the path.
 
+---
 ### Cyclic Processes and Isolated Systems
 A cyclic process is a process that returns the system to its initial state.
 
 ![[Figure19.11.PNG]]
 
+---
 ### Types of Thermodynamic Proceses
 #### Adiabatic Process
 No heat transfer into or out of a system (such that Q = 0).
@@ -108,6 +109,7 @@ $$
 Constant temperature process.
 For a process to be isothermal, heat flow into or out of a system must occur slowly enough that thermal equilibrium is maintained.
 
+---
 ### Internal Energy of an Ideal Gas
 ![[Figure19.17.PNG]]
 
@@ -161,6 +163,7 @@ $$
 C_p = C_v + R
 $$
 
+---
 ### Ratio of Heat Capacities
 $$
 \gamma = \frac{C_p}{C_v} = \frac{C_v + R}{C_v}
@@ -182,6 +185,7 @@ $$
 \Delta = nC_v\Delta T \tag{regardless if volume is constant}
 $$
 
+---
 ### Adiabatic Processes for an Ideal Gas
 ![[Figure19.20.PNG]]
 
@@ -251,7 +255,6 @@ $$Then we have
 $$
 p_1V_1^\gamma = p_2V_2^\gamma
 $$
-
 $$
 W = nC_v(T_1-T_2)
 $$

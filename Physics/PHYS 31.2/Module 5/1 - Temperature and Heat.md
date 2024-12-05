@@ -19,6 +19,7 @@ Note that A and B are separated by an insulator. When $A=C$ and $B=C$, then $A=B
 #### Zeroth Law of Thermodynamics
 This is the zeroth law of thermodynamics. If $C$ is initially in thermal equilibrium with both $A$ and $B$, then $A$ and $B$ are in thermal equilibrium with each other.
 
+---
 ### Temperature Scales
 - Celsius -> 0$^\circ$C is the freezing point of pure water and 100$^\circ$C is the boiling point
 - Fahrenheit -> 32$^\circ$F is freezing point of pure water and 212$^\circ$F is the boiling point
@@ -44,6 +45,7 @@ T_C = \frac{5}{9}(T_F - 32^\circ) \\
 T_K = T_C + 273.15
 \end{align}
 $$
+---
 ### Thermal Expansion
 Most materials tend to expand when their temperatures increases.
 
@@ -116,6 +118,7 @@ $$
 \frac{F}{A} = -Y\alpha\Delta T
 $$
 
+---
 ### Quantity of Heat
 Energy transfer that takes place because of a temperature difference is called heat flow or heat transfer. Note that heat refers to the energy that is transferred or energy in transit due to a temperature difference, NOT the amount of energy contained within a particular system.
 
@@ -158,6 +161,7 @@ Q &= nC\Delta T \tag{for $n$ moles}
 \end{align}
 $$
 
+---
 ### Phase Changes
 A phase refers to the specific state of matter (solid, liquid, gas), and a phase change would then be a transition from one phase to another.
 

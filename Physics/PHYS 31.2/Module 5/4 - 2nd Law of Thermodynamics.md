@@ -7,6 +7,7 @@ However, there are some idealized processes that would be reversible, where thes
 
 ![[Figure20.1.PNG]]
 
+---
 ### Heat Engines
 These include gasoline engines, jet engines, steam turbines, etc. This refers to a device that converts heat into work or mechanical energy.
 
@@ -41,6 +42,7 @@ so we can get
 $$
 e = 1 + \frac{Q_c}{Q_h} = 1 - \left|\frac{Q_c}{Q_h}\right|
 $$
+---
 ### Internal Combustion Engines
 ![[Figure20.5.PNG]]
 #### Otto Cycle
@@ -48,6 +50,7 @@ The following is a pV diagram for the Otto cycle an idealized model of the therm
 
 ![[Figure20.6.PNG]]
 
+---
 ### Refrigerators
 These are essentially heat engines operating in reverse, where heat is taken from a cold place and is given to a warmer place. This requires a net input of mechanical work, as it is a non-natural process.
 
@@ -73,6 +76,7 @@ $$
 #### Clausius Statement
 "Heat never flows spontaneously from lower temperature to higher temperature without work."
 
+---
 ### Carnot Cycle
 No heat engine can have 100% efficiency.
 Sadi Carnot then asks: "What is the maximum possible efficiency can an engine have, given two heat reservoirs at temperatures $T_h$ and $T_c$?" He then answers this in 1824, where he develops an idealized heat engine that has the maximum possible efficiency consistent with the second law.
