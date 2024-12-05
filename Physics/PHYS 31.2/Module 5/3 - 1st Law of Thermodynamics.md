@@ -117,8 +117,8 @@ Many experiments have shown that when a low-density gas undergoes a free expansi
 
 The internal energy of an ideal gas depends only on its temperature, not pressure nor volume.
 
-#### Heat Capacities of an Ideal Gas
-Heat capacities may be measured at a constant volume ($C_v$) or constant pressure ($C_p$).
+#### Molar Heat Capacities of an Ideal Gas
+Molar Heat capacities may be measured at a constant volume ($C_v$) or constant pressure ($C_p$).
 
 Consider: $C_v$ and $C_p$ for an ideal gas.
 
