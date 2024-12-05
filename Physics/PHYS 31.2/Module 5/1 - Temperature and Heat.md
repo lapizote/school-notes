@@ -106,7 +106,7 @@ Y = \frac{\frac{F}{A}}{\frac{\Delta L}{L_o}}
 $$
 so
 $$
-(\frac{\Delta L}{L_o})_\text{thermal} = \frac{F}{AY}
+(\frac{\Delta L}{L_o})_\text{tension} = \frac{F}{AY}
 $$
 If the length is to be constant, then the total fractional change in length must be zero such that
 $$
