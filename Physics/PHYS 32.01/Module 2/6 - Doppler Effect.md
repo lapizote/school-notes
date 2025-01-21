@@ -58,7 +58,7 @@ Due to Newton's third law (a moving object exerts a large force on the air), the
 
 Jet aircraft can approach speeds where this sound barrier is broken ($v_s > v$), achieving a supersonic velocity. As such, the aircraft can outrun the sound that they create, and a series of wave crests is emitted from its nose. Each crest spreads out in a circle.
 
-![[Figure16.36.PNG]]
+![[Figure16.36.png]]
 
 At time $t$, the crest emitted at $S_1$ spreads out with a radius $vt$ but the aircraft travels a longer distance of $v_st$. The emitted crests interfere constructively along the blue line, the latter of which makes an angle $\alpha$ with a large amplitude wave crest along the line (the "shock wave"). This shockwave forms a 3-D cone.
 
