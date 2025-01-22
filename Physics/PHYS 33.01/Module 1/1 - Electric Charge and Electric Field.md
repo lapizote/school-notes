@@ -67,4 +67,15 @@ $$
 Meanwhile, the force on $q_1$ by $q_2$ (denoted by $\vec{F}_{21}$) is essentially the same magnitude, as
 (pic)
 
-where $k = \frac{1}{4\pi \epsilon_0} = 8.99 \times 10^9 \, Nm^2 / C^2$ and $\epsilon_0 = 8.85 \times 10^{12}}$
+where $k = \frac{1}{4\pi \epsilon_0} = 8.99 \times 10^9 \, Nm^2 / C^2$ and $\epsilon_0 = 8.85 \times 10^{12}$ (where we can approximate $k$ to $9.0 \times 10^9 Nm^2 / C^2$)
+
+#### 1.4.2 Superposition of Forces
+For three or more point charges.
+
+
+In the gravitational field, we find that the gravitational field is defined by
+$$
+\frac{F}{m} = G \frac{M}{r^2}
+$$
+where $M$ is the mass of the gravitational source.
+
