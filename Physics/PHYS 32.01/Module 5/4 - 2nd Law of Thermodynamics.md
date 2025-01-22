@@ -1,5 +1,5 @@
 ### Directions of Thermodynamic Processes
-Thermodynamic processes that occur in nature are irreversible processes (e.g. flow of heat from a hot body to a cooler boy, free expansion of gas).
+Thermodynamic processes that occur in nature are irreversible processes (e.g. flow of heat from a hot body to a cooler body, free expansion of gas).
 
 The second law of thermodynamics determines the preferred direction of such processes.
 

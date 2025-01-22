@@ -101,7 +101,17 @@ $$
 $$
 \gamma = \frac{C_p}{C_v} = \frac{C_v+R}{C_v} = 1 + \frac{R}{C_v}
 $$
-##### Work done by an ideal gas, adiabatic:
+##### Change in Internal Energy for Ideal Gases:
+$$
+dU = nC_vdT
+$$
+##### Adiabatic Process in Ideal Gas:
+$$
+T_1V_1^{\gamma-1} = T_2V_2^{\gamma-1}
+$$
+$$
+p_1V_1^\gamma = p_2V_2^\gamma
+$$
 $$
 W = nC_v(T_1-T_2) = \frac{C_v}{R}(p_1V_1 - p_2V_2) = \frac{1}{\gamma - 1}(p_1V_1 - p_2V_2)
 $$
@@ -133,3 +143,16 @@ Efficiency:
 $$
 e_\text{carnot} = 1-\frac{T_c}{T_h} = \frac{{T_h-T_c}}{T_h}
 $$
+##### Entropy:
+Total Entropy Change:
+$$
+\Delta S = S_2 - S_1 = \frac{Q}{T}
+$$
+$$
+\Delta s = \int_1^2 \frac{dQ}{T}
+$$
+In a cyclic process:
+$$
+\int \frac{dQ}{T} = 0
+$$
+(Refer to the Carnot cycle example)
