@@ -1,0 +1,93 @@
+- Religion is too multifaceted and diverse to simply define
+- Caputo's meaning of religion is the "love of God"
+- **Main question: "What do I love when Iove God?" (St. Augustine's the *Confessions*)**
+- Anyone worth their salt loves God; if you do not love God, then what good are you?
+	- Metaphorically salt means "value" (from the idea of Roman salary paid in salt)
+	- The latter only cares about self-love and self-gratification
+	- Money lovers
+- Religion is for lovers
+- There exists "religion without religion" (post-secular)
+- **Thesis: Religion may be found with or without religion**
+- Everything created is measured against the love of God, even religion itself
+- True love is:
+	- Unconditional
+	- Marked with excess
+	- Full comittment, its opposite is mediocre and moderate (no salt)
+- Lovers put themselves in the wrong and take the blame for preserving their love
+- God is love
+	- It implies an endless substitutability and translatability between "love" and "God"
+	- "of God" is the best name for those who love
+	- To love God is to love unconditionally (i.e. true love)
+### The Impossible
+- A connection exists between God and the impossible
+	- Nothing will be impossible with God
+- Two types of futures:
+	- Future present - what can be predicted with the current momentum
+		- Needs a good mind, a decent computer, horse sense
+		- Prudence, justice, fortitude, temperance
+	- Absolute future - unforeseeable, unpredictable, uncertain
+		- Needs hope, faith, love
+- The absolute future is where one sets foot on the shore of the religious
+	- Note: NOT supernatural necessarily
+- Caputo wants to speak about the "being-religious" present in all people
+	- The basic structure of human experience
+- The religious sense of life is not universal - not everyone has the same answer
+- In the absolute future, we step into the domain of "God knows what"
+- Terra incognita (unknown territory)
+- The impossible can happen
+	- "the impossible" - Jacques Derrida
+	- Derrida also says God as "becoming possible of the impossible"
+- Essentially, when Terence wants us to go only for what is possible, he is wanting for us to abandon religion
+- Without God, we no longer have hope for the impossible and are absorbed by the cold rationality
+- Taking chance at the impossible is risky, no absolute guarantees (that's why hope is needed!)
+- The impossible makes "experience" a true experience
+	- It gives life its salt
+	- All experience has a religious character, regardless if you go to church or not
+	- This is what Caputo means by "religion without religion"
+- In the future-present:
+	- We are self-possessed
+	- Connected to the four cardinal virtues of prudence, justice, fortitude, and temperance
+	- The phronimoi (the *men*)
+- In the absolute future:
+	- The theological virtues, of hope, faith, love
+	- In the domain of God's Kingdom
+	- You hope when all seems hopeless - "hope against hope" (St. Paul in Rom. 4:18)
+	- Example: to love someone who is not lovable (an impossibility)
+	- This shows passion and a life worth more living than Aristotle's phronimoi
+- Religion is for the unhinged (for the lovers)
+- In the impossible, we are exposed, we are moved, and we are transformed
+- Our only recourse is to hang on
+- The religious sense of life involves exposing oneself to uncertainty and open-endedness
+	- Meaning-giving, salt-giving, risk-taking
+	- To long for a reality beyond reality
+	- A way to ride the waves of time
+- Our hearts are restless ("inquietum est cor nostrum)
+- Religion is a covenant with the impossible
+- Religious narratives are filled with transformation, metanoia
+	- To forgive is to give someone a new lease of life, a new future (Jesus)
+- Religion is not about being carried off to fantastic realms, instead it is about faith, hope, and love to keep on in the real beyond the real (beyond the constrictions of the present)
+- Transformation through the impossible is connected to re-creation
+	- God is working on the clock, and did not just stop after 6 days of creation
+	- We want to be born, created again
+	- "Amen" = "yes yes" to what is coming, to becoming possible of the impossible
+- Religion has a prophetic dimension
+	- Messianic hope rather than literally predicting the future
+- Even Karl Marx was praying for a utopic future similar to the Kingdom of God
+- He was hoping and praying, he was in a sense religious
+	- This shows that there is an unstable distinction between theism and atheism
+### The Secret
+- We are all unhinged
+- We want to know who we are, this is the passion of our lives, but we simply do not know
+	- "Quaestio mihi factus sum" - we do not know who we are - that is who we are
+	- This is another encounter of the impossible
+- We do not Know The Secret
+	- This does not mean that we live a life of ignorance, but rather that it is impossible to be fully certain
+	- "Docta ignorantia" - wise ignorance
+- Life does not take a break, and so we act even if we are not sure
+- We are not wired to a Transcendental Super-Force that will tel us The Secret
+- There is no "Super-Revelation" that answers all of the questions
+- We cannot assume that we have "Privileged Access" to The Way Things Are such that it separates us from those who "do not know The Way"
+- Since we do not know who we are, we are forced to traffic in interpretations
+	- That does not mean that there is no truth
+	- There is no way to reach infinity but you can get closer to it (better interpretations of the unreachable truth)
+- 
