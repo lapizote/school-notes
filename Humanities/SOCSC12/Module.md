@@ -1,0 +1,92 @@
+### Prometheus and the Industrial Revolution
+- The gift of fire and metalworks.
+- The second agricultural revolution in Britain.
+	- Increased agricultural surplus through agricultural technologies.
+		- wired fences, threshing machine, seed drill, moldboard plow, and selective breeding.
+- The Industrial Revolution created new ways of production, developed industrialized cities, and encouraged migration.
+	- Cotton Gin
+	- Power Loom
+	- Steam Engine
+	- Lightbulb
+		- Changed architecture, no more need to rely on windows for light
+		- Increased working hours, enabled nightlife
+- Also the increase of private property rights.
+- Technology = evolution
+- Capitalism, accumulation, division of labour, and surplus.
+	- Division of labour was due to long working hours on specialized roles, caused the domestication of women.
+- Humanity was able to utilize nature for its agenda, and the separation of humans from the natural environment became a possibility. The humans became workers alienated from themselves.
+	- Humans tend to escape mortality, which is to be separated from the natural environment.
+	- Hierarchy
+	- Selling one's labor and time.
+		- As the working class did not own the means of production.
+		- The capitalists increased revenue while reducing wages to maximize profit.
+- The industrial revolution did not just change human society but also non-human beings.
+	- e.g. Black Peppered Moths became more vulnerable over time due to factories making the barks black, causing mutations as they try to evolve.
+- In the metaphor: when Prometheus gave man fire, there was development. But at what cost?
+
+### Colonialism
+- Colonial legacies such as religion, language, education, political and economic systems contributes to the established of a universal order.
+	- Universal order: simplification of human society
+- Forced the natives to assimilate into the colonial state and leave their animistic/pre-colonial beliefs
+- Land dispossession and the loss of identity.
+	- Living within two spheres of power (Aguilar Jr., 1998)
+	- Identity is connected to the land.
+- Intensified human vs. nature
+- The introduction of capitalism, market, and globalization.
+- Old money can be traced back to the Spanish colonial times (e.g. the Ayalas).
+- The native will always aspire to take the shoes of the colonizer.
+	- A symptom of colonialism.
+### From Fire to Computation
+- The Earth remains to be conquered and appropriated.
+	- A New Epoch: from fire to the computational age.
+- Technological evolution as part of human evolution
+	- Fire
+	- Wheel
+	- Gutenberg's Press
+	- Atomic bomb
+- Technological evolution constitute the passage to another Earth.
+- Technology is such an extension of ourselves that we are functionally cyborgs.
+### Brutalism
+- Brutalist architecture is an example of how capitalism appropriates meaning
+	- Capitalism tends to dazzle us with grandeur
+- How is it enabled? How is the concrete acquired?
+	- Recent news: Antipolo flooded due to the quarries used to extract materials for concrete.
+	- Even one hectare of quarry affects water flow
+- Contemporary capitalism crushes and dominates all spheres of existence.
+	- Techno-molecular colonialism
+- Artificial human and human machines
+	- Humans depending on language model to create sentences. AI language model depending on humans to be more human-like
+- Different forms of dehumanization, extraction, and exploitation.
+	- Labor
+	- Environment
+	- Surveillance
+		- Borne out of mistrust, belief that someone will do bad
+		- Who defines "bad"? What is "masama"?
+- The Earth as a market creation
+	- Power of dazzlement
+	- Power of institution
+	- Power of catastrophe
+		- Capitalism thrives in catastrophe, as it needs it to justify itself
+		- It convinces you that you need *it* now
+- The Future of Reason and Freedom
+	- We are no longer reasonable, our perspective is limited.
+- Inhospitable environment
+##### Capitalism
+- Capitalism tends to separate people in a hierarchy:
+	- Social and economic hierarchy
+	- Class consciousness tends to depend on the circumstances.
+		- e.g. People in privilege tend to have a class consciousness that tends to be vindicative of their own positions and do not understand those lower class.
+	- It fosters disconnect with people.
+	- Why don't we question: "why does socioeconomic class exist in the first place?"
+- As development occurs, it deprives.
+	- To concrete: you deny the soil its purpose! (haha Metal Gear)
+### The Universal Right to Breath
+- Earth as the last utopia and the dead end.
+- Earth as a general reservoir of life.
+- The Earth as a composition, an ongoing negotiation.
+	- How do we achieve a utopia without considering fellow life not in our tribe?
+- Making room for all inhabitants of Earth.
+- Restoring a synergistic relationship between humans, non-humans, and the environment.
+- Planet centered-thinking
+- When global warming overtakes us, where else is there to do?
+- If capitalism dominates all spheres of human existence, how do we separate ourselves from it?

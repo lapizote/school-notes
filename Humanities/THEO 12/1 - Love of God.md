@@ -90,4 +90,26 @@
 - Since we do not know who we are, we are forced to traffic in interpretations
 	- That does not mean that there is no truth
 	- There is no way to reach infinity but you can get closer to it (better interpretations of the unreachable truth)
-- 
+- We have to cope with the conflict
+- Shift into doing the truth
+- This confessions checks the spread of people who confuse themselves with the Being
+- He is not denying the Holy Scriptures, rather he is saying that believers in the Book should temper their claims of something that not everyone agrees on.
+
+### What do I love when I love my God?
+- The name of God is the name of what we love and desire.
+- Someone overflowing with love seeks to know where to direct his love.
+	- To ask the question means to already love.
+- Even when non-believers search for other things, they are actually in search of God
+- When we love God, we don't know whether love is an exemplification of God or vice versa, we really don't know!
+- Question of God and Question of Self go hand in hand
+- I do not question the self, but I treat the self as a question
+	- The answer is to keep questioning
+- I am being turned and tossed about (perturbatio) by the impossible
+- In the question of what "The Answer" is, the only thing we can do is to answer
+- The whole idea is to respond, to do the truth, to make truth happen
+	- To do the impossible!
+- Augustine was converted when his self-love was displaced by the love for God
+- "God" was not a grand theoretical or explanatory hypothesis, but something concrete that had transformed his (Augustine's) life
+- He tried to understand what he already loved
+	- Love that drives our search to know
+- The religious sense kicks in when one is loyal to the service of something other than the self
