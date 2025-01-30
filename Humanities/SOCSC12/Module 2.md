@@ -90,3 +90,4 @@
 - Planet centered-thinking
 - When global warming overtakes us, where else is there to do?
 - If capitalism dominates all spheres of human existence, how do we separate ourselves from it?
+- 
