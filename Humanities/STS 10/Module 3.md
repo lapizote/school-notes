@@ -116,7 +116,7 @@
 - Wider stratification
 - Global decolonization
 - Universal suffrage
-##### Power Rleations
+##### Power Relations
 - Power more diffused, decentralized
 - Weapons more devastating
 - Global cooperation vis-a-vis superpower hegemony
