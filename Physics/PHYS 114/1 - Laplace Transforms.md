@@ -45,7 +45,7 @@ $$
 Let $F(s)$ be the transform of function $f(t)$. Then, for $s>0$, $s>k$, and $t>0$:
 $$
 \begin{align}
-\mathcal{L}\left( \int_0^t f(\tau) \,d\tau \right) = \frac{1}{s}F(s) && thus && \int_{0}^tf(\tau) = \mathcal{L}^{-1}\left( \frac{1}{s} F(s) \right)
+\mathcal{L}\left( \int_0^t f(\tau) \,d\tau \right) = \frac{1}{s}F(s) && thus && \int_{0}^t f(\tau) = \mathcal{L}^{-1}\left( \frac{1}{s} F(s) \right)
 \end{align}
 $$
 ### Laplace Transform Method (DEs, IVPs)
@@ -84,3 +84,22 @@ We invert $Y$ to obtain $y = \mathcal{L}^{-1}(Y)$. Usually, by using partial fra
 
 ### Laplace Table
 [[Laplace Table.pdf|See here for Table(s) 6.8 and 6.9]]
+
+### Unit Step & T-Shifting
+##### Theorem 1: Time Shifting
+If $f(t)$ has the transform $F(s)$, then the shifted function
+$$
+\tilde{f}(t) = f(t-a)u(t-a) =
+\begin{cases}
+	0 & \text{if } t<a \\
+	f(t-a) & \text{if } t>a
+\end{cases}
+$$
+has the transform $e^{-as}F(s)$, such that if $\mathcal{L}(f(t)) = F(s)$, then
+$$
+\mathcal{L}(f(t-a)u(t-a)) = e^{-as}F(s)
+$$
+or
+$$
+f(t-a)u(t-a) = \mathcal{L}^{-1}(e^{-as}F(s))
+$$

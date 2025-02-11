@@ -1,0 +1,17 @@
+- Foreword
+	- (...) if nothing is done, we will inevitably reach thresholds, lethal thresholds, (...) The Earth's body itself, and its vital organs, wil lfail in an interconnected chain.
+	- "The world will be mostly dominated by computational reason. (...) It will provide this world with a semblance of unity, but will also drag it into a process of splintering and endless fragmentation." p.10
+	- https://www.technologyreview.com/2020/12/04/1013038/the-fragmentation-of-everything/
+	- "Everything will therefore revolve around technology." p. 10
+	- Mutant power p. 11
+		- "A large part of everyday life unfolds thanks to the ready availability of sites"
+	- "Yet, while the human lends part of its own individuality as a living being to the object, the latter nonetheless acquires an autonomous existence." p. 13
+	- The human is "among the machines that operate with them" and, according to an animistic metaphysics, in them. p. 13
+		- Machines having an android character
+- The Universal Right to Breath
+	- Indeed, when brought to its maximum point of incandescence, the technical object, a human creation, can be turned into an instrument of humanity's suicide. p.20
+	- The earth is the ultimate, or last, utopia. p. 21
+	- "For many earthly communities, this injuction is among those that the Earth bears: take care of yourself."
+	- Land grabbing
+- The Second Creation
+- 
