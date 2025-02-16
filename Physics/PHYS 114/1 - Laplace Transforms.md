@@ -103,3 +103,15 @@ or
 $$
 f(t-a)u(t-a) = \mathcal{L}^{-1}(e^{-as}F(s))
 $$
+### Dirac's Delta Function
+To add
+### Convolution & Integral Equations
+Note that the transform of a product is different from the product of their transforms, i.e.
+$$
+\mathcal{L}(fg) \neq \mathcal{L}(f)\mathcal{L}(g)
+$$
+##### Theorem 1: Convolution Theorem
+If two functions $f$ and $g$ satisfy the assumption in the [[#Theorem 3 Existence|Existence Theorem]] so that their functions $F$ and $G$ exist, then the product $H = FG$ is the transform of $h$ given by
+$$
+h(t) = (f\star g)(t) = \int_0^t f(\tau)g(t - \tau) \,d\tau
+$$

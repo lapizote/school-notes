@@ -14,4 +14,4 @@
 	- "For many earthly communities, this injuction is among those that the Earth bears: take care of yourself."
 	- Land grabbing
 - The Second Creation
-- 
+	- "The production, reception, and development of the living requires, each time, the destruction of the same living."
