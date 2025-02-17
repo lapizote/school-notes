@@ -1,0 +1,128 @@
+SEE: Places of Despair or Spaces of Hope: Exercise of Groaning
+Judge: From a beautiful land to climate emergency and planetary crisis
+- Exploitative idea of development
+- Colonialism + capitalism (nathan patrick ong ante) = climate crisis
+- Typhoons in the Philippines:
+	- Ondoy
+	- Bicol
+- Poor weather broadcasting, lack of urban planning, government incompetence
+- Headlines:
+	- Terrible learning poverty
+	- Lack of access to clean water
+	- Unemployment
+	- Flood control projects not working
+	- High electricity costs
+	- Inequality
+	- "Where does the urban poor stand in 'just' energy transition?"
+	- 6 Typhoons a month
+	- Bishops call for hope, action to address nation's "wounds"
+- May pag-asa pa ba? May pag-asa nga ba?
+- On a global scale (The P's):
+	- VUCA - Volatile, Uncertain, Complex, and Ambigous
+	- 2014 Postglobal Economy that marginalizes
+	- 2014 Postnational migration
+	- 2014 Posthuman climate/ecological crisis
+	- 2016 Post-truth that endangers democratic processes
+	- 2020 Pandemic of COVID-19
+- Focus: Posthuman
+
+- Religious Traditions Local Catholic Social Thoughts - Letters (CBCP)
+	- 1988 What is happening to our Beautiful Land?
+	- 1998 Statement of Concern on the Mining Act of 1995
+		- Call for repeal
+		- Displaces people and devastates environment
+	- 2000 Water is Life
+		- vs. logging
+	- 2003 Celebrating Creation Day and Creation Time (1 Sept-4 Oct)
+	- 2008 Upholding the Sanctity of Life
+	- 2014 All Creation... Bless the Lord! (Daniel 3:57)
+	- 2015 Stewards, Not Owners
+		- Laudato Si
+		- From stewardship to Christian charity to climate justice
+	- 2019 An Urgent Call for Ecological Conversion, Hope in the Face of Climate Emergency
+		- Ecological sin - clal for reparation and resittution with basis
+		- Laudato si, P. Bartholomew (Latin American priests)
+		- Sin against the future generation
+	- 2022 A Call for Unity and Action amid a Climate Emergency and Planetary Crisis
+		- Accepts the responsibility of the Church in the context of ecological devastation
+		- Offered to divest themselves of investments that harm the environment
+- Ecological Education: Limits and Opportunities
+	- Pastoral Cycle
+	- 1. Methodological support for an integral way of theologizing the encompasses Scriptures, cultural traditions, law
+- Conceptual Framework: How do we groan? Why do we groan: Season of Life, Seasons of Faith
+	- Orientation: Guaranteed Creation
+	- Disorientation: A surprise!
+	- New Orientation: Surprising new life
+	- In Hebrew/Jewish suffering:
+		- In Egypt
+		- In Exile
+		- Jesus' Passion
+	- In Hebrew/Jewish hope:
+		- In Exodus
+		- In Their return to promised land and the messiah
+		- Jesus' Ressurection
+- Understanding Ecological Disorientation: Biblical Ecological Hermenutics
+	- Different methods of interpreting the Scriptures in our climate emergency context
+	- EBP and External Critique, Systematics and Revisionist Readings
+	- EBP and Ecological Triangle and Modifications
+- EBP -> Earth Bible Project (Australia)
+	- Intrinsic Worth
+	- Interconnectedness
+	- Voice of the Earth as a subject
+	- Purpose within the greater cosmic design
+	- Mutual custodianship
+	- Resistance vs injustice
+	- Climate change changes scriptures!
+- Ecological Triangle (Marlow, 2009)
+	- What understanding of the non-human creation (whether cosmic or local) does the text represent?
+	- What assumptions are made about the LORD's relationship to the created world and how he acts within it?
+	- What effect/s do the actions and choices  of human beings have on the non-human creation and vice versa?
+	- What is the unique relationship between these three?
+- Earth Charter Pillars/Principles (for non-Christians/post-Christians)
+	- 1. Respect and care for the community of life
+	- 2. Ecological integrity
+	- 3. Socio-economic justice
+	- 4. Democracy, non-violence, and peace
+- Can we use the sustainable development goals to read the scriptures?
+- Sustainability Hermeneutics:
+	- 3Es as a minimum criteria
+	- Economics, Equity, Environment
+	- How about Ethereality for theological?
+		- Ethereal -> something related to the unworldly and spiritual
+- Normativity of the Future - Bieringer and Elsbernd 2010
+	- Vision of the future discernible from the text
+	- Inclusive and exclusive dimensions of the passage
+	- Consequent ethical challenges
+	- The presence of the Spirit
+	- Metaquestions on the interpreter and interpretive process: who serves/benefits from our interpretation of the biblical and other authoritative texts (religious/legal?)
+
+ACT: The Groaning of Creation Community
+- From the Letter to the Romans by St. Paul
+- Disorientation of the Creation Community
+	- We know that the whole creation has been groaning in labor pains until now
+- We ourselves, who have the first fruits of the spirit, groan inwardly while we wait for adoption
+- Groan -> more than humans, humans, spirit
+	- The principles of the EBP manifests here
+- Groaning between the three
+
+How do we concretize goals?
+- Goals of the Laudato Si
+	- Respond to the cry of the earth
+	- Respond to the cry of the poor
+	- Ecological Economics
+	- doption of Simple Lifestyles
+	- Ecological
+- (iNSERT SUSTAINABLE DEVELOPMENT GOALS)
+- We are failing the sustainable development goals
+- (insert ateneo dick riding)
+- SHELL CORPORATION WOOOO
+- February 11 2022 Letter of Pope Francis to Msgr. Rino Fisich
+- Pilgrims of Hope
+	- "Like a flame my hope is burning, may my song arise to you: Source of life that has no ending, on life's path i trust in you"
+- "May Pag-asa pa ba?" A pastoral letter of the CBCP Calling on the Faithful to a Pilgrimage of Hope in the Jubilee Year of 2025
+	- Guys we see sparks of hope daw oh yipee!
+	- RESILENCY MGA BOSS!
+- To have grieved is to have loved fully this is definitely not a quote from God of War Ragnarok
+- We are all co-learners
+- If you don't speak, you are depriving your companions of learning from you
+AMERICAAAAA GRAAAAAAAAGGGGGGGGHHHHHHHHHHHHHHH!!!!!!!!
