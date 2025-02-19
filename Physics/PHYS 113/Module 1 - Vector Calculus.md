@@ -112,6 +112,24 @@ $\vec{\nabla}f \cdot d\vec{r} = df$, so
 $$
 \int_C \vec{\nabla}f \cdot d\vec{r} = \int_C df = f(\vec{r_2}) - f(\vec{r_1})
 $$
+#### Stokes' Theorem and Curl
+The curl of a vector is
+$$
+\vec{\nabla} \times \vec{v}
+= \begin{vmatrix}
+\hat{i} & \hat{j} & \hat{k} \\
+\frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \\
+v_x & v_y & v_z
+\end{vmatrix}
+$$
+Physically, it can be interpreted as the axis at which a vector field rotates/curls around.
+
+Through Stokes' theorem, we can use the curl to find closed line integrals.
+$$
+\oint_C \vec{v}\cdot d\vec{l} = \int_S(\vec{\nabla}\times \vec{v})\cdot d\vec{A}
+$$
+This applies regardless if planar or non-planar surfaces are considered.
+
 ### Surface Integrals/Flux
 Given a vector field and a level surface:
 $$
@@ -131,20 +149,3 @@ where $\tau$ is $dxdydz$.
 
 Intuitively, flux can be described in the analogy of fluid moving in or out a surface, where if it is multiplied by the density, it is the rate at which water exits the volume. A positive flux means it is losing fluid, negative means gaining fluid, and 0 means a steady flow.
 
-### Stokes' Theorem and Curl
-The curl of a vector is
-$$
-\vec{\nabla} \times \vec{v}
-= \begin{vmatrix}
-\hat{i} & \hat{j} & \hat{k} \\
-\frac{\partial}{\partial x} & \frac{\partial}{\partial y} & \frac{\partial}{\partial z} \\
-v_x & v_y & v_z
-\end{vmatrix}
-$$
-Physically, it can be interpreted as the axis at which a vector field rotates/curls around.
-
-Through Stokes' theorem, we can use the curl to find closed line integrals.
-$$
-\oint_C \vec{v}\cdot d\vec{l} = \int_S(\vec{\nabla}\times \vec{v})\cdot d\vec{A}
-$$
-This applies regardless if planar or non-planar surfaces are considered.
