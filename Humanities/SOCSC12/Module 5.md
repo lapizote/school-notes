@@ -13,7 +13,7 @@
 - "Imposition of a new reality through religion, education, and the assimilation process, situating the native into two spheres of power (Aguilar Jr., 1998) and the Labyrinth of Solitude (Paz, 1950)."
 - The only way for the colonized to survive is to assimilate
 	- Syncretization, folk catholicism
-- In Philippine history, just like in Latin America, the Spanish government imposed a hierarchical system where the Peninsulares (Spain born Spaniards) are on the top while the Indio and Negrito are on the bottom.
+- In Philippine history, just like in Latin America, the Spanish government imposed a hierarchical system where the Peninsulares (Spain born z) are on the top while the Indio and Negrito are on the bottom.
 - The hierarchy influenced both politics and social life.
 - Racist distribution of work
 	- Polo y servicio recruited Filipino men
@@ -55,3 +55,12 @@
 - When you imagine a new utopia by creating a new aesthetic, you break out of the system and you achieve the "impossible".
 - When you imagine a utopia, you say that the world can be better. We imagine an alternative.
 - We need to question structures in our society, because otherwise, how do you think of something novel?
+
+### Audrey Lorde
+- The master gives you the tools to serve them
+- Can the master's tools dismantle the master's house?
+- Can I use the knowledge from the system to fight the system? Or think outside of the system to create tools that the master does not know.
+- Lorde: The master's tools will never dismantle the master's house!
+- Utopia -> how can we rethink society so that we can manifest this existence?
+
+Frustrations: Competition in this world, we prioritize ourselves

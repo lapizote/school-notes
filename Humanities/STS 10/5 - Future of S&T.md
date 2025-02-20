@@ -61,3 +61,15 @@ NOTE: Patents can also cover ideas, designs, and plans that have never been prod
 - 1710 -> Statute of Anne - modern concept of copyright based on this document
 - 1886 -> Berne Convention - international recognition of copyright
 - 1994 -> Trade-related aspects of Intellectual Property Rights (TRIPS) - International IP agreement
+### Not just an ethical issue!
+- IPRs as economic and trade instruments
+### Technology changes... Society changes...
+How can we still protect IPR without compromising equitable access to technology and products (e.g. drugs and vaccines?)
+
+How should governance and policy structures change along with them?
+
+How can we still protect IPR without choking creativity and innovation?
+### We are now in the...
+- '...third technological wave'
+- '...second machine age'
+- '...fourth industrial revolution'
