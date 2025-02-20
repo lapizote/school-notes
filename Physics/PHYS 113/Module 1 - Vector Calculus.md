@@ -102,7 +102,6 @@ $$
 \int_C \vec{v}\cdot d\vec{r}
 $$
 where $d\vec{r}$ is the infinitesimal displacement, i.e. $dx \hat{i} + dy \hat{j} + dz \hat{k}$.
-
 #### Strategies to Solve Line Integrals:
 ##### Manual
 Express everything as a single variable. Use polar coordinates or parametric equations if necessary.
@@ -129,7 +128,6 @@ $$
 \oint_C \vec{v}\cdot d\vec{l} = \int_S(\vec{\nabla}\times \vec{v})\cdot d\vec{A}
 $$
 This applies regardless if planar or non-planar surfaces are considered.
-
 ### Surface Integrals/Flux
 Given a vector field and a level surface:
 $$
