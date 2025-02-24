@@ -104,7 +104,14 @@ $$
 f(t-a)u(t-a) = \mathcal{L}^{-1}(e^{-as}F(s))
 $$
 ### Dirac's Delta Function
-To add
+##### Sifting Property
+$$
+\int_0^\infty g(t)\delta(t-a) \,dt = g(a)
+$$
+##### Laplace Transform of Delta Function
+$$
+\mathcal{L}(\delta(t-a)) = e^{-as}
+$$
 ### Convolution & Integral Equations
 Note that the transform of a product is different from the product of their transforms, i.e.
 $$
@@ -114,4 +121,19 @@ $$
 If two functions $f$ and $g$ satisfy the assumption in the [[#Theorem 3 Existence|Existence Theorem]] so that their functions $F$ and $G$ exist, then the product $H = FG$ is the transform of $h$ given by
 $$
 h(t) = (f\star g)(t) = \int_0^t f(\tau)g(t - \tau) \,d\tau
+$$
+### Differentiation and Integration
+##### Differentiation
+Given $\mathcal{L}(f) = F(s)$:
+$$
+\begin{align}
+\mathcal{L}(tf(t)) = -F'(s) && \text{hence} && \mathcal{L}^{-1}(F'(s)) = -tf(t)
+\end{align}
+$$
+##### Integration
+Given $\mathcal{L}(f) = F(s)$:
+$$
+\begin{align}
+\mathcal{L}\left( \frac{f(t)}{t} \right) = \int_s^\infty F(\tilde{s}) d\tilde{s} && \text{hence} && \mathcal{L}^{-1}\left(\int_s^\infty F(\tilde{s}) d\tilde{s}\right) = \frac{f(t)}{t}
+\end{align}
 $$
