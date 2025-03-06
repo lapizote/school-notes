@@ -24,3 +24,29 @@ At any junction, the algebraic sum of the currents into a junction is zero, i.e.
 ##### Loop/Voltage Rule:
 At any loop, the algebraic sum of the potential differences is zero, i.e. $\displaystyle \sum V = 0$
 ![[Loop Rule.png]]
+### R-C Circuits
+When a capacitor is charged by a battery in series w/ a resistor, the current and capacitor charge are not constant, i.e. the charge and current approaches zero asymptotically:
+![[R-C Circuit.png]]
+##### Capacitor Charging:
+For the charge inside the capacitor:
+$$
+\begin{align}
+q &= C\varepsilon(1-e^{-t/RC}) \\
+&= Q_f(1-e^{-t/RC})
+\end{align}
+$$
+For the current flowing throughout the circuit:
+$$
+i = \frac{dq}{dt} = \frac{\varepsilon}{R}e^{-t/RC} = I_0e^{-t/RC}
+$$
+##### Capacitor Discharging:
+For the charge inside the capacitor:
+$$
+\begin{align}
+q &= Q_0e^{-t/RC} \\
+\end{align}
+$$
+For the current flowing throughout the circuit:
+$$
+i = \frac{dq}{dt} = -\frac{Q_0}{RC}e^{-t/RC} = I_0e^{-t/RC}
+$$
