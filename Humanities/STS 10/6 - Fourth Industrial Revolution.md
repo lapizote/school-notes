@@ -1,4 +1,4 @@
-In the fourth industrial revolution, digital analytics enables a new level of operational productivity.
+are In the fourth industrial revolution, digital analytics enables a new level of operational productivity.
 
 ### Cyber Physical System
 - Maturation of new cyber physical technologies (AI, 3-D printing, robotics)
