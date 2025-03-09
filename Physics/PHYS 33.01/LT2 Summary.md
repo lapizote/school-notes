@@ -1,7 +1,9 @@
 ### Circuit Equations
 Current: $\displaystyle I = \frac{dQ}{dt} = n|q|v_dA$
-Current Density: $\displaystyle \vec{J} = nq\vec{v}_d$
-Resistivity: $\displaystyle \rho=\frac{E}{J}$ 
+($n$ = number of charges; $q$ = charge per particle; $v_d$ = drift velocity; $A$ = area of conductor)
+Current Density: $\displaystyle \vec{J} = nq\vec{v}_d = \frac{I}{A}$
+Resistivity: $\displaystyle \rho=\frac{E}{J}$
+($J$ = current density; $E$ = electric field)
 Resistivity :$\displaystyle \rho(T) = \rho_0[1+\alpha(T-T_0)]$ (for small temperature changes)
 Resistance: $\displaystyle R = \frac{\rho L}{A}$
 Ohm's Law: $V = IR$

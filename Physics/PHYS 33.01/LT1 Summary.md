@@ -23,4 +23,5 @@ Resistance: $\displaystyle R_\text{net} = \left( \frac{1}{R_1} + \frac{1}{R_2} +
 Capacitance Equation: $\displaystyle C = \frac{Q}{V}= \frac{\epsilon_0 A}{d}$ (unit, Farad)
 Energy Stored: $\displaystyle \frac{1}{2}QV = \frac{1}{2}CV^2$
 Series: $\displaystyle \frac{1}{C_{total}} = \frac{1}{C_1} + \frac{1}{C_2}+\frac{1}{C_3} + \dots$
+(Note, all magnitudes of charge on all plates in series should be the same.)
 Parallel: $C_\text{total} = C_1 + C_2 + C_3 + \dots$
