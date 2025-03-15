@@ -1,5 +1,7 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "tables_custom"
+  ]
 }
