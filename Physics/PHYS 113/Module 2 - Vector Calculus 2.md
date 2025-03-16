@@ -18,7 +18,7 @@ $$
 Note that $\phi$ always starts from $+x$, CCW; $\theta$ always starts from $+z$, going down to $\rho$.
 ### Unit Vectors
 For cylindrical coordinates:
-![[Pasted image 20250315162308.png|400]]
+![[x y plane.png|400]]
 $$
 \begin{align}
 \begin{bmatrix}
@@ -49,7 +49,7 @@ $$
 \end{align}
 $$
 
-![[Pasted image 20250315162112.png|400]]
+![[z rho plane.png|400]]
 $$
 \begin{align}
 \begin{bmatrix}
