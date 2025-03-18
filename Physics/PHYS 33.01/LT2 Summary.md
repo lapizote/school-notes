@@ -1,3 +1,4 @@
+## Circuits
 ### Circuit Equations
 Current: $\displaystyle I = \frac{dQ}{dt} = n|q|v_dA$
 ($n$ = number of charges; $q$ = charge per particle; $v_d$ = drift velocity; $A$ = area of conductor)
@@ -52,3 +53,40 @@ For the current flowing throughout the circuit:
 $$
 i = \frac{dq}{dt} = -\frac{Q_0}{RC}e^{-t/RC} = I_0e^{-t/RC}
 $$
+## Magnetism
+### Magnetic Force
+Charge needs to move in a magnetic field to experience a force. For direction, refer to Fleming's hand rules (left is for force generation, right is for induction)
+![[Flemings Hand Rules.png|600]]
+Alternatively, right hand rule
+![[Right hand rule.png]]
+
+Can be found through either
+$$
+\begin{align}
+F = |q|vB \sin \theta && \vec{F} = q\vec{v} \times \vec{B}
+\end{align}
+$$
+where $B$ is the magnetic field, measured in Tesla (T) with SI units NS/Cm.
+
+Because the force is perpendicular to the direction of the field, it can be said that no work is being done. A charge can have a circular path:
+![[Magnet circular path.png|400]]
+where
+$$
+\begin{align}
+F_C &= m \frac{v^2}{R} = F_M \\
+qvB &= m \frac{v^2}{R} \\
+R &= \frac{mv}{qB}
+\end{align}
+$$
+which results in a helical path.
+### Magnetic Flux
+Given a field $B$ going through a surface:
+![[Magnetic Flux.png|400]]
+$$
+\Phi_B= B\perp A = BA\cos \phi
+$$
+where $\displaystyle B = \frac{\Phi B}{A}$ if $B$ is perpendicular to the surface area. For an irregular area, this can be expressed as
+$$
+\Phi_B = \int_{S}\vec{B} \cdot d\vec{A}
+$$
+With Gauss' law, for a closed surface, this value is 0.
