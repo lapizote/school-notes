@@ -1,0 +1,19 @@
+### The Swirl: Recap
+- Capitalism is not stable. it creates hazardous environments:
+	- Epistemic environment - "the ideas and logics that shape contexts of scientific knowledge production." 
+	- Unbreathable world - "...the structural conditions produced by material-cultural densities that have come together, accumulating and building on past exposures and conditions, to create a particular event in a world."
+	- Unlivable enviroment
+		- Development for whom?
+	- Synthetic envrionment - the word "safe" does not mean that the chemical do no damage.
+- The Swirl, non-consensus, and no neutral ground to stand on: Schismogenesis
+- Polychlorinated biphenyls (PCBs) reduces IQ and changes behavior:
+	- Taiwan has recorded cases of PCB exposure that affected child development from the womb to adulthood.
+- California has The Proposition 65 - lists chemicals that causes cancer and birth defects.
+- Methylation is the process that activates or represses gene expression.
+- The hypothalamic-pituitary-adrenal axis (HPA) is crucial for stress management.
+- Prenatal stress exposure impacts development via epigenetic changes in HPA axis genes.
+- Malta issued warning on several products, including Filipino snacks, to not be consumed due to an additive declared but not authorized for use.
+	- Why? Sunset Yellow FCF (E110) food coloring
+	- Research: It can cause ADHD with excess consumption
+- Walter Migolo: The problem is Western modernity's aim to make things efficient.
+- It's like an Ouroboros: a cycle of self-exploitation
