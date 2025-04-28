@@ -132,7 +132,27 @@ $$
 \Phi_B = \int_{S}\vec{B} \cdot d\vec{A}
 $$
 With Gauss' law, for a closed surface, this value is 0.
+### Biot-Savart Law
+Length $d\vec{B}$ due to length element
+$$
+d\vec{B} = k_m \frac{Id\vec{L} \times \vec{r}}{r^3}
+$$
+Which means that for a finite length of wire:
+$$
+\vec{B} = k_m \int \frac{Id\vec{L} \times \vec{r}}{r^3}
+$$
+##### Magnetic Field of a Straight Current
+Magnetic field produced by a straight current-carrying conductor of length 2a:
 
+On the perpendicular bisector:
+$$
+B = k_mI \frac{2a}{x\sqrt{ x^2 + a^2 }}
+$$
+In the limit $a \gg x$
+$$
+B = 2k_m \frac{I}{x}
+$$
+=======
 ### Applications of Motion of Charged Particles
 Velocity Selector and Thomson's Experiment
 $$
@@ -192,3 +212,5 @@ $$
 Because of this, in a current-carrying solenoid:
 Inside the solenoid: $B_\text{total} = \mu_0nI$ (where $n$ is the number of turns)
 Outside the solenoid: $B_\text{total} = 0$
+Outside the solenoid: $B_\text{total} = 0$
+$
