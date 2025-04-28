@@ -40,8 +40,8 @@ $$
 there should exist a $f(x,y)$ such that when
 $$
 \begin{align}
-\frac{\delta f}{\delta x} = M(x,y) \,;
-\frac{\delta f}{\delta y} = N(x,y)
+\frac{\partial f}{\delta x} = M(x,y) \,;
+\frac{\partial f}{\delta y} = N(x,y)
 \end{align}
 $$
 then
