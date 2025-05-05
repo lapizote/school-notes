@@ -132,8 +132,6 @@ $$
 \Phi_B = \int_{S}\vec{B} \cdot d\vec{A}
 $$
 With Gauss' law, for a closed surface, this value is 0.
-
-<<<<<<< HEAD
 ### Biot-Savart Law
 Length $d\vec{B}$ due to length element
 $$
@@ -213,5 +211,6 @@ $$
 $$
 Because of this, in a current-carrying solenoid:
 Inside the solenoid: $B_\text{total} = \mu_0nI$ (where $n$ is the number of turns)
-Outside the solenoid: $B_\text{total} = 0
->>>>>>> origin/main
+Outside the solenoid: $B_\text{total} = 0$
+Outside the solenoid: $B_\text{total} = 0$
+$
