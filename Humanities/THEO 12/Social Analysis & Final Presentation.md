@@ -5,7 +5,7 @@ Goals of Families in Gawang Kamay:
 	- Better work
 	- Opportunities
 	- Formal vs informal
-		- Consistency
+		- Consistenc
 		- Guaranteed food
 - More members for Gawang Kamay, why?
 	- Social enterprise
