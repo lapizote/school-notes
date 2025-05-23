@@ -1,3 +1,4 @@
 Practice problems to do (Young & Freedman 14th Edition):
-24.48
-24.49
+30.43
+30.46
+31.52
