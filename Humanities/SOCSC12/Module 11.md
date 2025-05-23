@@ -3,7 +3,7 @@
 	- Contingency - depending on circumstances, may subject to change.
 		- "To be contingent on is to encounter the unpredictable in relation to the possible; it requires a scooping of what is available in order to make sense o and search for evidence or something that will mutually support our move toward what we want."
 	- Solidarity - unity of action in response to situation, binded by a common interest.
-		- "\[Solidarity] requires a productively contentious disruptions that compel people to come together,make them doubt, and keep them invested in the ideal of cohesion."
+		- "\[Solidarity] requires a productively contentious disruptions that compel people to come together, make them doubt, and keep them invested in the ideal of cohesion."
 ### Women's Rights
 - The Sri Lankan government's intervention in Women's Reproductive Rights.
 	- A messy intersections of non-privileged, informed consent, and the cycles of poverty.
