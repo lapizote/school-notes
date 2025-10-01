@@ -1,0 +1,84 @@
+## Body
+### Chronology
+- Between 25000 and 3000 BCE
+- Stone Age:
+	- Old Stone/Paleolithic Age
+		- At some point, humans became more aesthetically "aware"
+		- Development of visual art, populations began to express themselves
+		- Nomadic
+	- New Stone/Neolithic Age
+		- Permanent
+		- Farming
+### Characteristics
+- Why "pre-historic?" -> before written records (NOTE: Different from existence of language)
+	- Purely visual analysis
+- Location: Mounds, rocks, caves, cliffs
+	- Art is protected from environment, and has been preserved
+	- Humans gravitated to these natural dwellings
+- Example: Lascaux Caves
+	- Having structural variations, visuals dividing into 7 areas
+		- Visuals provide insight into a theme
+	- Rocks have different characteristics -> different methods used
+		- Provides insight into the available technology
+		- Materials available (e.g. red ocher, manganese oxide) in the vicinity
+### Reading and Interpreting Art
+- Application of Color and Line
+	- Darker lines -> direct scribbling
+	- Lighter colors -> spraying of material
+		- Hollow bones were used to spread liquid color material
+- Copying the same form with natural materials and stencils (horses)
+- Hall of Bulls
+	- More detail on the bull's face
+	- Layering and shading
+		- Creates depth
+		- Contrast and form
+		- Light and dark
+		- Suggests 3-dimensional mass and volume over a 2-dimensional surface
+- These aspects are further seen across different cultures in different times
+	- To paint objects life-like
+	- Culminates in modern art, where these rules are deconstructed
+- Chamber of Felines
+	- Cat drawings were placed at the deeper parts at the back
+	- Theory: Ritual place, to invoke success in hunting
+	- Contrary: Taboo to draw and utter the name of tigers, to avoid attracting them
+- Shaft scene
+	- Deepest portion of the cave
+	- Less detailed animals, proportions are more "off"
+		- Rock is harder to draw on?
+	- First human-like figure
+		- Human seems to be in a trance
+		- Bird face -> mask
+		- Shaman
+	- Bird on a stick -> totem pole?
+	- Bison-like creature has raised hair and its guts are coming out
+		- Bison appears to be in a state of shock
+		- Did the bison or human attack first?
+	- Rhino -> swab technique
+		- Rhino is leaving the scene
+	- Must be reserved for a special purpose?
+		- Animal sacrifice?
+		- Red sandstone lamp found in vicinity -> ritual
+## Conclusion
+### Modes of Visual Analysis
+- Form
+	- Purely visual aspects -> line, color, shape, etc.
+	- Formal/visual analysis
+	- Cornerstone of art history
+- Medium and Technique
+	- Inferences into how the artpiece was made
+	- Spraying + swabbing
+	- Brush/Crayon
+		- Note: Contested
+	- Swabbing
+	- Engraving/scraping with fints
+		- Deeper -> incision
+- Despite absence of textual records, visual analysis can be used to produce insights
+### Medium and Technique
+- Surface
+- Colours
+- Materials
+- Tools
+### Importance
+- Presence of multiple perspectives -> we create interpretations independently
+- Across time periods, literacy was not widespread
+- Visual art as an expression allows for wider perspectives of people during that time

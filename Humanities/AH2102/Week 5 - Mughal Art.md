@@ -1,0 +1,69 @@
+### Babur
+- Descends from illustrious warriors of the Mongols
+	- Genghis Khan and Turkish-Mongol
+- They take great pride in their lineage
+### Humayun
+- 2nd emperor in the Mughal line
+- During Soujourning in Persia, met and interested in two Persian artists)
+	- They went from Persia to Kabul to Delhi
+	- *Princes of the House of Timur* painting by Mir Sayyid Ali started on Kabul --- on cloth
+		- Two subjects in the painting (Akbar and Jahangi) were younger than depicted or not born yet (respectively)
+			- Due to these subjects being based on a real person, likely that there has been a repainting ordered by Jahangi---and the insertion of the subject not born during the original creation
+				- Jahangir wanted to insert himself into a long-running proud lineage
+			- Same applies to other subjects in the painting
+			- Inscriptions---signing of artists names much like the self-insertion of Renaissance artists
+		- Emphasis and love of patterns
+- Died early---fell off the stairs
+	- Next emperor: Akbar
+### Emperor Akbar and Mughal Atelier
+- He was too busy with fighting wars and court matters to stabilize the empire 
+- He did not have formal education, may be illiterate
+	- This does not mean he wasnt educated---surrounded by philosophers, scholars, poets, etc.
+- Had a tolerant outlook---idea of a syncretic religion
+	- Invited men from different religions and regions to talk with Akbar
+- In books:
+	- Handbound as a book
+	- Every text has its own corresponding illustration
+	- Multiple artists contributing to book
+##### Akbarnama - Arist: Miskin
+- Interested in animals, dramatic scenes
+- Assigned to hunting scene---drama, energy, animation
+- Akbar's hunt near Lahore; double spread
+	- Character repetition shows continuity
+	- Mughal hunt was not just grassroots survey, also functioned as intelligence gathering in Mughal state
+		- Officials went out in advance to camp in villages
+		- Gathered info about dissent---dissenters are also let towards the same hunting ring as the game
+	- Expansive view of hunting ring is seen, as if the viewer is viewing from a height
+		- However, looking at the tent brings back to ground level
+		- We given a multi-variable view (multiperspective) unlike Renaissance art's one-point perspective
+		- This is not entirely unique to Mughal art---same ideas seen in Chinese and Japanese art
+		- These techniques work for storytelling
+- Akbar taming the elephants
+	- Mixing of colors to suggest volume, mass
+	- Perspective---narrowing paths even if scaling is not systematic
+- To show that Akbar is in control
+	- To pardon or punish dissidents
+	- In hunting---deciding the fate of the animal
+	- To the level of even taming wild animals
+	- Even with dissidents, he still has an army of loyalist and royal subjects
+	- Securing his territorial limits and to stabilize the kingdom
+- Book was not monumental in scale, was not to be shown in the public and mainly to be shown to visitors accompanied with storytelling sessions
+### Emperor Jahangir
+- Inherits a stable empire and deep treasury
+- Grew up in comfort and had everything
+- Became an opium addict
+	- Tensions between Akbar and Jahangir
+- Used portraits to correct his ruined image (after using violent means to gain the throne)
+	- Insecure about his view in the courts, as the court officials were from his father's time
+	- e.g. Jahangir with portrait of Akbar
+		- Father holding out the globe, facing Jahangir
+		- Father handing the reins of the throne to the son (even though Jahangir was not the chosen heir to the throne)
+		- Provides context for Jahangir's obsession with genealogy
+	- Jahangir prefers a Sufi Shaikh to Kings (actual title, inscription on painting)
+		- Pushes a message that Jahangir prefers the company of holy men and religious figures
+		- High amount of realism---detailed face, knowledge of scientific principles is seen
+			- However, the artist also rejects the principles
+			- Sizes of the figures are not consistent with perspective
+			- Carpet pattern is not warped, making it seem like a 2d object
+				- Mughals had a preference for patterns, and would rather break prespective than warp the patterns
+				- Patterns are important in the Islamic World---suggestions of divinity, infinity versus Renaissance's rationality over divinity

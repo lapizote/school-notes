@@ -1,0 +1,50 @@
+Focus will be on Archaic and Classical Periods (former is experimentation, latter is the "zenith" of architecture and sculptural art)
+### Context
+- Two types of sculptures: Mythological and warriors
+- Mythological sculptures could've:
+	- Adorned exterior of temple
+	- Spread across courtyard
+- Warrior sculptures could've been:
+	- Grave markers, commemorating young men and soldiers who died in the war
+- We are only looking at a small sample
+- In 50-70 years from Archaic period, marble sculptures have appeared alongside stone
+	- During the Early Classical period, bronze and marble
+### Comparison in the human sculptures
+- Change in material
+	- Marble is polished---though there is a chance that the marble sculptures are restored so it depends highly on conservation
+- Earlier pieces were similar to Egyptian figures: more stiff
+	- Later pieces were more life-like, had more natural poses
+	- Anatomical detailing increases
+		- Veins swelling
+		- Skin flabs
+	- More sense of movement
+		- Visual 3 in comparison: weight is added onto front foot, relaxed from back foot
+		- In the middle of movement
+		- Turning of the shoulder & hip
+		- Counter-poise -> contrapposto
+		- S-shape on body's pose
+		- Versus older sculptures---sense of equilibrium, poise
+	- Artists must have had living human models in their studio as reference
+		- Needed to see how the human body responds to certain poses
+		- How does gravity affect the human body?
+- All the masculine nudes coming out of the classical period are "perfect"
+	- Perfect proportions
+	- Perfect anatomy
+	- Are they portraits of actual people? Or do they express an ideal body?
+	- Possibility of a mix
+		- E.g. Praxiteles may have gone through trial and error until an ideal proportion was found that satisfied his aesthetic senses -> KANON: book that showed at what he thinks is the ideal ratios (1:8)
+		- Contemporaries had differences: Polykleitos' Kanon had 1:7
+- Note: Real/Realism =/= real/realism
+- Physical beauty/perfection conflated with ideas of moral values, virtues, intellect
+- Note: A lot of classical Greek sculptures are Roman copies, are studied because the originals are lost
+	- The Italians were obsessed with the Greeks
+	- Projection of personality as erudite, learned men, same as the original ideals of the Greeks
+### Comparison of Greek with Egypt
+- Early Greek sculptures resembled Egyptian sculptures
+- One foot striding forward like in Egyptian sculptures
+	- This changes in later sculptures
+- The Greek sculptor is obsessed with life-likeness, versus the Egyptian sculptor
+	- Details like veins and skin flabs are concealed in Egyptian sculptures; smoothened
+	- Egyptians were more interested in bringing humans to divinity
+	- Greeks are bringing divinity into the human level
+- Both are focused on idealization

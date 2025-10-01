@@ -1,0 +1,54 @@
+### Bronze Age
+- Start of writing
+- Seals in Cuneiform - originally for accounting
+- Visual storytelling
+- Code of Hammurabi
+	- Shows advancement of not only material, but also of governance and society-making
+- City-planning: high standards
+	- Carefully placed irrigation and sewage systems
+	- Dedication of areas for commerce, entertainment, and residentials
+### Egypt
+- Pyramids were built on in response to the sun, direction of the Nile, and the stars
+	- Used for rituals, death-related practices
+- Deceased kings and queens were inside the pyramids through a network of passageways
+- Caskets that contained mummies of the deceased king and queens
+	- Embalming
+	- Egyptians believed that upright people could carry on to eternity
+### Souls and Afterlife
+- Concept of "ka" (soul)
+- Needs a body/container
+- Mummified body/sculpted likeness
+- Back when mummification was on trial and error stage and bodies might decompose
+	- Next best thing: monuments/sculptures of the person's likeness
+	- These sculptures were obtained from mortuary temples
+	- Apotheosis
+	- Preserve the lineage of the kings and queens -> immortalizing them
+### Sculptures
+- Menkaure and Queen
+	- Striding forwards towards the afterlife
+	- Woman's support is important in the success of the royal pharaoh
+- Bodies followed ideal Egyptian society's form
+	- Likely that faces were accurate, but bodies were not and simply followed a template
+	- Physical attributes were important in a time of warfare
+	- Average citizen did not see the kings and queens, so a powerful image is to be projected onto them years to come
+		- To deify the kings and queens as near-divine beings
+		- They are not projected as humans, rather as gods
+	- Fit, powerful, energetic, healthy---perfect containers for the souls
+		- Forever young
+- How do we know how the sculptures are garmented?
+	- Parts covered by garments are less detailed, smoother
+- "Maat" - harmony
+	- Harmony between different worlds (human, planets, gods)
+	- The Egyptians believed that they had harmony over the cosmic scheme of things
+	- Their formulas were working for Egypt
+	- As such, no need to change conventions
+- Hatshepsut - first female pharaoh
+	- Portrayed the same way as males
+	- To continue using the formula
+		- Same proportions, heights, dimensions, etc.
+- Figures were formal, none had a casual pose
+	- Facing forward, straight, stiff
+	- In contrast to images of regular citizens (not all Egyptian art is formal!)
+### Materials
+- Black schist
+- High relief -> highly protruding from the base stone

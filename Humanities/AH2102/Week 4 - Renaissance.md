@@ -1,0 +1,88 @@
+- 1300s-1600s
+- Protestanism challenges the Catholic Church
+- Humanism spreads
+- Church is weakened
+- Artists and philosophers were allowed to think outside the framework of the church
+### Humanism
+- Philosophical stance that emphasizes value of human beings
+- Critical and rational thinking over traditional doctrine or faith
+- Respect for classical antiquity thinkers
+### Art Production: Patrons, Artists, Contracts, and Materials
+##### Art Patronage
+- Medicis
+	- Cosimo, Piero, and Lorenzo (1434-92, Bankers to the Pope)
+- Most art was ecclesiastical
+	- Private commissions, public consmption
+- Serves the glory of God
+	- pictures as tools of devotion, meditation, instruction
+		- religious photos are ways of instruction and education
+- Honour the city
+	- Altarpieces, family chapels
+- Commemoration of self
+	- This was the view on commemorating one's self to art
+	- Donors and artists would insert themselves in artworks
+- Artists were itinerant
+- Italy was a set of city-states, had each set of eminent patrons outside of Florence
+##### Artists: Bottega System
+- Workshop system
+- Having a master, apprentice, junior-apprentice
+- Workshops affiliated to Painters' guilds
+##### Commissions
+- Factors added into costs:
+	- Material cost
+	- Painting size
+	- Difficulty of work
+	- Labour
+- Before Renaissance: artists were anonymous craftsmen, did not have the power to negotiate
+	- This changed during the Renaissance
+	- In line with the idea of individualism in humanism
+	- Great emphasis on master artists
+##### Chief materials during Renaissance
+- Early Renaissance
+	- Egg yolk as protein binder for pigments
+	- Plaster binded to the chapel walls and ceilings
+- High Renaissance
+	- Oil paints
+- Precious pigments
+	- Gold
+	- Silver
+	- Ultramarine (Lapis Lazuli)
+		- ROBOUTE GUILLIMAN!!!
+		- Gem-like quality: draws attention to a principle figure our object
+		- Different from German blue
+- Change in use of gold to "brush"
+	- Start in emphasis of skill vs the show of wealth beforehand
+	- Move from religious experience to the real experience
+### Humanism in Art: Naturalism and Perspective
+- Renaissance: Rebirth of Greek and Roman ideals
+- Rejection of Middle Age art
+	- Human body proportions, space, was "wonky" as a way of symbolism
+- Scientific theory of realism
+	- Linear perspectives
+	- Brunelleschi
+		- Perspective experiments
+		- Created easy-to-follow yet effective rules for perspective
+##### Delivering of Keys by Pietro Perugino
+- Christ giving keys to St. Peter
+- Two perspectives:
+	- Christ giving the keys of the Kingdom of Heaven to Peter
+	- Christ legitimizing the power of the Pope as an heir of Peter
+- Harmony, symmetry in figures and buildings in the painting
+- Farther figures are  smaller and less sharp, creating illusion of distance and depth
+	- Atmospheric perspective
+	- Focuses on the main figures of Jesus and the Apostles
+- Chessboard-like floor that recedes backwards and "disappears" towards a vanishing point
+	- At the door of the cathedral on the background
+	- Single-point perspective
+		- Single angle view of the artwork
+		- Versus other systems of perpsectives: e.g. Munghal art
+- Use of chiaroscruo
+	- Interplay of light and dark to suggest depth
+	- Heavy use in fabric
+- Figures mimic the contraposto stance of Greek artworks to emphasize dynamism and movement
+- Storytelling across multiple paintings in the Sistine chapel
+	- Themes could intersect through paintings
+	- Recurring characters and ideas
+	- Symbolism as nods to historical characters
+		- e.g. Arch of Constantine
+		- e.g. Building in middle could be Florence Baptistry, or Octagonal temple in Jerusalem - the same building reappears in multiple paintings by other artists
