@@ -1,0 +1,92 @@
+### States
+- Autonomous regional structures of political, economic, and military rule w/ a central government authorized to make laws and use force to maintain "order"
+- Existed in various forms for thousands of years
+- Monitors and controls citizens' behavior
+- Hierarchies along multiple axes
+	- Inherently hierarchical
+- They actively forge normative notions of gender and sexuality
+- Discourses, institutions, policies, laws/criminalization
+- Domestic spaces and intimate relations under state surveillance and control
+### Nation-states
+- A state where the population has some sense of shared culture, ancestry, and/or destiny as a people
+- Arose in 16th Century Europe
+- The state shapes a national identity through national symbols, rituals, foods, art forms, etc.
+- Linked to ethnic identity
+- Discourse about nation-state itself are gendered
+	- "Motherland" or "Fatherland"
+	- Assigned gendered attributes
+- Women are sometimes portrayed as "cultural carriers" of national identity
+	- Women's dress, speech, sexual behavior as central to national identity
+	- e.g. Greek Cyprus
+- Fears of being "swamped" by groups seen as "undesirable" for nation-state
+- Controls the reproductive capacity of certain women (eugenics), forced sterilization, birth control
+	- e.g. Uyghur women in China
+- Measures encouraging pregnancy for other women
+- Controls the boundaries between groups by regulating marriage and legal status of children
+	- e.g. Prohibition of Mixed Marriages Act in South Africa during apartheid
+- How have (colonial) states created and enforced particular norms around gender and sexuality?
+### Navajo Nation
+- 574 federally recognized American Indian Tribes in the US, including the Navajo
+- Sovereignty over specific territories (as reservations)
+- Part of a legacy of genocide and control by the US government
+	- I played RDR2 prof!
+- Settler colonialism: the ongoing removal and erasure of indigenous peoples in order for the land to be used by settlers
+- Historically matrilineal
+- Historically practiced polygamy
+	- Froced to adopt to Euro-American heteronormative, patriarchal family configurations
+	- Some Dine claimed these configs are part of their tradition to increase legitimacy vis-a-vis the US state
+		- Traditions are always being (strategically) made and remade
+		- "Processes of colonialism have meant remaking the Dine in the image of the white man, but without full benefits and entitlement accorded to white male citizens"
+	- Histories of resistance
+### Hawaii
+- Kingdom of Hawaii overthrown by the US in 1893---Hawaii as US state in 1959
+- "Empire building (and dismantling) involves a reshaping of both local and global gender orders"
+- Indigenous Hawiians (Kanaka Maoli) portrayed as "lazy" by settler colonialists
+	- Derogatory towards Hawaiian masculinity
+- Creation of particular kinds of masculinity through colonial institutions
+	- e.g. Kamehameha School
+	- Militaristic, industrious, hygienic
+	- Mission to colonize outlying islands reinforced the colonial project, but also made room for Hawaiians to push back on stereotypes
+### Indonesia
+- In Dutch-controlled Indonesia:
+	- Categories of colonizer and colonized through forms of sexualcontrol
+- Gender and race-specific sanctions
+- Dutch East India Company (VOC) prevented Dutch women from migrating to (present-day) Indonesia
+	- Gendered stereotypes for women:
+		- Distractions for men
+		- Would have children who are seen as hindrances
+		- Thought women would start side businesses and not benefit the company
+- Selected bachelors from European recruits
+- VOC encouraged European male employees to have local "concubines"
+	- Seen as preventing "unnatural" sexual relations between men
+	- Keeping men in colony
+	- No legal/financial obligations for women or their children
+	- Less expensive for men, so they won't become "poor"
+	- Maintained elite male European dominance
+- When European women did start immigrating, were highly restricted
+	- Emphasis on sexual "threat" that Indonesian men posed
+	- Physical and social boundaries to prevent interactions
+	- Expansion of policing to "protect" white women
+	- White women blamed if they "drew men's attention"
+		- Indonesian men punished, some blame placed on women
+- Postcolonial states tend to promote ideas of gender thought to be compatible w/ "development"
+	- Development is a loaded word
+- Postcolonial Indonesian state drew on Euro-American development paradigms
+	- Women associated with domesticity
+	- May conflict with actual practices
+		- e.g. "Household heads" in Minangkabau communities
+		- According to state law: households need to have registered heads who are only male
+		- However, Minangkabau traced descent matrilineally---elder women were most responsible for household decisions
+			- Nominally followed state ideology---male names were given to the state even if the actual gender dynamic is different
+	- Sexual violence towards non-white women are not classified as such
+### Singapre
+- Policies in Singapore (re)produce heteronormative family configurations
+- Early 20th Century: multiple families often lived in one households
+	- Postcolonial state saw this as impediment to development
+- HDBs as to house nuclear families
+	- Only state-recognized nuclear families (a heterosexual marriage) could be given public housing
+	- HDB BTO flats no accessible for queer couples, unmarried couples (unless over 35), single parents, migrants
+- "Our Home" magazine that campaigned small families
+	- Framed as improving women's lives---though women still take on more childcare and domestic labour in addition to paid work
+	- Classed and race - "graduate" mothers encouraged to have more children
+- Uneven parental leave policies

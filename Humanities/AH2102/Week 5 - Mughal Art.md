@@ -8,7 +8,7 @@
 	- They went from Persia to Kabul to Delhi
 	- *Princes of the House of Timur* painting by Mir Sayyid Ali started on Kabul --- on cloth
 		- Two subjects in the painting (Akbar and Jahangi) were younger than depicted or not born yet (respectively)
-			- Due to these subjects being based on a real person, likely that there has been a repainting ordered by Jahangi---and the insertion of the subject not born during the original creation
+			- Due to these subjects being based on a real person, likely that there has been a repainting ordered by Jahangir---and the insertion of the subject not born during the original creation
 				- Jahangir wanted to insert himself into a long-running proud lineage
 			- Same applies to other subjects in the painting
 			- Inscriptions---signing of artists names much like the self-insertion of Renaissance artists

@@ -1,3 +1,23 @@
-$$
-u=c\sqrt{1-\frac{1}{\left( 1+\frac{eV_0}{mc^2} \right)^2}}
-$$
+- Overview of Ad Astra
+	- "Ad Astra is LeaPs' very own astronomy event, wherein both members of LeaPs and the wider public are  given the chance to participate in space-related activities, culminating in a telescope viewing and stargazing activity. This is an event which aims to bring together members of the astronomy community, while also introducing astronomy to those unfamiliar to the field."
+	- Open to the public
+	- Tentative date: April 7 (possibly start at a later date to allow for more time?)
+- Program overview
+	- Two parts: Astronomy talks/activities, then stargazing activity
+	- Astronomy talks:
+		- Invite speakers who participate in the field
+		- Have 1 to 2 talks
+	- Audience participation activities
+		- Icebreaker games, quiz portion, etc.
+	- Telescope viewing
+		- UP AstroSoc-provided telescopes
+		- Stargazing activity (like what PAS did before)
+- Logistics Committee Tasks and Expectations:
+	- Tasks:
+		- Booking venues
+			- Venue Set 1: Manila Observatory Heyden Hall, Manila Observatory Roofdeck
+			- Venue Set 2: SEC-C Lecture Hall, SEC Field
+			- Venue Set 3: SEC-C Lecture Hall, SEC Walk
+		- Coordination w/ CSMO regarding entering of visitors into campus
+		- Food for speakers (and possibly, UP AstroSoc members and core team)
+		- 

@@ -1,0 +1,84 @@
+### Gendered Labour
+- Beyond care work, many kinds of labour are assumed to "naturally" be the purview of women or men
+- Varies based on cultural context
+	- e.g. doctors in Japan vs. Russia
+- and historical period!
+	- e.g. computer programmers in the US
+	- Primarily women mathematicians made programs (software design used be thought of as menial work)
+- These can intersect---for Russia, back in the Soviet period, they tried to balance workforce>as a consequence, medicine became feminized
+- Some forms of labor are gendered based on who it is performed for
+	- Different degrees of prestige
+	- e.g. cooks vs. chefs (cooking in home is done by women, cooking for high prestige restaurants is done by men)
+	- Assumptions reinforce practices, which reinforce assumptions
+- Forms of labour can be central to gendered identities
+	- Discourse of gender can sometimes hide other forms of inequality
+	- e.g. masculinity and fishing industry in Canada (to be a "real man" is to fish)
+### Transformations
+- Deepening integration of rural spaces in Global South into capitalist markets
+- Agricultural livelihoods increasingly untenable in a lot of places
+- Rural to urban migration for work
+	- especially for youth, often women,
+	- e.g. Cambodia
+- Expansion of global production and trade under neoliberalism
+- Offshoring---factories from Global North moved to Global South
+	- Gendered labour (e.g. men in construction, women in garment factories)
+	- Women thought to be more "docile" employees
+- Public anxieties over large nmbers of women living alone
+- National discourses (related to colonialism) about
+### Gender pay gap
+- Globally, women are paid 37% less than men
+- Not a single country where women and men are paid equally
+- If change takes place at current rate: takes 217 years to close gap
+- Gap is widening
+	- Racial pay gaps also present
+- Women disproportionally affected by COVID
+	- Higher rates of unemployment than men
+	- Less likely to have substantial savings---more likely to be in poverty
+	- Overrepresented in "essential" fields, had exposure to virus
+	- Burdens of unpaid care work
+- In Singapore (2023, Ministry of Manpower study)
+	- Women earn 14.3% less than men
+	- Men are overrepresented in high paying jobs
+	- For same work, women earn 6% less
+### Glass Ceiling
+- Barriers that prevent women from occupying high positions in workplace hierarchies
+- Glass ceiling for queer people as well
+- Pressures to conform to dominant gender norms
+- Anxieties over revealing sexual orientation on the job
+- In many contexts:
+	- Conflation of attributes associated with men with positive leadership atributes
+	- Cisgendered, straight, upper class, racially privileged men
+	- Makes it seem like employers are simply promoting the "best" candidate
+- In many contexts, having children interrupts women's career trajectories
+	- Women are more likely to be primary care giver
+	- Shot or unpaid maternal leave policies (or no leave policies!)
+	- Discrimination against pregnant women in hiring and promotion
+	- Reentering workforce means starting at bottom
+	- Counterexample: Finland
+### Neoliberal feminism
+- Reconizes some forms of gender inequality (pay gaps, glass ceilings)
+- Emphasizes women's individual responsibility for success and wellbeing
+- Emphasizes women's leadership in corporate (girlboss)
+	- e.g. Sheryl Sandberg of Facebook, *Lean In*
+- Doesn't account that women can have conflicted interested based on class, race, etc.
+	- Under capitalism, even most supportive female leaders won't be able to improve lives of many women
+	- Capitalism is predicated on fundamentally unequal relations (neoliberal feminism ignores this)
+- Many feminists call for broader structural changes
+### Objectification
+- Treating a person as a tool, denying autonomy and experiences,reducing them to their body (Liu, p. 329)
+	- Objectification of women prevalent in many spheres, e.g. media
+		- Central to many marketing campaigns
+- Overtly part of some jobs --- "sex as work"
+	- e.g. Airline attendants in US, mid-20th century
+	- Explicitly catering to male business travelers
+	- Requirements regarding marital status, age
+- Activism to address these issues
+	- e.g. Stewardesses for Women's Rights founded in 1972
+	- Consciousness raising and legal actions
+	- Removed requirements and changed uniforms
+- Job segregation and male treatment of female employees in white-collar jobs in China
+- Women's agency
+- Linked to sexual harassment and assault
+- Women's claims about sexual harassment and assault often ignored or denied
+	- Activism to address these issues
+	- e.g. MeToo movement

@@ -20,7 +20,7 @@
   "autofractionSymbol": "\\frac",
   "autofractionBreakingChars": "+-=\t",
   "matrixShortcutsEnabled": true,
-  "taboutEnabled": false,
+  "taboutEnabled": true,
   "autoEnlargeBrackets": true,
   "wordDelimiters": "., +-\\n\t:;!?\\/{}[]()=~$",
   "autofractionExcludedEnvs": "[\n\t\t[\"^{\", \"}\"],\n\t\t[\"\\\\pu{\", \"}\"]\n\t]",

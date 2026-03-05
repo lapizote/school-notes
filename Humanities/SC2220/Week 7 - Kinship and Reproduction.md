@@ -1,0 +1,33 @@
+### Descent
+- Different ways to determine "important" kin
+	- Bilateral descent: ancestry through both lines
+	- Patilineal descent: ancestry through male line
+	- Matrilineal descent: ancestry through female line
+- Shapes inheritance, and other issues of access to resources
+- Often correlates with where married couples reside (patri-/matrilocality)
+- Patrilineal descent can place women in positions of less power compared to bilateral or matrilineal descent
+	- Sometimes, women are expected to help bolster the male's family
+	- Women have less chances of inheriting material property
+- Specific roles and responsibilities in relation to particular kin, often based on gender
+- Gendered understandings of how certain kin "should" behave
+	- e.g. In Cambodia, men are expected to go through monkhood (temporarily); women are to be caretakers
+	- Gendered norms are changing due to environmental changes
+	- Sexual double-standards: pre-marital sex and the familial "shame" is less on sons and more on daughters
+### Marriage
+- Creates relationships between people in the marriae, as well as between families (in-laws)
+- Monogamy: one spouse
+	- Typically what is recognized by the state
+- Polygamy: multiple spouses (different from polyamory)
+	- Polygyny: multiple wives
+	- Polyandry: multiple husbands
+		- Practiced in Tibet---husbands are brothers
+		- Wealthy families did this to help keep land through a larger nuclear family unit
+- Formality and priority given to marriage varies based on context
+- Marriage has been a key component of patriarchy
+	- In many cases---women legally and socially under male control
+	- e.g. coverture in England -> a woman did not have a legal identity (a dependent on her father or husbad)
+	- Marital rape was not recognized (in the US, until the 1980s)
+- Same-sex couples legally excluded from marriage in many contexts
+	- Matters for both social recognition and material benefits
+	- Marriage often seen as key to adulthood
+	- Negotiate around these constraints

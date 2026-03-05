@@ -1,0 +1,53 @@
+- Took a while for monks, debutees, believers, to engage in dialogue and document and consolidate Buddha's teachings
+	- To translate the Buddha's wishes
+	- To decide what architecture to focus on
+### Symbolism of Stupa
+	- Vertical axis symmetrically cutting through the structure
+	- Central axis where the universe pivots around
+- On top, three layer sarapol
+	- The Buddha, the Dharma, the Sangha
+- Fencing around stupa, symbolisms on the Buddha's life episodes and teachings
+- e.g. Sanchi Stupa
+	- Four gateways in four cardinal directions
+	- Visual storytelling (The Great Departure relief)
+		- Tree under which the Buddha achieved enlightenment
+		- Horse had parasol, did not have when returning
+		- Contrast of the royal palace on the left and the feet shape on the right
+		- Every character is there, but where is the Buddha?
+### Why Aniconism?
+- Buddha's own wish on deathbed: focus on taechings/doctrines
+- Multiple theories as to why the Buddha was not depicted
+- Popular theory: no blueprint for his depiction---If you depict Buddha as a finite human form, is it direspectful?
+	- Disrespectful to represent one who had attained nirvana, beyond all human aspirations
+	- Artistic dilemma on how to represent the saint-teacher: bodily form or supernatural being?
+	- 500 years before the first depiction of Buddha
+- The Buddha was not meant to appear on the reliefs
+	- Recreates locations in the Buddha's life, only recreating his prescence
+	- Recreating the Buddhist pilgrimage
+- Alfred Foucher: Buddhists needed workshops that had them interact with Greco-Roman pieces
+	- Figures only came after Greco-Buddhist manifestation
+	- Eurocentric view---why do Buddhists need Greco-Roman references?
+### Two Streams of Buddhism
+- Schism in 1st Century AD
+- Theravada: Teaching of the Elders, original teachings of Buddha
+- Mahayana: Larger vehicle, response to spiritual needs on growing number of Buddhist devotees
+	- Not everyone has the capability to intellectually understand alone, need existence of bodhisattvas/compassionate beings to postpone enlightenment to help others attain salvation
+	- Pictorial representations of Buddha and other beings---this made it important for Buddhist visual arts
+### Two Cultural Systems
+- Summer Capital: Begram, Afghanistan (coins with Iranian deities, Greek goddesses, Buddha)
+	- Art is Greco-Roman style, naturalistic
+	- Workshops that had different styles (Greco-Roman, Persians, etc.)
+	- Early representations of Buddha had inspiration from Roman portraiture
+- Winter capital: Mathura, northern Indian plains (coins with Hindu Gods, Buddha and Brahmi script)
+	- Highly idealized and poetic
+- Highly flexible
+- Comparison between visual traditions:
+	- Idealized naturalized form, fully draped vs more poetic less draped
+	- Top-knot is different for each workshop
+	- In another sculpture, mixes ideas where Buddha is fully draped but the bodily form is more legible (see-through)
+	- Gradient between anatomical perfection and poetic ideal
+		- The Buddhas was never meant to be conceived as a normal human being, rather someone who has ascended from the material realm
+- 32 Characteristics of the Buddha, built up over years of dialogue over how the Buddha is conceived beyond symbolisms in Aniconism
+	- Ushnisha - cranial bump on head that symbolizes wisdom through meditation
+	- Urna
+	- Elongated earlobes - alluding to his past life as a prince in luxury (heavy jewelled earrings)

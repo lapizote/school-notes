@@ -1,0 +1,107 @@
+### Capitalism
+- Economic system where everyone relies on buying goods and services
+- Means of production are privately-owned
+- Means of production:
+	- Land, resources, equipment, anything to produce commodities
+- A few own the means of production (bourgeoisie)
+- Most people don't (proletariats)
+	- They have to sell their labour power (i.e. work for wages) or rely on someone who does
+- The owner of the means of production keeps the vast share of the money generated through labour
+- Arose in England in the 15th century due to changing property relations
+	- Expanded in tandem with industrial revolution, colonialism, transatlantic slave trade
+		- Has an expansionist narrative/logic
+	- Relied on low paid and forced labour of women in workplaces
+		- Feminized labour
+- Created division between "public" and "private" spheres
+	- Division between work and leisure
+- Women associated with "private" sphere
+- Linked to the rise of the heterosexual nuclear family
+- In mid-20th century, states in Global North played an active role in regulating capitalism
+	- Not a golden age (as there are many inequalities)
+	- But stronger worker protections than today
+	- Relatively robust social services
+### Neoliberalism
+- Prevalent ideology in contemporary capitalist contexts
+- Idea that free trade and private property rights i ideal
+- State's job is limited to creating and protecting institutional framework
+	- Deregulation
+- Started in 1970s in US and UK
+- 1980s and 1990s: countries in Global South were pressured to adopt neoliberal economic policies
+- Reduced worker, consumer, environmental protections
+- Public assets and services become owned/operated by private companies
+	- Service provision about maximizing profits
+	- Social welfare programs reduced or "reformed"
+- Massive expansion of financial institutions (e.g. banks, stock brokerages, insurance companies)
+- Throughout the globe, finance increasingly embedded into people's daily lives
+- High levels of debt (credit cards, microfinance loans, etc.)
+- Particular set of ideas about personhood
+	- Individuals as self-sufficient, autonomous entities
+	- Freedom and rights to participate in markets
+- Enterpreneurialism; to "pull oneself up by the bootstraps"
+	- Competition is seen as a good thing
+### Social Reproduction
+- Activities that sustain current work force and reproduce the next
+- Caring for oneself and others, maintaining spaces, organizing resources
+	- "The fleshy, messy and indeterminate stuff of everyday life"
+- Predominantly performed by women for little to no pay
+	- Unrecognized/devalued form of labor, even though it is necessary and underpins capitalist economies
+- Under neoliberalism: little state support
+	- Disproportionally negatively affects women (esp. marginalized)
+	- Pressure to engage in wage labour, but not paid enough to pay someone else to do work of social reproduction
+		- In some countries, domestic help is kept cheap, at the expense of the workers themselves
+	- Financial burden of meeting needs related to social reproduction
+### Quality of Life
+- 1990 study: women in capitalist West Germany has half as much orgasms as women in communist East Germany
+- With few social supports, heightened pressures on women
+	- Long work hours; financial instability
+	- Leads to reliance on men to have enough money
+- Not a golden age, but:
+	- Research with women from Soviet bloc states shows that state support for social reproduction improves women's lives
+	- Maternity leave policies, guaranteed free childcare, public laundries, people's canteens, etc.
+	- Less reliance on men; less stress on meeting basic needs
+### Welfare Reform
+- Davis' article
+- Women (and others) who need welfare are blamed for reliance on the state
+- Reforms mandate that people work while receiving assistance
+	- Part of a broader trend of market-oriented solutinos to poverty
+	- Overlooks gendered structural and personal conditions, as well as work of social reproduction
+- Battered black women forced into low-end service sector jobs
+	- To fill in low wage gaps, beneficial only to the economic system
+	- Keeps them, and their children, in poverty
+- Deeply racialized policies
+- Perpetuates the image of the Mammy
+### Microfinance
+- Provision of small loans to people who previously didn't have access to formal financial services
+- Primarily in the Global South
+- Frequently targeted at women (nominally) for "empowerment"
+	- Major market-based development intervention (nominally) aimed at reducing poverty
+- Started in Grameen Bank in Bangladesh
+	- Group lending to poor women to start small enterprises
+	- A non-profit model, backed by donors and/or state
+- In early 2000s, rapid global expansion
+- Switches to a "financial sustainability" (i.e. for-profit) model
+	- Loans increasingly backed by international banks; huge profits
+	- High interest rates for borrowers
+	- Women thought to be more financially responsible than men
+- Follows the logics of neoliberalism
+	- Women should become entrepreneurs to lift their families out of poverty
+	- Reorganize their lives around market transactions
+- Kar's Article
+	- "Individual" loans actually require male kin guarantors
+	- Reinforces gender hierarchies
+	- MFIs ensure profits by relying on kinship relations
+- Nominally about creating productive enterprises, bu that's not always possible
+- When states don't support social reproduction, loans can become a means of securing basic needs
+	- High levels of indebtedness
+	- e.g. Cambodia
+- Pig farms featured in MFI promotional materials
+	- Local competition; prices undercut by imports from global market
+	- "Whenever villagers need a loan, but don't have a business plan, we just tell the MFIs that we want to raise pigs" --- even though it's just for basic needs
+		- (MFI Officers know the truth but give the loans anyways)
+- Often used to cover expenses related to social reproduction
+- Semi-privatization of health care and education make these huge expenses
+- Also for food, house repairs, weddings, funerals, etc.
+- Majority of loans paid back by wages
+- Youth migrate out of village to find waged work
+- Around a quarter of Cambodian households are overindebted
+- Coerced to sell land to repay

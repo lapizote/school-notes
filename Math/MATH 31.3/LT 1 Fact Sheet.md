@@ -1,2 +1,2 @@
-![[series test.PNG]]
+s![[series test.PNG]]
 ![[maclaurin series.PNG]]
